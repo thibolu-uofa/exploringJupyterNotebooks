@@ -1,0 +1,11 @@
+{
+    "clone_destination": "/home/diany/repos/data",
+    "path_cloned_active_repos_SE_purpose": "/media/diany/Seagate Expansion Drive/Seagate/nb_active_SE_purpose_repos",
+    "path_cloned_active_repos_non_SE_purpose": "/media/diany/Seagate Expansion Drive/Seagate/nb_active_non_SE_purpose_repos",
+    "path_cloned_active_repos_SE_py_purpose": "/home/diany/repos/data/SE_py",
+    "path_cloned_active_repos_non_SE_py_purpose": "/home/diany/repos/data/non_SE_py",
+    "kaggle_dataset": "/home/diany/repos/data/Kaggle_notebooks",
+    "analyze_data_pevious_to": "04/27/2024",
+    "dataset_AI_split_previous_to": "01/01/2018",
+    "email": "your_email@gmail.com"
+}
