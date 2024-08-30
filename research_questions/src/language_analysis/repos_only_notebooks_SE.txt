@@ -1,0 +1,15 @@
+Baiyuetribe/paper2gui
+LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms
+camenduru/stable-diffusion-webui-colab
+deepmind/neural-processes
+fastai/imagenette
+gboeing/osmnx-examples
+harveyslash/Facial-Similarity-with-Siamese-Networks-in-Pytorch
+microsoft/Microsoft-365-Defender-Hunting-Queries
+mxrch/penglab
+priiyaanjaalii0611/ASL_to_English
+rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy
+someshkar/colabcat
+tjwei/GANotebooks
+umutisik/Eigentechno
+yaringal/multi-task-learning-example

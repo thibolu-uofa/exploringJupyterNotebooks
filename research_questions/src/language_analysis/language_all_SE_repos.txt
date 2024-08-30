@@ -1,0 +1,106 @@
+Python 41338
+Plain Text 26670
+Markdown 16032
+CSV 13396
+YAML 13127
+JSON 9956
+Jupyter 8631
+Shell 3181
+SVG 2972
+JavaScript 2372
+TypeScript 2305
+ReStructuredText 1989
+C Header 1883
+C++ 1571
+HTML 1344
+XML 697
+gitignore 678
+CloudFormation (YAML) 638
+License 450
+CSS 436
+C 425
+Dockerfile 383
+Makefile 339
+Java 300
+C++ Header 277
+C# 265
+Julia 226
+Kotlin 217
+Swift 214
+MATLAB 199
+Powershell 194
+CMake 172
+Protocol Buffers 172
+Autoconf 159
+Scala 158
+LEX 145
+Lua 138
+Sass 136
+Gradle 124
+LESS 121
+Q# 119
+Batch 109
+TCL 106
+Svelte 99
+MSBuild 93
+Patch 92
+Docker ignore 83
+Properties File 82
+TOML 78
+Go 71
+SQL 69
+BASH 67
+Cython 57
+PHP 53
+JSX 52
+Bazel 48
+R 44
+Verilog 41
+Terraform 40
+VHDL 37
+JSONL 32
+Prolog 30
+TypeScript Typings 30
+TeX 29
+Smarty Template 28
+Ruby 28
+Racket 26
+LaTeX 26
+GLSL 26
+Perl 24
+Rust 23
+Vue 16
+Assembly 16
+Jinja 14
+Device Tree 14
+Go Template 12
+Flow9 11
+Bitbake 10
+Systemd 10
+Report Definition Language 10
+Gemfile 7
+SystemVerilog 6
+Objective C++ 4
+DOT 3
+Clojure 3
+nuspec 3
+Vim Script 3
+BuildStream 2
+Nix 2
+D 2
+Rakefile 2
+CloudFormation (JSON) 2
+Org 2
+Mako 2
+Objective C 1
+Gherkin Specification 1
+Alex 1
+Haskell 1
+Dart 1
+Blade template 1
+Stylus 1
+Visual Basic for Applications 1
+F# 1
+Document Type Definition 1
+Module-Definition 1
+ignore 1

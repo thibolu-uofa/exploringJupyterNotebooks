@@ -1,0 +1,153 @@
+Jupyter 27827
+Markdown 25697
+Python 25660
+CSV 24226
+Plain Text 21008
+JavaScript 4399
+HTML 3930
+C++ 3504
+JSON 3086
+Java 2543
+YAML 2039
+Shell 1831
+MATLAB 1515
+XML 1073
+gitignore 1057
+C 891
+CSS 854
+R 699
+QML 696
+ReStructuredText 580
+Scala 516
+C Header 444
+SQL 426
+Dockerfile 421
+Julia 412
+License 400
+Sass 315
+Go 292
+Swift 283
+PHP 268
+Properties File 194
+Makefile 189
+TeX 182
+LaTeX 173
+C# 164
+Batch 157
+Ruby 133
+Terraform 124
+Kotlin 122
+Dart 118
+Q# 108
+CloudFormation (YAML) 108
+TypeScript 105
+CMake 89
+Protocol Buffers 75
+BASH 74
+Gradle 73
+Rust 71
+Lua 69
+TOML 67
+Docker ignore 64
+Vue 58
+C++ Header 57
+MSBuild 56
+Haskell 56
+Verilog 51
+Jinja 42
+DOT 36
+Autoconf 36
+LESS 34
+Assembly 34
+Perl 32
+SRecode Template 31
+Xcode Config 30
+Powershell 29
+TCL 28
+Brainfuck 28
+Objective C 28
+JSX 26
+Pascal 22
+Prolog 22
+VHDL 20
+Smarty Template 18
+Elixir 17
+Cython 16
+Stata 14
+JSONL 13
+XML Schema 12
+LEX 12
+Crystal 11
+F# 11
+CoffeeScript 10
+Processing 10
+Nim 10
+CloudFormation (JSON) 10
+Go Template 9
+Arvo 9
+Stylus 9
+PureScript 9
+Haxe 8
+Patch 8
+Lisp 8
+JavaServer Pages 8
+LOLCODE 7
+OCaml 7
+Clojure 7
+Groovy 7
+Visual Basic for Applications 7
+GDScript 6
+HEX 6
+Flow9 6
+SystemVerilog 5
+Gemfile 5
+Org 4
+Racket 4
+Wolfram 4
+Gherkin Specification 3
+Visual Basic 3
+Ada 3
+Objective C++ 3
+Erlang 3
+Fish 3
+Puppet 3
+Standard ML (SML) 2
+ColdFusion 2
+Module-Definition 2
+FORTRAN Legacy 2
+Elm 2
+D 2
+Happy 2
+Boo 2
+ASP 2
+TypeScript Typings 2
+COBOL 2
+Game Maker Language 2
+Robot Framework 1
+ABAP 1
+Blade template 1
+Basic 1
+ReasonML 1
+ClojureScript 1
+Android Interface Definition Language 1
+m4 1
+Solidity 1
+Extensible Stylesheet Language Transformations 1
+BuildStream 1
+Systemd 1
+LLVM IR 1
+ColdFusion CFScript 1
+Lean 1
+Korn Shell 1
+Jade 1
+Swig 1
+Idris 1
+Twig Template 1
+GLSL 1
+Agda 1
+Forth 1
+APL 1
+AsciiDoc 1
+AutoHotKey 1
+AWK 1
+Ceylon 1
