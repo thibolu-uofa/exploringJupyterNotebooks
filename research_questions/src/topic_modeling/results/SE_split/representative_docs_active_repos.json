@@ -1,0 +1,5577 @@
+{
+    "-1": [
+        "Deploy trained algorithm and set input-output configuration for inference",
+        "Delete them, so they can be re-created by the higher level Kubernetes objects",
+        "Delete them, so they can be re-created by the higher level Kubernetes objects"
+    ],
+    "0": [
+        "Common functions",
+        "Common functions",
+        "Common functions"
+    ],
+    "1": [
+        "Parameters",
+        "Parameters",
+        "Parameters"
+    ],
+    "2": [
+        "Notebook CI Test Results",
+        "Notebook CI Test Results",
+        "Notebook CI Test Results"
+    ],
+    "3": [
+        "Get the Kubernetes namespace for the big data cluster",
+        "Get the Kubernetes namespace for the big data cluster",
+        "Get the Kubernetes namespace for the big data cluster"
+    ],
+    "4": [
+        "Instantiate Kubernetes client",
+        "Instantiate Kubernetes client",
+        "Instantiate Kubernetes client"
+    ],
+    "5": [
+        "Import Libraries",
+        "Import Libraries",
+        "Import Libraries"
+    ],
+    "6": [
+        "Querying Elasticsearch",
+        "Querying Elasticsearch",
+        "Querying Elasticsearch"
+    ],
+    "7": [
+        "Initialize Elasticsearch client",
+        "Initialize Elasticsearch client",
+        "Initialize Elasticsearch client"
+    ],
+    "8": [
+        "Run Elasticsearch Query",
+        "Run Elasticsearch Query",
+        "Run Elasticsearch Query"
+    ],
+    "9": [
+        "Rule Content",
+        "Rule Content",
+        "Rule Content"
+    ],
+    "10": [
+        "Show Results",
+        "Show Results",
+        "Show Results"
+    ],
+    "11": [
+        "Get the namespace for the big data cluster",
+        "Get the namespace for the big data cluster",
+        "Get the namespace for the big data cluster"
+    ],
+    "12": [
+        "Setup",
+        "Setup",
+        "Setup"
+    ],
+    "13": [
+        "Mann-Whitney-U",
+        "Mann-Whitney-U",
+        "Mann-Whitney-U"
+    ],
+    "14": [
+        "**DSPy Assertions**: Asserting Computational Constraints on Foundation",
+        "**DSPy Assertions**: Asserting Computational Constraints on Foundation Models",
+        "**DSPy Assertions**: Asserting Computational Constraints on Foundation Models"
+    ],
+    "15": [
+        "Get name of the \u2018Running\u2019 `controller` `pod`",
+        "Get name of the \u2018Running\u2019 `controller` `pod`",
+        "Get name of the \u2018Running\u2019 `controller` `pod`"
+    ],
+    "16": [
+        "Important: This Colab Notebook is obsolete! Please use `lite` `stable` `nightly` versions for the latest updated Colab Notebooks.",
+        "Important: This Colab Notebook is obsolete! Please use `lite` `stable` `nightly` versions for the latest updated Colab Notebooks.",
+        "Important: This Colab Notebook is obsolete! Please use `lite` `stable` `nightly` versions for the latest updated Colab Notebooks."
+    ],
+    "17": [
+        "Steps",
+        "Steps",
+        "Steps"
+    ],
+    "18": [
+        "nan",
+        "nan",
+        "nan"
+    ],
+    "19": [
+        "Conclusion",
+        "Conclusion",
+        "Conclusion"
+    ],
+    "20": [
+        "Python",
+        "Python",
+        "Python"
+    ],
+    "21": [
+        "Analyze log entries and suggest relevant Troubleshooting Guides",
+        "Analyze log entries and suggest relevant Troubleshooting Guides",
+        "Analyze log entries and suggest relevant Troubleshooting Guides"
+    ],
+    "22": [
+        "Get tail for log",
+        "Get tail for log",
+        "Get tail for log"
+    ],
+    "23": [
+        "Code",
+        "Code",
+        "Code"
+    ],
+    "24": [
+        "Introduction",
+        "Introduction",
+        "Introduction"
+    ],
+    "25": [
+        "Create a temporary directory to stage files",
+        "Create a temporary directory to stage files",
+        "Create a temporary directory to stage files"
+    ],
+    "26": [
+        "Clean up temporary directory for staging configuration files",
+        "Clean up temporary directory for staging configuration files",
+        "Clean up temporary directory for staging configuration files"
+    ],
+    "27": [
+        "Imports",
+        "Imports",
+        "Imports"
+    ],
+    "28": [
+        "Neural Network",
+        "Neural network",
+        "Neural network"
+    ],
+    "29": [
+        "Contents",
+        "Contents",
+        "Contents"
+    ],
+    "30": [
+        "Forecasting",
+        "Forecasting",
+        "Forecasting"
+    ],
+    "31": [
+        "Overview",
+        "Overview",
+        "Overview"
+    ],
+    "32": [
+        "Export",
+        "|export",
+        "Export"
+    ],
+    "33": [
+        "Helper function to save configuration files to disk",
+        "Helper function to save configuration files to disk",
+        "Helper function to save configuration files to disk"
+    ],
+    "34": [
+        "Prerequisites",
+        "Prerequisites",
+        "Prerequisites"
+    ],
+    "35": [
+        "LMP Utils",
+        "LMP",
+        "LMP"
+    ],
+    "36": [
+        "Create Custom Labeling Workflow",
+        "Create Custom Labeling Workflow",
+        "Create Custom Labeling Workflow"
+    ],
+    "37": [
+        "Get the controller username and password",
+        "Get the controller username and password",
+        "Get the controller username and password"
+    ],
+    "38": [
+        "Production High Side",
+        "Production High side",
+        "Production High side"
+    ],
+    "39": [
+        "Get the namespace for the big data cluster",
+        "Get the namespace for the big data cluster",
+        "Get the namespace for the big data cluster"
+    ],
+    "40": [
+        "Perform Bayesian Optimization",
+        "Run the optimization",
+        "Visualize Bayesian Optimization"
+    ],
+    "41": [
+        "1.1. DGP",
+        "2.1. DGP",
+        "1.1 DGP"
+    ],
+    "42": [
+        "Detailing out the result",
+        "Detailing out the result",
+        "Detailing out the result"
+    ],
+    "43": [
+        "Training",
+        "Training",
+        "Training"
+    ],
+    "44": [
+        "Data",
+        "Data",
+        "\u97f3\u9891\u6570\u636e"
+    ],
+    "45": [
+        "API",
+        "API",
+        "API"
+    ],
+    "46": [
+        "Model Predictions",
+        "Model predictions",
+        "Model predictions"
+    ],
+    "47": [
+        "Train",
+        "Train",
+        "Train"
+    ],
+    "48": [
+        "Description",
+        "Description",
+        "Description"
+    ],
+    "49": [
+        "Color",
+        "Color",
+        "Color"
+    ],
+    "50": [
+        "Load data",
+        "Load Data",
+        "Load data"
+    ],
+    "51": [
+        "Synthetic Data",
+        "Synthetic data",
+        "Synthetic Data"
+    ],
+    "52": [
+        "Convert the model with TF-TRT",
+        "Convert the model with TF-TRT",
+        "TensorFlow C++ Inference with TF-TRT Models"
+    ],
+    "53": [
+        "Distributions",
+        "Distributions",
+        "Distributions"
+    ],
+    "54": [
+        "***Prerequisites*** Your training and regularization datasets are stored in zip files (one per set) in your google drive. Example `training_img_nikop.zip`, `training_img_vmphntd.zip`, `reg_img_man.zip`, `reg_img_aesthetic.zip`. Their names won't matter but you will need their file IDs.",
+        "overrides: ['hydra.verbose=true', 'config=pretrain/supervised/supervised_1gpu_resnet_example.yaml', 'config.DATA.TRAIN.DATA_SOURCES=[disk_folder]', 'config.DATA.TRAIN.LABEL_SOURCES=[disk_folder]', 'config.DATA.TRAIN.DATASET_NAMES=[dummy_data_folder]', 'config.DATA.TRAIN.DATA_PATHS=[/content/dummy_data/train]', 'config.DATA.TRAIN.BATCHSIZE_PER_REPLICA=2', 'config.DATA.TEST.DATA_SOURCES=[disk_folder]', 'config.DATA.TEST.LABEL_SOURCES=[disk_folder]', 'config.DATA.TEST.DATASET_NAMES=[dummy_data_folder]', 'config.DATA.TEST.DATA_PATHS=[/content/dummy_data/val]', 'config.DATA.TEST.BATCHSIZE_PER_REPLICA=2', 'config.DISTRIBUTED.NUM_NODES=1', 'config.DISTRIBUTED.NUM_PROC_PER_NODE=1', 'config.OPTIMIZER.num_epochs=2', 'config.OPTIMIZER.param_schedulers.lr.values=[0.01,0.001]', 'config.OPTIMIZER.param_schedulers.lr.milestones=[1]', 'config.HOOKS.TENSORBOARD_SETUP.USE_TENSORBOARD=true', 'config.CHECKPOINT.DIR=./checkpoints', 'hydra.verbose=true']",
+        "Guide to training an Acme D4PG agent on DM control data."
+    ],
+    "55": [
+        "Notebook scope",
+        "Notebook scope",
+        "Notebook scope"
+    ],
+    "56": [
+        "Dataset",
+        "Dataset",
+        "Dataset"
+    ],
+    "57": [
+        "`#|output:",
+        "Output",
+        "Output"
+    ],
+    "58": [
+        "Libraries",
+        "Libraries",
+        "Libraries"
+    ],
+    "59": [
+        "AutoML with FLAML Library",
+        "Run FLAML AutoML",
+        "AutoML with FLAML Library"
+    ],
+    "60": [
+        "2.a GPU",
+        "GPU",
+        "GPU"
+    ],
+    "61": [
+        "Cleanup",
+        "Cleanup",
+        "Cleanup"
+    ],
+    "62": [
+        "Data Analysis",
+        "4 Data Analysis",
+        "Data Analysis"
+    ],
+    "63": [
+        "Images",
+        "Images",
+        "Images"
+    ],
+    "64": [
+        "2. The Graph",
+        "2 Graph",
+        "Graph"
+    ],
+    "65": [
+        "Run simulation",
+        "5. Simulation",
+        "Simulation"
+    ],
+    "66": [
+        "View captured data",
+        "4.2 View captured data",
+        "View captured data"
+    ],
+    "67": [
+        "Use azdata to show big data cluster status",
+        "Use azdata to show big data cluster status",
+        "Use azdata to show big data cluster status"
+    ],
+    "68": [
+        "Get training statistics",
+        "1 Get statistics",
+        "Statistics"
+    ],
+    "69": [
+        "Instructions",
+        "Instructions",
+        "Instructions"
+    ],
+    "70": [
+        "Modelling",
+        "Modelling",
+        "The Modelling"
+    ],
+    "71": [
+        "Show Results",
+        "Show Results",
+        "Show Results"
+    ],
+    "72": [
+        "Runtime",
+        "Runtime",
+        "Runtime"
+    ],
+    "73": [
+        "Resolution",
+        "Resolution",
+        "Resolution"
+    ],
+    "74": [
+        "Comparison",
+        "Comparison",
+        "Comparison"
+    ],
+    "75": [
+        "Summary",
+        "Summary",
+        "Summary"
+    ],
+    "76": [
+        "Configure the presets for RL algorithm",
+        "Configure the presets for RL algorithm",
+        "View the Algorithm's Configuration"
+    ],
+    "77": [
+        "part 2",
+        "part 3",
+        "part 1"
+    ],
+    "78": [
+        "Step 4: Find Factor Risk Report and Pull Data",
+        "Step 3: Find Portfolio Performance Analytics Report and Pull Data",
+        "Step 3: Find Portfolio Performance Analytics Report and Pull Data"
+    ],
+    "79": [
+        "Background",
+        "Background",
+        "Background"
+    ],
+    "80": [
+        "Examples",
+        "Examples",
+        "Examples"
+    ],
+    "81": [
+        "Load dataset",
+        "Load dataset",
+        "Load dataset"
+    ],
+    "82": [
+        "Add annotations",
+        "Add annotations",
+        "Add annotations"
+    ],
+    "83": [
+        "Installation",
+        "Installation",
+        "Installation"
+    ],
+    "84": [
+        "Going further",
+        "Going further",
+        "Going further"
+    ],
+    "85": [
+        "Word Augmenter",
+        "Word Embeddings Augmenter",
+        "Word Augmenter"
+    ],
+    "86": [
+        "4. Diffuse!",
+        "4. Diffuse!",
+        "5. Diffuse!"
+    ],
+    "87": [
+        "A SageMaker Pipeline",
+        "A SageMaker Pipeline",
+        "A SageMaker Pipeline"
+    ],
+    "88": [
+        "Simple Vector Search Queries with OpenAI Query Embeddings",
+        "Azure AI Search as a vector database for OpenAI embeddings",
+        "OpenAI Setup"
+    ],
+    "89": [
+        "Customize layout",
+        "Customize layout",
+        "Customize the layout"
+    ],
+    "90": [
+        "Mode property",
+        "Mode property",
+        "Mode property"
+    ],
+    "91": [
+        "Import the relevant libraries and configure several global variables using boto3",
+        "Import the relevant libraries and configure several global variables using boto3",
+        "Import the relevant libraries and configure several global variables using boto3"
+    ],
+    "92": [
+        "What is it?",
+        "What is it?",
+        "What is oracle?"
+    ],
+    "93": [
+        "Total Billable Time",
+        "Total Billable Time",
+        "Total Billable Time"
+    ],
+    "94": [
+        "Model Evaluation",
+        "Model evaluation",
+        "Model Evaluation"
+    ],
+    "95": [
+        "Copy certificate configuration to `controller` `pod`",
+        "Copy certificate configuration to `controller` `pod`",
+        "Copy certificate configuration to `controller` `pod`"
+    ],
+    "96": [
+        "Load Data and Preprocess",
+        "Load Dataset and Preprocess",
+        "Load and preprocess the dataset"
+    ],
+    "97": [
+        "Util functions",
+        "Util functions",
+        "Util functions"
+    ],
+    "98": [
+        "Requirements",
+        "Requirements",
+        "Requirements"
+    ],
+    "99": [
+        "1. Set Up",
+        "1. Set Up",
+        "1. Set Up"
+    ],
+    "100": [
+        "Inference",
+        "Inference",
+        "Inference"
+    ],
+    "101": [
+        "Content filtering",
+        "Filtering",
+        "Filtering"
+    ],
+    "102": [
+        "Setting up",
+        "0] Setting Up",
+        "Setting Up"
+    ],
+    "103": [
+        "Demo",
+        "Demo",
+        "Demo"
+    ],
+    "104": [
+        "Import libs",
+        "Import libs",
+        "Imports and libs"
+    ],
+    "105": [
+        "Basics",
+        "Basics",
+        "Basics"
+    ],
+    "106": [
+        "SHAP Values",
+        "SHAP values",
+        "SHAP values"
+    ],
+    "107": [
+        "Search",
+        "Search",
+        "Search"
+    ],
+    "108": [
+        "Install packages",
+        "1.1. Install packages",
+        "2.1. Install packages"
+    ],
+    "109": [
+        "Year: Day of Week Comparison",
+        "Year: Day of Week Comparison",
+        "Year: Day of Week Comparison"
+    ],
+    "110": [
+        "4.3.2 InteractPredictPlot",
+        "4.3.1 InteractTargetPlot",
+        "4.2.1 InteractTargetPlot"
+    ],
+    "111": [
+        "Get events for a kubernetes resources",
+        "Get events for a kubernetes resources",
+        "Get events for a kubernetes resources"
+    ],
+    "112": [
+        "Probability and Log Probability",
+        "Probability and Log Probability",
+        "Probability and Log Probability"
+    ],
+    "113": [
+        "Evaluation",
+        "Evaluation",
+        "Evaluation"
+    ],
+    "114": [
+        "Example",
+        "Example",
+        "Example"
+    ],
+    "115": [
+        "Helper functions",
+        "Helper Functions",
+        "Helper Functions"
+    ],
+    "116": [
+        "Evaluate on the test dataset",
+        "Evaluate on the test dataset",
+        "Evaluate on the test dataset"
+    ],
+    "117": [
+        "References",
+        "References",
+        "References"
+    ],
+    "118": [
+        "$\\log{\\overline{\\mathcal{Z}}}$",
+        "again, $\\log\\sigma_{\\mathcal{Z}}$ is not the same as $\\sigma\\left(\\log{\\mathcal{Z}}\\right)$, which is",
+        "$\\log\\left(\\overline{\\mathcal{Z}}-\\sigma_{\\mathcal{Z}}\\right)$, $\\log\\left(\\overline{\\mathcal{Z}}+\\sigma_{\\mathcal{Z}}\\right)$"
+    ],
+    "119": [
+        "Get the `controller` `fluentbit` container logs",
+        "Get the `controller` `fluentbit` container logs",
+        "Get the `controller` `fluentbit` container logs"
+    ],
+    "120": [
+        "Dataset",
+        "Dataset",
+        "Dataset"
+    ],
+    "121": [
+        "NLSYM DATA",
+        "NLSYM DATA",
+        "NLSYM DATA"
+    ],
+    "122": [
+        "Run the SQL Server log analyzers",
+        "Run the SQL Server log analyzers",
+        "Run the SQL Server log analyzers"
+    ],
+    "123": [
+        "WMI Spawning Windows PowerShell",
+        "Suspicious Encoded PowerShell Command Line",
+        "Suspicious XOR Encoded PowerShell Command Line"
+    ],
+    "124": [
+        "Utilities",
+        "Utilities",
+        "Utilities"
+    ],
+    "125": [
+        "Clean Up",
+        "Clean Up",
+        "Clean Up"
+    ],
+    "126": [
+        "Plot results on a sample",
+        "Plot results on a sample",
+        "Plot results on a sample"
+    ],
+    "127": [
+        "2. Prevent Overfitting",
+        "1. Reduce dimensionality",
+        "2. Reduce the embedding dimensionality"
+    ],
+    "128": [
+        "Amazon SageMaker Model Monitor",
+        "Amazon SageMaker Model Monitor",
+        "Amazon SageMaker Model Monitor"
+    ],
+    "129": [
+        "Importing SavedModel",
+        "Part 5: Export as SavedModel",
+        "Export a SavedModel"
+    ],
+    "130": [
+        "3.4. Deploy run Inference on the fine-tuned model",
+        "4.2. Deploy run Inference on the fine-tuned model",
+        "5.2. Deploy run Inference on the fine-tuned model"
+    ],
+    "131": [
+        "Generate Certificate Configuration file",
+        "Generate Certificate Configuration file",
+        "Generate Certificate Configuration file"
+    ],
+    "132": [
+        "Regressors",
+        "Regressors",
+        "Regressors"
+    ],
+    "133": [
+        "Next, we create our model definitions",
+        "At which layers did the model gather confidence that London is the right answer?",
+        "What other cities/words did the model consider in addition to London?"
+    ],
+    "134": [
+        "Principal Component Analysis on test features",
+        "Input Analysis",
+        "Inference Analysis"
+    ],
+    "135": [
+        "Labels",
+        "Labels",
+        "Labels"
+    ],
+    "136": [
+        "Define the Details of the FRN",
+        "**Vars definitions**",
+        "**Vars definitions**"
+    ],
+    "137": [
+        "Set up the environment",
+        "Set up the environment",
+        "Set up the environment"
+    ],
+    "138": [
+        "Visualization",
+        "Visualization",
+        "Visualization"
+    ],
+    "139": [
+        "Clean up",
+        "Clean up",
+        "Clean up"
+    ],
+    "140": [
+        "TODO: Attach a classification head",
+        "Attach a classification head",
+        "Attach a classification head"
+    ],
+    "141": [
+        "(2) demo for Bilinear model v1.0/1.2/1.3",
+        "(1) For TU models, Bilinear model v1.0/1.2/1.3",
+        "(1) For TU models, Bilinear model v1.0/1.2/1.3"
+    ],
+    "142": [
+        "Train your own Keyword Spotting Model.",
+        "Train your own Keyword Spotting Model.",
+        "Train your own Keyword Spotting Model."
+    ],
+    "143": [
+        "Create Signing Request configuration file",
+        "Create Signing Request configuration file",
+        "Create Signing Request configuration file"
+    ],
+    "144": [
+        "Testing",
+        "Ad-hoc testing q-Scalarized-UCB",
+        "Ad-hoc testing Scalarized-UCB"
+    ],
+    "145": [
+        "Select a context (if not set as a parameter)",
+        "Select a context (if not set as a parameter)",
+        "Select a context (if not set as a parameter)"
+    ],
+    "146": [
+        "Experiment",
+        "Experiment",
+        "Experiment"
+    ],
+    "147": [
+        "Generate certificate",
+        "Generate certificate",
+        "Generate certificate"
+    ],
+    "148": [
+        "Source",
+        "Source",
+        "Source"
+    ],
+    "149": [
+        "NVIDIA Triton Setup with Amazon SageMaker",
+        "NVIDIA Triton Setup with Amazon SageMaker",
+        "Pre-processing and XGBoost model inference pipeline with NVIDIA Triton Inference Server on Amazon SageMaker using Multi-model endpoint(MME)"
+    ],
+    "150": [
+        "We have added the 4 model artifacts from our training jobs!",
+        "\u521b\u5efa\u6a21\u578b\uff0c\u5f00\u59cb\u8bad\u7ec3",
+        "\u521b\u5efa\u6a21\u578b\uff0c\u5f00\u59cb\u8bad\u7ec3"
+    ],
+    "151": [
+        "5.0 \u83b7\u53d6\u6570\u636e",
+        "3.0 \u03a4\u03bf \u03a3\u03cd\u03bd\u03bf\u03bb\u03bf \u0394\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd (Dataset) \u03c4\u03bf\u03c5 \u039c\u03b1\u03b8\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2",
+        "4.0 \u03a4\u03bf \u03a3\u03cd\u03bd\u03bf\u03bb\u03bf \u0394\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd (Dataset) \u03c4\u03bf\u03c5 \u039c\u03b1\u03b8\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2"
+    ],
+    "152": [
+        "IV. Create the data set",
+        "IV. Create the data set",
+        "IV. Create the data set"
+    ],
+    "153": [
+        "Copy file from remote HDFS to local filesystem",
+        "Copy file from local filesystem to remote HDFS",
+        "Copy file from local filesystem to remote HDFS"
+    ],
+    "154": [
+        "Text",
+        "Text",
+        "Text"
+    ],
+    "155": [
+        "Code 2.1",
+        "Code 3.9",
+        "Code 3.2"
+    ],
+    "156": [
+        "Upload dataset to S3",
+        "Upload dataset to S3",
+        "Upload data to S3"
+    ],
+    "157": [
+        "Test Images",
+        "Note: **Replace or add images that you would like to be explained(tested) in the './test_images/' folder.**",
+        "Note: Replace or add images that you would like to be explained(tested) in the './test_images/' folder.**"
+    ],
+    "158": [
+        "Define function to check presence of keys.",
+        "Define function to check presence of keys.",
+        "Define function to check presence of keys."
+    ],
+    "159": [
+        "Create the instruction template",
+        "Create the instruction template",
+        "Create the instruction template"
+    ],
+    "160": [
+        "Deployment options",
+        "Deployment options",
+        "Deployment options"
+    ],
+    "161": [
+        "Data Augmentation",
+        "Data Augmentation",
+        "Adding data augmentation"
+    ],
+    "162": [
+        "Prepare the dataset",
+        "Preparing dataset:",
+        "Prepare the Dataset"
+    ],
+    "163": [
+        "Network 2D embeddings",
+        "Projecting Points from 3D to 2D",
+        "3D"
+    ],
+    "164": [
+        "has to restart kernel for the updates to be applied",
+        "has to restart kernel for the updates to be applied",
+        "has to restart kernel for the updates to be applied"
+    ],
+    "165": [
+        "Explaining the Loss of a Tree Model",
+        "Explaining a non-additive boosted tree logistic regression model",
+        "Explaining a non-additive boosted tree model"
+    ],
+    "166": [
+        "Projecting CATE to a pre-chosen subset of variables in final model",
+        "Projecting CATE to a pre-chosen subset of variables in final model",
+        "Projecting CATE to a pre-chosen subset of variables in final model"
+    ],
+    "167": [
+        "9.3 Classifica\u00e7\u00e3o usando Random Forest",
+        "9.1 Classifica\u00e7\u00e3o usando Decision Tree",
+        "9.2 Classifica\u00e7\u00e3o usando K Neighbors"
+    ],
+    "168": [
+        "Sensitivities Risk Factor 2",
+        "Risk models",
+        "Risk"
+    ],
+    "169": [
+        "Convert model to ONNX",
+        "Run the ONNX model",
+        "Run the ONNX model"
+    ],
+    "170": [
+        "Step 2: Converting PDM to PCM",
+        "Step 2: Define Your Portfolio ID and the Positions You Would Like to Upload",
+        "Step 2: Define Your Portfolio ID and the Positions You Would Like to Upload"
+    ],
+    "171": [
+        "Wait for Spark Session to finish starting",
+        "Wait for Spark Session to finish starting",
+        "Wait for Spark Session to finish starting"
+    ],
+    "172": [
+        "Chunk 2019 December 20",
+        "Chunk 2019 December 15",
+        "Chunk 2019 December 15"
+    ],
+    "173": [
+        "Load pretrained weights",
+        "Load pretrained weights",
+        "Load the pretrained weights"
+    ],
+    "174": [
+        "Audio features:",
+        "Audio",
+        "Audio"
+    ],
+    "175": [
+        "Build Ibor Curve",
+        "Build Ibor Curve",
+        "Build Ibor Curve"
+    ],
+    "176": [
+        "Tar the payload",
+        "Tar the payload",
+        "Tar the payload"
+    ],
+    "177": [
+        "1. Introduction",
+        "1. Introduction",
+        "1. Introduction"
+    ],
+    "178": [
+        "Create Endpoint",
+        "Create endpoint",
+        "Create Endpoint"
+    ],
+    "179": [
+        "Run a SageMaker training job",
+        "Run a SageMaker training job",
+        "Run a SageMaker training job"
+    ],
+    "180": [
+        "License",
+        "License",
+        "License"
+    ],
+    "181": [
+        "Concrete compressive dataset",
+        "Concrete compressive dataset",
+        "Concrete compressive dataset"
+    ],
+    "182": [
+        "Loading an image",
+        "Loading an image",
+        "Loading an image"
+    ],
+    "183": [
+        "Limitations",
+        "Limitations",
+        "Limitations"
+    ],
+    "184": [
+        "Accuracy",
+        "Accuracy",
+        "Accuracy"
+    ],
+    "185": [
+        "Loading the Dataset",
+        "Loading the SST dataset",
+        "Loading the SST dataset"
+    ],
+    "186": [
+        "Purpose",
+        "Purpose",
+        "Purpose"
+    ],
+    "187": [
+        "Connect to your Weaviate instance",
+        "Connect to your Weaviate instance",
+        "Connect to your Weaviate instance"
+    ],
+    "188": [
+        "Run setup script",
+        "The R script",
+        "The inference script"
+    ],
+    "189": [
+        "PRECONDITION CHECK",
+        "PRECONDITION CHECK",
+        "PRECONDITION CHECK"
+    ],
+    "190": [
+        "Permissions and environment variables",
+        "Permissions and environment variables",
+        "Permissions and environment variables"
+    ],
+    "191": [
+        "Process A spawning Process B AND Process B Spawning Process C",
+        "process",
+        "Post-Process Job"
+    ],
+    "192": [
+        "\u6a21\u578b\u6d4b\u8bd5",
+        "\u6a21\u578b\u6d4b\u8bd5",
+        "Now test the Scripted model Scripted model gives us tensors back"
+    ],
+    "193": [
+        "Clean up any files from a previous incomplete run of this notebook",
+        "Clean up any files from a previous incomplete run of this notebook",
+        "Clean up any files from a previous incomplete run of this notebook"
+    ],
+    "194": [
+        "Install the SageMaker Python SDK",
+        "Install the SageMaker Python SDK",
+        "Install the SageMaker Python SDK"
+    ],
+    "195": [
+        "Interactive features",
+        "Interactive Plot",
+        "Interactive"
+    ],
+    "196": [
+        "Upload the trained model artifacts to S3",
+        "Upload model artifacts to S3",
+        "Upload model artifacts to S3"
+    ],
+    "197": [
+        "\u521b\u5efa\u66f4\u5927\u7684\u6a21\u578b",
+        "Create Model Card",
+        "Create Model Card"
+    ],
+    "198": [
+        "Sampling",
+        "Sampling",
+        "Sampling"
+    ],
+    "199": [
+        "Creating Molecular Graphs in Graphein",
+        "Creating Molecular Graphs with Graphein",
+        "Constructing Graphs"
+    ],
+    "200": [
+        "Important Notes:",
+        "IMPORTANT NOTES",
+        "Important Notes:"
+    ],
+    "201": [
+        "Preprocessing",
+        "Preprocessing",
+        "Preprocessing"
+    ],
+    "202": [
+        "This is optional in case you want to use VpcConfig to specify when creating the end points",
+        "This is optional in case you want to use VpcConfig to specify when creating the end points",
+        "This is optional in case you want to use VpcConfig to specify when creating the end points"
+    ],
+    "203": [
+        "Set Configurations",
+        "Set configurations",
+        "Set Configurations"
+    ],
+    "204": [
+        "Extensions",
+        "Extensions",
+        "Extensions"
+    ],
+    "205": [
+        "Visualize CloudWatch Metrics",
+        "Visualize CloudWatch Metrics",
+        "Create a CloudWatch Rule"
+    ],
+    "206": [
+        "Install",
+        "Install",
+        "Install"
+    ],
+    "207": [
+        "Copyright 2018 The TensorFlow Authors.",
+        "Copyright 2018 The TensorFlow Authors.",
+        "Copyright 2018 The TensorFlow Authors."
+    ],
+    "208": [
+        "Post-training Bias",
+        "Post-training Bias",
+        "Post-training Bias"
+    ],
+    "209": [
+        "Set up a toy model",
+        "1. Setting up a toy model",
+        "Setting up a toy model"
+    ],
+    "210": [
+        "Ground Truth Data",
+        "Ground Truth Data",
+        "Ground truth"
+    ],
+    "211": [
+        "ImageNet classes",
+        "ImageNet Class List",
+        "ImageNet classes"
+    ],
+    "212": [
+        "config",
+        "Config",
+        "Config"
+    ],
+    "213": [
+        "Collected Masks",
+        "Segmentation masks",
+        "Visualization of masks"
+    ],
+    "214": [
+        "4.3. Clean Up the endpoint",
+        "4.3. Clean Up the endpoint",
+        "5. Clean up the endpoint"
+    ],
+    "215": [
+        "Plot the time-series",
+        "Plot the time-series",
+        "Time series data"
+    ],
+    "216": [
+        "Download data",
+        "Data download",
+        "Download data"
+    ],
+    "217": [
+        "I. Context",
+        "I. Context",
+        "I. Context"
+    ],
+    "218": [
+        "II. General imports",
+        "II. General imports",
+        "II. General imports"
+    ],
+    "219": [
+        "preparation",
+        "Preparation",
+        "Preparation"
+    ],
+    "220": [
+        "ARIMA Model:",
+        "ARIMA Model:",
+        "ARIMA Model"
+    ],
+    "221": [
+        "1. Use ALS read() to read the current room light",
+        "1. Simple TMP2 read() to see current room temperature",
+        "1. Simple TMP2 read() to see current room temperature"
+    ],
+    "222": [
+        "Log Pandas DataFrame",
+        "From `Pandas` dataframe",
+        "From a `Pandas` dataframe"
+    ],
+    "223": [
+        "Valuation",
+        "Valuation",
+        "Valuation"
+    ],
+    "224": [
+        "Split dataset into train and test sets",
+        "Split dataset into Train and Validation.",
+        "Split the data into train and validation sets"
+    ],
+    "225": [
+        "Reading the data",
+        "Reading the data",
+        "Reading the data"
+    ],
+    "226": [
+        "III. Import datas",
+        "III. Import datas",
+        "III. Import datas"
+    ],
+    "227": [
+        "Answer:",
+        "Answer:",
+        "Answer:"
+    ],
+    "228": [
+        "Clean up resources",
+        "Clean up resources",
+        "Clean up resources"
+    ],
+    "229": [
+        "Mask R-CNN Training and Inference Demo",
+        "Use a CNN",
+        "Mask R-CNN demo"
+    ],
+    "230": [
+        "Attach a previous training job to an estimator",
+        "Attach a previous training job to an estimator",
+        "Attach a previous training job to an estimator"
+    ],
+    "231": [
+        "Extract Features",
+        "Extract Features",
+        "Extract features"
+    ],
+    "232": [
+        "Image format",
+        "Recognized Formats",
+        "Recognized Formats"
+    ],
+    "233": [
+        "method 2",
+        "method 1",
+        "Method:"
+    ],
+    "234": [
+        "Data inspection",
+        "Data inspection",
+        "Data inspection"
+    ],
+    "235": [
+        "Step 2: Initialize HDMI I/O",
+        "Step 2: Initialize HDMI I/O",
+        "Step 2: Initialize HDMI I/O"
+    ],
+    "236": [
+        "TST",
+        "TST",
+        "TST"
+    ],
+    "237": [
+        "Use PyPortfolioOpt",
+        "Use PyPortfolioOpt",
+        "Use PyPortfolioOpt"
+    ],
+    "238": [
+        "Activity Summary",
+        "Activity",
+        "Activity"
+    ],
+    "239": [
+        "6.5. Summarization",
+        "6.1. Summarization",
+        "6.1. Summarization"
+    ],
+    "240": [
+        "Interpretation",
+        "Interpretation",
+        "Interpretation"
+    ],
+    "241": [
+        "Fitting Hidden Markov Models",
+        "Hidden Markov Model",
+        "Hidden Markov Models"
+    ],
+    "242": [
+        "7.1 \u0394\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u039c\u03bf\u03bd\u03c4\u03ad\u03bb\u03bf\u03c5 (\u03bc\u03b5 5 fold CV)",
+        "8.0 \u0394\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03b5\u03bd\u03cc\u03c2 \u039c\u03bf\u03bd\u03c4\u03ad\u03bb\u03bf\u03c5",
+        "7.0 \u0394\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03b5\u03bd\u03cc\u03c2 \u039c\u03bf\u03bd\u03c4\u03ad\u03bb\u03bf\u03c5"
+    ],
+    "243": [
+        "Terminate endpoint and clean up artifacts",
+        "Terminate endpoint and clean up artifacts",
+        "Terminate endpoint and clean up artifacts"
+    ],
+    "244": [
+        "Clean up certificate staging area",
+        "Clean up certificate staging area",
+        "Clean up certificate staging area"
+    ],
+    "245": [
+        "What's next",
+        "What's next",
+        "What's next"
+    ],
+    "246": [
+        "Update the files table with the certificates through opened SQL connection",
+        "Update the files table with the certificates through opened SQL connection",
+        "Update the files table with the certificates through opened SQL connection"
+    ],
+    "247": [
+        "Get the `controller-db-rw-secret` secret",
+        "Get the `controller-db-rw-secret` secret",
+        "Get the `controller-db-rw-secret` secret"
+    ],
+    "248": [
+        "Copy certifcate files from local machine to `controldb`",
+        "Copy certifcate files from local machine to `controldb`",
+        "Copy certifcate files from local machine to `controldb`"
+    ],
+    "249": [
+        "Copy certifcate files from `controller` to local machine",
+        "Copy certifcate files from `controller` to local machine",
+        "Copy certifcate files from `controller` to local machine"
+    ],
+    "250": [
+        "Authentication",
+        "Authentication",
+        "Authentication"
+    ],
+    "251": [
+        "Create alt\\_names",
+        "Create alt\\_names",
+        "Create alt\\_names"
+    ],
+    "252": [
+        "Prepare data",
+        "Prepare data",
+        "Prepare Data"
+    ],
+    "253": [
+        "Amazon SageMaker Clarify",
+        "Amazon SageMaker Clarify",
+        "Amazon SageMaker Clarify"
+    ],
+    "254": [
+        "Cortx Pytorch Integration",
+        "Cortx Pytorch Integration",
+        "Integration"
+    ],
+    "255": [
+        "Why Do We Need the Dataset Adapter?",
+        "Dataset Adapter",
+        "Why Dataset Adapter?"
+    ],
+    "256": [
+        "Install Kubernetes CLI",
+        "Install Kubernetes CLI",
+        "Install Kubernetes CLI"
+    ],
+    "257": [
+        "Send requests",
+        "Requests",
+        "Get Requests"
+    ],
+    "258": [
+        "Inspecting the SavedModel",
+        "Generate a SavedModel",
+        "Inference with SavedModel"
+    ],
+    "259": [
+        "Map initialization",
+        "Map initialization",
+        "Map initialization"
+    ],
+    "260": [
+        "Get endpoint hostname",
+        "Get endpoint hostname",
+        "Get endpoint hostname"
+    ],
+    "261": [
+        "ANALYSIS",
+        "Analysis",
+        "ANALYSIS"
+    ],
+    "262": [
+        "`pyprintf`",
+        "\"The word love written on the wall\"",
+        "\"The word love written on the wall\""
+    ],
+    "263": [
+        "Dynamic Matrix",
+        "Dynamic Matrix $A$",
+        "Dynamic Matrix"
+    ],
+    "264": [
+        "TODO: Download the Flowers Dataset using TensorFlow Datasets",
+        "Download the Flowers Dataset",
+        "Download the Flowers Dataset"
+    ],
+    "265": [
+        "Create the DNS alt\\_names for data plane in secure clusters",
+        "Create the DNS alt\\_names for data plane in secure clusters",
+        "Create the DNS alt\\_names for data plane in secure clusters"
+    ],
+    "266": [
+        "Trend and Seasonality",
+        "Eliminating Trend and Seasonality",
+        "Eliminating Trend and Seasonality"
+    ],
+    "267": [
+        "Languages",
+        "Chinese to English",
+        "Russian to English"
+    ],
+    "268": [
+        "About",
+        "About",
+        "About"
+    ],
+    "269": [
+        "('Non-medical', 0.0005655724),",
+        "('Medical Devices', 0.0002488097),",
+        "('Effect on Medical Specialties', 0.00045943243),"
+    ],
+    "270": [
+        "Show the Kubernetes namespaces",
+        "Show the Kubernetes namespaces",
+        "Show the Kubernetes namespaces"
+    ],
+    "271": [
+        "\u8fdb\u5165ModelArts",
+        "\u8fdb\u5165ModelArts",
+        "\u8fdb\u5165ModelArts"
+    ],
+    "272": [
+        "Metrics",
+        "Metrics",
+        "Metrics"
+    ],
+    "273": [
+        "Define Feature Group",
+        "Create Feature Group",
+        "Create a feature group"
+    ],
+    "274": [
+        "Run the following Transact-SQL command to change context to the database you created in the master instance",
+        "Run the following Transact-SQL command to change context to the database you created in the master instance",
+        "Run the following Transact-SQL command to change context to the database you created in the master instance"
+    ],
+    "275": [
+        "Transforms",
+        "Transforms",
+        "Transforms"
+    ],
+    "276": [
+        "Putting it all together",
+        "4 Putting it all together",
+        "4 Putting it all together"
+    ],
+    "277": [
+        "Hyper-parameters",
+        "Hyper-parameters",
+        "hyper parameters"
+    ],
+    "278": [
+        "Sydney Opera House rain photo",
+        "Sydney Opera House sea photo",
+        "Sydney Opera House night photo"
+    ],
+    "279": [
+        "Next steps",
+        "Next steps",
+        "Next steps"
+    ],
+    "280": [
+        "Native TensorFlow",
+        "Inference with Native TensorFlow",
+        "Native TensorFlow"
+    ],
+    "281": [
+        "Expiry Date Interpolation",
+        "Expiry Date Interpolation",
+        "Google Calendar Data Analysis"
+    ],
+    "282": [
+        "Get the versions of `azdata`, the BDC and Kubernetes cluster",
+        "Get the versions of `azdata`, the BDC and Kubernetes cluster",
+        "Get the versions of `azdata`, the BDC and Kubernetes cluster"
+    ],
+    "283": [
+        "Covariance Matrix",
+        "Covariance Matrix",
+        "Covariance Matrix"
+    ],
+    "284": [
+        "Copyright 2020 Google LLC.",
+        "Copyright 2020 Google LLC.",
+        "Copyright 2020 Google LLC."
+    ],
+    "285": [
+        "Create private key and certificate signing request",
+        "Create private key and certificate signing request",
+        "Create private key and certificate signing request"
+    ],
+    "286": [
+        "Invoke the endpoint",
+        "Invoke the endpoint",
+        "Invoke the endpoint"
+    ],
+    "287": [
+        "Tracking the IO Error",
+        "Tracking the IO Error",
+        "Tracking the IO Error"
+    ],
+    "288": [
+        "Validate the model for use",
+        "Validate the model for use",
+        "Validate the model for use"
+    ],
+    "289": [
+        "Loading the data",
+        "Loading the Data",
+        "Loading the data"
+    ],
+    "290": [
+        "Set next serial number",
+        "Set next serial number",
+        "Set next serial number"
+    ],
+    "291": [
+        "\u2462. Latent concat UNet classifier-free guidance",
+        "2. Fitting MapieMultiLabelClassifier",
+        "2 Fitting MapieMultilabelClassifier with Learn Then Test"
+    ],
+    "292": [
+        "Display certificate",
+        "Display certificate",
+        "Display certificate"
+    ],
+    "293": [
+        "Show video.",
+        "Video",
+        "Video"
+    ],
+    "294": [
+        "Create a SageMaker Model from one of the Estimators",
+        "Create a SageMaker Model from one of the Estimators",
+        "Create a SageMaker Model from one of the Estimators"
+    ],
+    "295": [
+        "Create a function for sampling initial quasi-random points from the unit cube",
+        "Hierarchical Function-Generating LMPs",
+        "Function-Generating LMPs"
+    ],
+    "296": [
+        "Copyright 2020 The TensorFlow Authors.",
+        "Copyright 2020 The TensorFlow Authors.",
+        "Copyright 2020 The TensorFlow Authors."
+    ],
+    "297": [
+        "Creating end point in SageMaker",
+        "Creating end point in SageMaker",
+        "Creating end point in SageMaker"
+    ],
+    "298": [
+        "Download a blob to a local directory",
+        "Upload text/other filetypes to Blob Storage",
+        "Download text/other filetypes from Blob Storage"
+    ],
+    "299": [
+        "Adjust the model and dataset configurations so that it works with custom dataset(in this case `BCCD`).",
+        "Adjust the model and dataset configurations so that it works with custom dataset.",
+        "Adjust the model and dataset configurations so that it works with custom dataset."
+    ],
+    "300": [
+        "R-Net",
+        "O-Net",
+        "P-Net"
+    ],
+    "301": [
+        "Running Inference",
+        "Running Inference",
+        "Running Inference"
+    ],
+    "302": [
+        "Links Resources",
+        "Links",
+        "Links"
+    ],
+    "303": [
+        "Run kubectl to display the daemon sets",
+        "Run kubectl to display the daemon sets",
+        "Run kubectl to display the daemon sets"
+    ],
+    "304": [
+        "Run through the Spark sample notebook",
+        "Run through the Spark sample notebook",
+        "Run through the Spark sample notebook"
+    ],
+    "305": [
+        "SageMaker Hyperparameter Tuning Job",
+        "Run a Hyperparameter Tuning Job",
+        "Run a Hyperparameter Tuning Job"
+    ],
+    "306": [
+        "Loss function.",
+        "Loss function",
+        "Loss function"
+    ],
+    "307": [
+        "Results",
+        "Results",
+        "Results"
+    ],
+    "308": [
+        "Quick Recap",
+        "Quick Recap",
+        "Quick Recap"
+    ],
+    "309": [
+        "\u5c55\u793a\u6837\u672c\u6570\u636e",
+        "\u5c55\u793a\u6837\u672c\u6570\u636e",
+        "\u5c55\u793a\u6837\u672c\u6570\u636e"
+    ],
+    "310": [
+        "5. Create a sample payload archive",
+        "5. Create a sample payload archive",
+        "5. Create a sample payload archive"
+    ],
+    "311": [
+        "Validation",
+        "Validation",
+        "Validation"
+    ],
+    "312": [
+        "\u521b\u5efaModelArts notebook",
+        "\u521b\u5efaModelArts Notebook",
+        "\u521b\u5efaModelArts Notebook"
+    ],
+    "313": [
+        "Detecting Bias",
+        "Detecting Bias",
+        "Detecting Bias"
+    ],
+    "314": [
+        "Permissions",
+        "Permissions",
+        "Permissions"
+    ],
+    "315": [
+        "11. Helper Function: face_swap()",
+        "11. Helper Function: face_swap()",
+        "11. Helper Function: face_swap()"
+    ],
+    "316": [
+        "Get the name of the namenode pod",
+        "Get the name of the namenode pod",
+        "Get the name of the namenode pod"
+    ],
+    "317": [
+        "Clear out the controller\\_db\\_rw\\_secret variable",
+        "Clear out the controller\\_db\\_rw\\_secret variable",
+        "Clear out the controller\\_db\\_rw\\_secret variable"
+    ],
+    "318": [
+        "View and Analyze the Spark related log files",
+        "View and Analyze the Spark related log files",
+        "View and Analyze the Spark related log files"
+    ],
+    "319": [
+        "Percentiles",
+        "Percentiles",
+        "Percentiles"
+    ],
+    "320": [
+        "\u6848\u4f8b\u914d\u7f6e\u4fe1\u606f\u586b\u5199",
+        "\u6848\u4f8b\u914d\u7f6e\u4fe1\u606f\u586b\u5199",
+        "\u6848\u4f8b\u914d\u7f6e\u4fe1\u606f\u586b\u5199"
+    ],
+    "321": [
+        "Verify the Gateway log",
+        "Verify the Gateway log",
+        "Verify the Gateway log"
+    ],
+    "322": [
+        "Run azdata to retrieve list of applications as JSON output",
+        "Run azdata to retrieve list of applications as JSON output",
+        "Split one COCO annotation JSON file into training and validation JSON files."
+    ],
+    "323": [
+        "Plots",
+        "Plots",
+        "Plots"
+    ],
+    "324": [
+        "Pip list installed modules",
+        "Pip list installed modules",
+        "Pip list installed modules"
+    ],
+    "325": [
+        "Import necessary libraries",
+        "Import the necessary libraries",
+        "Import the necessary libraries"
+    ],
+    "326": [
+        "Data Import and Data Preparations",
+        "Data Import and Data Preparations",
+        "Extract Data and Export to CSVs from Apple Health's Export.xml"
+    ],
+    "327": [
+        "Set the text to look for in pod events",
+        "Set the text to look for in pod events",
+        "Set the text to look for in pod events"
+    ],
+    "328": [
+        "Base network wrapper",
+        "Base network wrapper",
+        "Base network wrapper"
+    ],
+    "329": [
+        "Describe the `controller watchdog` pod",
+        "Describe the `controller watchdog` pod",
+        "Describe the `controller watchdog` pod"
+    ],
+    "330": [
+        "Compare Models",
+        "Compare Models",
+        "Compare Models"
+    ],
+    "331": [
+        "List the apps",
+        "List the apps",
+        "List the apps"
+    ],
+    "332": [
+        "Parameter setting",
+        "\u5b9a\u4e49\u6570\u636e\u548c\u6a21\u578b\u8def\u5f84",
+        "\u5b9a\u4e49\u6570\u636e\u548c\u6a21\u578b\u8def\u5f84"
+    ],
+    "333": [
+        "Define Parameters to Parametrize Pipeline Execution",
+        "Define Parameters to Parametrize Pipeline Execution",
+        "Define parameters to parametrize Pipeline Execution"
+    ],
+    "334": [
+        "AMD Ryzen 9 5900X, 16 Cores, Zen3, 4th gen, 2020-Q4",
+        "AMD Ryzen 9 5950X 3.40 GHz 16 Cores (Zen3, 4th gen)",
+        "AMD Ryzen 7 5700X 3.40 GHz 8 Cores (Zen3, 4th gen)"
+    ],
+    "335": [
+        "Encode and Upload the Dataset",
+        "Encode and Upload the Dataset",
+        "Encode and Upload the Dataset"
+    ],
+    "336": [
+        "Please refer to for price information of corporate equity securities.",
+        "Please refer to for price information of corporate equity securities.",
+        "Please refer to for price information of corporate equity securities."
+    ],
+    "337": [
+        "TSG049 Show BDC Controller status",
+        "TSG060 Persistent Volume disk space for all BDC PVCs",
+        "TSG064 Get BDC Persistent Volume Claims"
+    ],
+    "338": [
+        "Execute the Pipeline",
+        "Execute the Pipeline",
+        "Execute the Pipeline"
+    ],
+    "339": [
+        "Deploy Model",
+        "Deploy model",
+        "Deploy Model"
+    ],
+    "340": [
+        "Viewing the Bias Report",
+        "Viewing the Bias Report",
+        "Viewing the Bias Report"
+    ],
+    "341": [
+        "Some Diagnostics of the Fitted Nuisance Models Across Folds",
+        "Some Diagnostics of the Fitted Nuisance Models Across Folds",
+        "Some diagnostics of the fitted nuisance models across folds"
+    ],
+    "342": [
+        "Data owner: execute syft_function",
+        "Data owner: execute syft_function",
+        "Data owner: execute syft_function"
+    ],
+    "343": [
+        "X-Ception",
+        "X-Ception",
+        "X-Ception"
+    ],
+    "344": [
+        "Chose a model for Inference",
+        "Chose a model for Inference",
+        "Chose a model for Inference"
+    ],
+    "345": [
+        "Wait for the execution to finish",
+        "Wait for the execution to finish",
+        "Wait for all training jobs to finish"
+    ],
+    "346": [
+        "Step 1. Prepare a compressed CSV file using [Open Buildings]( data [takes 1-15 minutes depending on the region]",
+        "Method 1: Copying data to the Instance",
+        "Method 1: Copying data to the Instance"
+    ],
+    "347": [
+        "Define hyperparameters",
+        "Define Model hyperparameters",
+        "Model Hyperparameters"
+    ],
+    "348": [
+        "3.5 Check the status of the Rule Evaluation Job",
+        "Check job status",
+        "Check the status of the Rule Evaluation Job"
+    ],
+    "349": [
+        "Generate Policy",
+        "Run Policy",
+        "Policy"
+    ],
+    "350": [
+        "Uninstall Kubernetes CLI",
+        "Uninstall Kubernetes CLI",
+        "Uninstall Kubernetes CLI"
+    ],
+    "351": [
+        "Index",
+        "Index",
+        "Index"
+    ],
+    "352": [
+        "Next Steps",
+        "Next Steps",
+        "Next Steps"
+    ],
+    "353": [
+        "Setting up the SageMaker Autopilot Job",
+        "Setting up the SageMaker AutoPilot Job",
+        "Setting up the SageMaker Autopilot Job"
+    ],
+    "354": [
+        "Getting started",
+        "Getting started",
+        "Getting Started"
+    ],
+    "355": [
+        "Market Environment",
+        "Market Environment",
+        "Market Environment"
+    ],
+    "356": [
+        "Lesson 6: pets revisited",
+        "Step 6: Re-run the entire boolean function generation in a single cell",
+        "Step 6: Re-run the entire boolean function generation in a single cell"
+    ],
+    "357": [
+        "Step 5: Mess with Data to Showcase a Drift",
+        "Step 5: Canny edge detection",
+        "Step 5: Canny edge detection"
+    ],
+    "358": [
+        "Data loading Sample corruption",
+        "Load Communities Crime Data",
+        "Load Communities Crime Data"
+    ],
+    "359": [
+        "Configurations",
+        "Configurations",
+        "Configurations"
+    ],
+    "360": [
+        "Use our checkpoints to initialize a AspectExtractor and SentimentClassifier",
+        "Use our checkpoints to initialize a AspectExtractor and SentimentClassifier",
+        "Use our checkpoints to initialize a AspectExtractor and SentimentClassifier"
+    ],
+    "361": [
+        "Plot correlation between features",
+        "With Correlation",
+        "Correlation"
+    ],
+    "362": [
+        "Style Interpolation",
+        "Style Interpolation",
+        "Style Interpolation"
+    ],
+    "363": [
+        "Copy Root CA certificate from `controller` `pod`",
+        "Copy Root CA certificate from `controller` `pod`",
+        "Copy Root CA certificate from `controller` `pod`"
+    ],
+    "364": [
+        "Learning Rate Scheduler",
+        "This colab contains a TensorFlow implementation and a demo of the learning rate scheduler proposed in the paper \"Mind the (optimality) Gap: A Gap-Aware Learning Rate Scheduler for Adversarial Nets\".",
+        "Plot rate of learning"
+    ],
+    "365": [
+        "Create an external data source to the storage pool if it does not already exist",
+        "Create an external data source to the storage pool if it does not already exist",
+        "Create an external data source to the storage pool if it does not already exist"
+    ],
+    "366": [
+        "Prepare your OpenAI API key",
+        "Prepare your OpenAI API key",
+        "Prepare your OpenAI API key"
+    ],
+    "367": [
+        "Input from the keyboard",
+        "Keyboard Navigation",
+        "Keyboard Navigation"
+    ],
+    "368": [
+        "Data Preprocessing",
+        "Data Preprocessing",
+        "Preprocessing Data"
+    ],
+    "369": [
+        "EQUITY VANILLA EUROPEAN-STYLE OPTIONS",
+        "EQUITY VANILLA EUROPEAN-STYLE OPTIONS",
+        "EQUITY AMERICAN OPTIONS"
+    ],
+    "370": [
+        "Connect to the Azure Quantum workspace",
+        "Connect to the Azure Quantum workspace",
+        "1. Connect to the Azure Quantum workspace"
+    ],
+    "371": [
+        "Launch a Syft Domain Server",
+        "Launch a Syft Domain Server",
+        "Launch a Syft Domain Server"
+    ],
+    "372": [
+        "The length of types should be same as number of cols.",
+        "The length of types should be same as number of cols.",
+        "The length of types should be same as number of cols."
+    ],
+    "373": [
+        "\u5728Notebook\u4e2d\u7f16\u5199\u5e76\u6267\u884c\u4ee3\u7801",
+        "\u5728Notebook\u4e2d\u7f16\u5199\u5e76\u6267\u884c\u4ee3\u7801",
+        "\u5728Notebook\u4e2d\u7f16\u5199\u5e76\u6267\u884c\u4ee3\u7801"
+    ],
+    "374": [
+        "Train model",
+        "Road Follower Train Model",
+        "Train model"
+    ],
+    "375": [
+        "Submit a simple job to IonQ using Azure Quantum",
+        "Submit a simple job to IonQ using Azure Quantum",
+        "Submit a simple job to Quantinuum using Azure Quantum"
+    ],
+    "376": [
+        "\u5728ModelArts\u4e2d\u521b\u5efa\u5f00\u53d1\u73af\u5883",
+        "\u5728ModelArts\u4e2d\u521b\u5efa\u5f00\u53d1\u73af\u5883",
+        "\u5728ModelArts\u4e2d\u521b\u5efa\u5f00\u53d1\u73af\u5883"
+    ],
+    "377": [
+        "Build the model",
+        "Build the model",
+        "Build the model"
+    ],
+    "378": [
+        "Written by Javier Gonzalez, University of Sheffield.",
+        "Written by Javier Gonzalez, University of Sheffield.",
+        "Written by Javier Gonzalez, University of Sheffield."
+    ],
+    "379": [
+        "Checking for stationarity",
+        "Checking convergence",
+        "Checking for convergence"
+    ],
+    "380": [
+        "This step can take 10 min or longer so please be patient",
+        "This step can take 10 min or longer so please be patient",
+        "This step can take 10 min or longer so please be patient"
+    ],
+    "381": [
+        "Show the big data cluster Kubernetes Secret Store entries",
+        "Show the big data cluster Kubernetes Secret Store entries",
+        "Show the big data cluster Kubernetes Secret Store entries"
+    ],
+    "382": [
+        "Model definition",
+        "Model definition",
+        "Model definition"
+    ],
+    "383": [
+        "Widget controlled plot",
+        "Widget controlled plot",
+        "Widget controlled plot"
+    ],
+    "384": [
+        "Prepare model",
+        "Prepare model",
+        "Prepare a Model"
+    ],
+    "385": [
+        "Real-time Inference Endpoint",
+        "Real-time Inference endpoint",
+        "Real-time Inference Endpoint"
+    ],
+    "386": [
+        "Running the experiment",
+        "Running the Experiment",
+        "Running the experiment"
+    ],
+    "387": [
+        "4.2 prediction distribution through feature combination of 'weekofyear' and 'StoreType'",
+        "4.1 target distribution through feature combination of 'weekofyear' and 'StoreType'",
+        "4.3 pdp for feature combination of 'weekofyear' and 'StoreType'"
+    ],
+    "388": [
+        "3. Examples of training Logit-Linear GBM DNN predictors",
+        "4.2 Train Pascal VOC 2012 from ImageNet checkpoint for Backbone.",
+        "4.3 Train Pascal VOC 2012 from COCO checkpoint for the whole net."
+    ],
+    "389": [
+        "Suspicious User Agent",
+        "Run the agent",
+        "The Agent"
+    ],
+    "390": [
+        "2. Finetune the pre-trained model on a custom dataset",
+        "4. Finetune the pre-trained model on a custom dataset",
+        "4. Finetune the pre-trained model on a custom dataset"
+    ],
+    "391": [
+        "Tutorial",
+        "Tutorial",
+        "Tutorial"
+    ],
+    "392": [
+        "List executions",
+        "List executions",
+        "List executions"
+    ],
+    "393": [
+        "Plot encoding attention map",
+        "Plot encoding attention map",
+        "Plot encoding attention map"
+    ],
+    "394": [
+        "Helper function for running notebooks with `azdata notebook run`",
+        "Helper function for running notebooks with `azdata notebook run`",
+        "Helper function for running notebooks with `azdata notebook run`"
+    ],
+    "395": [
+        "Pre-requisite 1:",
+        "Pre-requisite 2:",
+        "1. Pre-requisite"
+    ],
+    "396": [
+        "Dependencies",
+        "Dependencies",
+        "dependencies"
+    ],
+    "397": [
+        "Truncate Tables",
+        "Truncate Tables",
+        "Truncate Tables"
+    ],
+    "398": [
+        "Object Detection",
+        "1. Object detection",
+        "Object Detection"
+    ],
+    "399": [
+        "Helper functions for waiting for the cluster to become healthy",
+        "Helper functions for waiting for the cluster to become healthy",
+        "Helper functions for waiting for the cluster to become healthy"
+    ],
+    "400": [
+        "Installation and setup",
+        "Installation and Setup",
+        "Installation and Setup"
+    ],
+    "401": [
+        "Validate",
+        "Validate",
+        "Validate"
+    ],
+    "402": [
+        "2.B Create Torch Dataset",
+        "2.C Create Torch Dataloader",
+        "2.C Create Torch Dataloader"
+    ],
+    "403": [
+        "Initialise your repo with nbdev",
+        "Initializing a SparkSession",
+        "Initializing a SparkSession"
+    ],
+    "404": [
+        "Use small multiples",
+        "Small Multiples",
+        "Small multiples"
+    ],
+    "405": [
+        "Set up port forwarding for control-db",
+        "Set up port forwarding for control-db",
+        "Set up port forwarding for control-db"
+    ],
+    "406": [
+        "Text Classification",
+        "Text classification",
+        "Text classification"
+    ],
+    "407": [
+        "Compile the model",
+        "Compiling the model with a distribution strategy",
+        "Compiling the model with a distribution strategy"
+    ],
+    "408": [
+        "title",
+        "A Title",
+        "Title"
+    ],
+    "409": [
+        "Build a `BertPretrainer` model wrapping `BertEncoder`",
+        "Construct ALBERT Model Using the New `params.yaml`",
+        "Construct ALBERT Model Using the Old `albert_config.json`"
+    ],
+    "410": [
+        "3. Run inference on the pre-trained model",
+        "2. Run inference on the pre-trained model",
+        "3. Run inference on the pre-trained model"
+    ],
+    "411": [
+        "Run azdata to list spark sessions",
+        "Run azdata to list spark sessions",
+        "Run azdata to list spark sessions"
+    ],
+    "412": [
+        "Install dependencies",
+        "Install dependencies",
+        "Install dependencies"
+    ],
+    "413": [
+        "Access the Launched SM Training Job",
+        "Accessing the launched SM training job",
+        "Accessing the launched SM training job"
+    ],
+    "414": [
+        "The Gumbel-max causal mechanism and Gumbel-max coupling",
+        "Softmax and the Gumbel-Softmax activation",
+        "Gumbel-Softmax New feature"
+    ],
+    "415": [
+        "Heatmap",
+        "Heatmap",
+        "Heatmap"
+    ],
+    "416": [
+        "Batch Transform Job",
+        "Batch Transform Job",
+        "Batch Transform Job"
+    ],
+    "417": [
+        "Basic Scatterplot",
+        "Basic scatterplot",
+        "Basic scatterplot"
+    ],
+    "418": [
+        "Assign Model",
+        "Assign Model",
+        "Assign Model"
+    ],
+    "419": [
+        "4. Upload to S3",
+        "Upload to S3",
+        "Upload to S3"
+    ],
+    "420": [
+        "SimCLR v2",
+        "SimCLR v1",
+        "Apple M1 Ultra 16p+4e"
+    ],
+    "421": [
+        "Define a Condition Step to Check Accuracy and Conditionally Create a Model and Run a Batch Transformation Or Terminate the Execution in Failed State",
+        "Define a Condition Step to Check Accuracy and Conditionally Create a Model and Run a Batch Transformation and Register a Model in the Model Registry, Or Terminate the Execution in Failed State",
+        "Define a Condition Step to Check Accuracy and Conditionally Create a Model and Run a Batch Transformation and Register a Model in the Model Registry, Or Terminate the Execution in Failed State"
+    ],
+    "422": [
+        "Conditional causal effects",
+        "Estimating conditional causal effects",
+        "Causal effects"
+    ],
+    "423": [
+        "\u68c0\u6d4b\u4eba\u8138\u533a\u57df",
+        "\u68c0\u6d4b\u89c6\u9891\u4e2d\u7684\u4eba\u8138\u5173\u952e\u70b9\uff0c\u5e76\u663e\u793a\u68c0\u6d4b\u7ed3\u679c\uff0c\u7531\u4e8edlib\u505a\u4eba\u8138\u5173\u952e\u70b9\u68c0\u6d4b\u6bd4\u8f83\u6162\uff0c\u56e0\u6b64\u53ea\u663e\u793a10\u5e27\u56fe\u7247\u7684\u68c0\u6d4b\u7ed3\u679c",
+        "Extract the water mask and measure the water surface area"
+    ],
+    "424": [
+        "Evaluate",
+        "Evaluate",
+        "Evaluate"
+    ],
+    "425": [
+        "Introduction to JumpStart Text Classification",
+        "Introduction to JumpStart Text to Image",
+        "Introduction to JumpStart Text to Image"
+    ],
+    "426": [
+        "Priors classes",
+        "Priors classes",
+        "Priors classes"
+    ],
+    "427": [
+        "(2) Pairwise Equal Opportunity",
+        "(2) Pairwise Equal Opportunity",
+        "(2) Pairwise Equal Opportunity"
+    ],
+    "428": [
+        "Histograms",
+        "Histograms",
+        "Histograms"
+    ],
+    "429": [
+        "Train GPT-NeoX-20B with near-linear scaling using the sharded data parallelism technique in the SageMaker Model Parallelism library",
+        "Fine-tune GPT-2 with near-linear scaling using Sharded Data Parallelism technique in SageMaker Model Parallelism Library",
+        "Train GPT-2 with near-linear scaling using the sharded data parallelism technique in the SageMaker Model Parallelism library"
+    ],
+    "430": [
+        "Create an IAM role",
+        "Create an IAM role",
+        "Create an IAM role"
+    ],
+    "431": [
+        "Kalman Filter",
+        "Kalman Filter",
+        "Kalman Filter"
+    ],
+    "432": [
+        "Other commands",
+        "Other commands",
+        "Other commands"
+    ],
+    "433": [
+        "Import Packages",
+        "import packages",
+        "Import packages"
+    ],
+    "434": [
+        "TF Run non streaming inference",
+        "TF Run non streaming inference",
+        "Examples of streaming and non streaming inference with TF/TFlite"
+    ],
+    "435": [
+        "The Dockerfile",
+        "The Dockerfile",
+        "The Dockerfile"
+    ],
+    "436": [
+        "6. Predict",
+        "6 Actual vs Predicted",
+        "4 Actual vs Predicted"
+    ],
+    "437": [
+        "Restart Pod",
+        "Restart Pod",
+        "Restart Pod"
+    ],
+    "438": [
+        "Basic line chart",
+        "Basic line chart",
+        "Basic line chart"
+    ],
+    "439": [
+        "Normalize Augmenter",
+        "Normalize",
+        "Normalize"
+    ],
+    "440": [
+        "\u5f00\u59cb\u8bad\u7ec3",
+        "\u5f00\u59cb\u8bad\u7ec3",
+        "\u5f00\u59cb\u8bad\u7ec3"
+    ],
+    "441": [
+        "Recommendation systems",
+        "Recommendation Engine for E-Commerce Sales Pipeline Mode",
+        "Recommendation Engine for E-Commerce Sales"
+    ],
+    "442": [
+        "4 Get genres",
+        "4 Genres",
+        "4 Genres"
+    ],
+    "443": [
+        "Cyclic LBP 5 The first Conv layer output (rectified responses of the filters above)",
+        "Cyclic LBP- The first Conv layer output (rectified responses of the filters above)",
+        "Cyclic LBP 10 The first Conv layer output (rectified responses of the filters above)"
+    ],
+    "444": [
+        "ToolTip",
+        "ToolTip",
+        "ToolTip"
+    ],
+    "445": [
+        "Maximal Update Parametrizatin (muP) Training",
+        "\u52a0\u8f7d\u9884\u8bad\u7ec3\u53c2\u6570",
+        "\u52a0\u8f7d\u9884\u8bad\u7ec3\u53c2\u6570"
+    ],
+    "446": [
+        "Column Visibility and Placement",
+        "Column Visibility and Placement",
+        "Column Visibility and Placement"
+    ],
+    "447": [
+        "Writing BiasConfig",
+        "Writing BiasConfig",
+        "Writing BiasConfig"
+    ],
+    "448": [
+        "Segmentation",
+        "Segmentation",
+        "Segmentation"
+    ],
+    "449": [
+        "Query the data",
+        "Query the data",
+        "Query the data"
+    ],
+    "450": [
+        "Understand Treatment Effects with EconML",
+        "Understand Treatment Effects with EconML",
+        "Understand Treatment Effects with EconML"
+    ],
+    "451": [
+        "Making Predictions on New Data",
+        "Making Predictions on New Data",
+        "Making Predictions on New Data"
+    ],
+    "452": [
+        "Environment Setup",
+        "Setup Environment",
+        "Environment Setup"
+    ],
+    "453": [
+        "Colonne energy_consumed",
+        "Colonne ram_energy",
+        "Colonne ram_energy"
+    ],
+    "454": [
+        "Learning objectives",
+        "Learning objectives",
+        "Learning objectives"
+    ],
+    "455": [
+        "Display",
+        "Display",
+        "Display"
+    ],
+    "456": [
+        "Data debiasing procedure",
+        "Data debiasing procedure",
+        "Data debiasing procedure"
+    ],
+    "457": [
+        "Copy certficates local",
+        "Copy certficates local",
+        "Copy certficates local"
+    ],
+    "458": [
+        "VII. Deep Learning Model architectures",
+        "Structural Time Series Modeling Case Studies: Atmospheric CO2 and Electricity Demand",
+        "Structural Time Series Modeling Case Studies: Atmospheric CO2 and Electricity Demand"
+    ],
+    "459": [
+        "Candlestick with one moving average",
+        "Candlestick with a moving average",
+        "Simple candlestick"
+    ],
+    "460": [
+        "Step 1: Authenticate and Initialize Your Session",
+        "Step 1: Authenticate and Initialize Your Session",
+        "Step 1: Authenticate and Initialize Your Session"
+    ],
+    "461": [
+        "Installing Logica",
+        "Logica Tutorial",
+        "Install Logica"
+    ],
+    "462": [
+        "Initialization and Fitting",
+        "Initialization and Fitting",
+        "Initialization and Fitting"
+    ],
+    "463": [
+        "B. Unsubscribe to the listing (optional)",
+        "B. Unsubscribe to the listing (optional)",
+        "B. Unsubscribe to the listing (optional)"
+    ],
+    "464": [
+        "2. Set up SingleStore DB",
+        "2. Set pin and polarity configurations",
+        "2. Set pin and polarity configurations"
+    ],
+    "465": [
+        "Mixed fallback approximation protocol",
+        "Fallback approximation protocol",
+        "Fallback approximation protocol"
+    ],
+    "466": [
+        "Get the Kubernetes version info",
+        "Get the Kubernetes version info",
+        "Get the Kubernetes version info"
+    ],
+    "467": [
+        "Add the customized learner in FLAML",
+        "4. Add a customized LightGBM learner in FLAML",
+        "3. Add a customized LightGBM learner in FLAML"
+    ],
+    "468": [
+        "load CIFAR-10",
+        "The CIFAR-10 dataset",
+        "load CIFAR-10"
+    ],
+    "469": [
+        "Predict on unlabeled test data",
+        "Predict on unlabeled test data",
+        "Predict on unlabeled test data"
+    ],
+    "470": [
+        "Prediction",
+        "Prediction",
+        "Prediction"
+    ],
+    "471": [
+        "Reserve some data for calling batch inference on the model",
+        "Reserve some data for calling inference on the model",
+        "Reserve some data for calling inference on the model"
+    ],
+    "472": [
+        "MCMC",
+        "MCMC",
+        "MCMC"
+    ],
+    "473": [
+        "Output Containers and Layout Managers",
+        "Output Containers and Layout Managers",
+        "Output Containers and Layout Managers"
+    ],
+    "474": [
+        "The Linear VAE",
+        "Linear VAE",
+        "Linear VAE"
+    ],
+    "475": [
+        "6. Register model in Model Registry",
+        "Register the model in the Model Registry",
+        "Register the model in the Model Registry"
+    ],
+    "476": [
+        "Fashion MNIST dataset",
+        "Download Fashion MNIST Dataset",
+        "Download Fashion MNIST Dataset"
+    ],
+    "477": [
+        "Visualize Grid Search Results for ARS",
+        "View Clarify explainability results (shortcut)",
+        "View results of Clarify job (shortcut)"
+    ],
+    "478": [
+        "Measurements",
+        "Measurements",
+        "Measurements"
+    ],
+    "479": [
+        "Valuation using Black's Model",
+        "Valuation using Black's Model",
+        "Valuation using Black's Model"
+    ],
+    "480": [
+        "Restart `controller` to pick up new certificates.",
+        "Restart `controller` to pick up new certificates.",
+        "Restart `controller` to pick up new certificates."
+    ],
+    "481": [
+        "STEP 4: Train the Model",
+        "STEP 4: Train the Model",
+        "Stage IV: Train a XGBoost model with the over-sampling technique SMOTE"
+    ],
+    "482": [
+        "Additional Resources",
+        "Additional Resources",
+        "Additional Resources"
+    ],
+    "483": [
+        "Create the config.pbtxt",
+        "Create the `config.pbtxt` file",
+        "Create the `config.pbtxt` file"
+    ],
+    "484": [
+        "2. Select a pre-trained model",
+        "2. Select a pre-trained model",
+        "2. Select a pre-trained model"
+    ],
+    "485": [
+        "Extended Kalman Filter Implementation for Constant Turn Rate and Velocity (CTRV) Vehicle Model in Python",
+        "Extended Kalman Filter Implementation for Constant Turn Rate and Velocity (CTRV) Vehicle Model in Python",
+        "Extended Kalman Filter Implementation for Constant Turn Rate and Velocity (CTRV) Vehicle Model in Python"
+    ],
+    "486": [
+        "6.4. Sentence Sentiment Classification",
+        "6.4. Sentence Sentiment Classification",
+        "6.7. Sentence Sentiment Classification"
+    ],
+    "487": [
+        "Writing to WhyLabs",
+        "Log and Upload to WhyLabs",
+        "Using WhyLabs"
+    ],
+    "488": [
+        "Prediction path explanations",
+        "Prediction path explanations",
+        "Prediction path explanations"
+    ],
+    "489": [
+        "Add title and some annotations",
+        "Add title",
+        "Add title"
+    ],
+    "490": [
+        "Library Dependencies:",
+        "Library Dependencies:",
+        "Library dependencies:"
+    ],
+    "491": [
+        "Find all datasets associated with an Endpoint",
+        "Find the models associated with an Endpoint",
+        "Find the models associated with an Endpoint"
+    ],
+    "492": [
+        "With random forest",
+        "Random forest",
+        "Random forest"
+    ],
+    "493": [
+        "Merged data",
+        "Merged data",
+        "Merged data"
+    ],
+    "494": [
+        "Set hyperparameters",
+        "Set hyperparameters",
+        "Set hyperparameters"
+    ],
+    "495": [
+        "Multivariate Regression",
+        "Multivariate",
+        "Multivariate"
+    ],
+    "496": [
+        "Leverage the Boto3 to invoke the endpoint.",
+        "Leverage the Boto3 to invoke the endpoint.",
+        "Leverage the Boto3 to invoke the endpoint."
+    ],
+    "497": [
+        "Edit mode",
+        "Edit",
+        "Edit"
+    ],
+    "498": [
+        "Building the Dual Curve",
+        "Building the Dual Curve",
+        "Building the Dual Curve"
+    ],
+    "499": [
+        "Prequisites and Preprocessing",
+        "Prequisites and Preprocessing",
+        "Prequisites and Preprocessing"
+    ],
+    "500": [
+        "Solution",
+        "Solution",
+        "Solution"
+    ],
+    "501": [
+        "Create a temporary folder to hold Root CA certificate",
+        "Create a temporary folder to hold Root CA certificate",
+        "Create a temporary folder to hold Root CA certificate"
+    ],
+    "502": [
+        "CER032 Sign App-Proxy certificate with generated CA",
+        "CER040 Install signed Management Proxy certificate",
+        "CER030 Sign Management Proxy certificate with generated CA"
+    ],
+    "503": [
+        "Verify there are no crash dumps in the cluser",
+        "Verify there are no crash dumps in the cluser",
+        "Verify there are no crash dumps in the cluser"
+    ],
+    "504": [
+        "2. Removing high/low valued samples",
+        "2. Removing high/low valued samples",
+        "2. Removing high/low valued samples"
+    ],
+    "505": [
+        "Training with Mixed Precision",
+        "Training with mixed-precision",
+        "Training with mixed-precision"
+    ],
+    "506": [
+        "Variables",
+        "Variables",
+        "Variables"
+    ],
+    "507": [
+        "2. Build the quantum program",
+        "2. Build the quantum program",
+        "2. Build the quantum program"
+    ],
+    "508": [
+        "Table of Contents",
+        "Table of Contents",
+        "Table of Contents"
+    ],
+    "509": [
+        "Convert to DGL format and save with pickle",
+        "Convert to DGL format and save with pickle",
+        "Convert to DGL format and save with pickle"
+    ],
+    "510": [
+        "Use azdata to list files",
+        "Use azdata to list files",
+        "Use azdata to list files"
+    ],
+    "511": [
+        "3.3. Query endpoint and parse response",
+        "3.3. Query endpoint and parse response",
+        "3.2. Query endpoint and parse response"
+    ],
+    "512": [
+        "Load checkpointed model",
+        "Load checkpointed model",
+        "Load checkpointed model"
+    ],
+    "513": [
+        "Model Explainability Monitor",
+        "Model Explainability Monitor",
+        "SageMaker Model Monitor"
+    ],
+    "514": [
+        "Python function queries `controller` database and return results.",
+        "Python function queries `controller` database and return results.",
+        "Python function queries `controller` database and return results."
+    ],
+    "515": [
+        "Data Preparation",
+        "Data Preparation##",
+        "Data Preparation"
+    ],
+    "516": [
+        "Model initialization",
+        "Model initialization",
+        "Model Initialization"
+    ],
+    "517": [
+        "Write training data as TFRecords",
+        "Write data as TFRecords",
+        "Write training data as TFRecords"
+    ],
+    "518": [
+        "Training the network",
+        "Training the network",
+        "Training the network"
+    ],
+    "519": [
+        "Set up the Bond Option",
+        "Set up the Bond Option",
+        "Set up the Bond Option"
+    ],
+    "520": [
+        "Invoke target model on Multi Model Endpoint",
+        "Invoke target model on Multi Model Endpoint",
+        "Invoke target model on Multi Model Endpoint"
+    ],
+    "521": [
+        "Adjust the trainer configuration.",
+        "Adjust the trainer configuration.",
+        "Adjust the trainer configuration."
+    ],
+    "522": [
+        "Convert the private key to PKCS12 format",
+        "Convert the private key to PKCS12 format",
+        "Convert the private key to PKCS12 format"
+    ],
+    "523": [
+        "Bring your own container",
+        "A sleek alternative to \"Bring your own container\": bring your own requirements.txt",
+        "A sleek alternative to \"Bring your own container\": bring your own requirements.txt"
+    ],
+    "524": [
+        "Create the Bond Options",
+        "Create the Bond Options",
+        "Creating the Bond"
+    ],
+    "525": [
+        "Get logs for previous instance of all containers in Big Data Cluster namespace",
+        "Get logs for previous instance of all containers in Big Data Cluster namespace",
+        "Get logs for previous instance of all containers in Big Data Cluster namespace"
+    ],
+    "526": [
+        "Copyright 2019 The TensorFlow Authors.",
+        "Copyright 2019 The TensorFlow Authors.",
+        "Copyright 2019 The TensorFlow Authors."
+    ],
+    "527": [
+        "Show the Kubernetes nodes",
+        "Show the Kubernetes nodes",
+        "Show the Kubernetes nodes"
+    ],
+    "528": [
+        "View the pods",
+        "View the pods",
+        "View the pods"
+    ],
+    "529": [
+        "Initial Uncertainty $P_0$",
+        "Initial Uncertainty $P_0$",
+        "Initial Uncertainty $P_0$"
+    ],
+    "530": [
+        "Run copy-logs",
+        "Run copy-logs",
+        "Run copy-logs"
+    ],
+    "531": [
+        "Next Section",
+        "Next Section",
+        "Next Section"
+    ],
+    "532": [
+        "Loading the data: Adult Dataset",
+        "Loading the data: Adult Dataset",
+        "Loading the data: Adult Dataset"
+    ],
+    "533": [
+        "State Vector",
+        "State Vector",
+        "State Vector"
+    ],
+    "534": [
+        "Pip install the pyodbc module",
+        "Pip install the pyodbc module",
+        "Pip install the pyodbc module"
+    ],
+    "535": [
+        "9. Conclusion",
+        "9. Conclusion",
+        "7. Disclaimers and Limitation on Liability"
+    ],
+    "536": [
+        "VII. Sources",
+        "VII. Sources",
+        "VII. Sources"
+    ],
+    "537": [
+        "Authentication using Azure Active Directory",
+        "Authentication using Azure Active Directory",
+        "Authentication using Azure Active Directory"
+    ],
+    "538": [
+        "Install requirements",
+        "Install requirements",
+        "Install requirements"
+    ],
+    "539": [
+        "TreeMap",
+        "TreeMap",
+        "TreeMap"
+    ],
+    "540": [
+        "Licensed under the Apache License, Version 2.0 (the \"License\");",
+        "Licensed under the Apache License, Version 2.0 (the \"License\");",
+        "Licensed under the Apache License, Version 2.0 (the \"License\");"
+    ],
+    "541": [
+        "Update ca certificates on clustertest pod",
+        "Update ca certificates on clustertest pod",
+        "Update ca certificates on clustertest pod"
+    ],
+    "542": [
+        "inference with sampling on test set",
+        "inference with sampling on test set",
+        "inference with sampling on test set"
+    ],
+    "543": [
+        "Boxes Callouts",
+        "Boxes Callouts",
+        "Boxes Callouts"
+    ],
+    "544": [
+        "[1. \u51c6\u5907\u6570\u636e](#data_prepare)",
+        "1. Contruction of the dataset",
+        "1. Contruction of the dataset"
+    ],
+    "545": [
+        "File structure",
+        "Directory Structure",
+        "Directory Structure"
+    ],
+    "546": [
+        "(Optional) Examining the pipeline definition",
+        "(Optional) Examining the pipeline definition",
+        "(Optional) Examining the pipeline definition"
+    ],
+    "547": [
+        "Host Llama2-70B on Amazon SageMaker using TRT-LLM LMI container",
+        "Deploy LLama2 70b Model with high performance on SageMaker using Sagemaker LMI and Rolling batch",
+        "Deploy LLama2 7b Model with high performance on SageMaker using Sagemaker LMI and Rolling batch"
+    ],
+    "548": [
+        "P95 numbers",
+        "P95 numbers",
+        "P95 numbers"
+    ],
+    "549": [
+        "Retrieve the LLM Image URI",
+        "Retrieve the LLM Image URI",
+        "Retrieve the LLM Image URI"
+    ],
+    "550": [
+        "Invoke just one of models 1000 times",
+        "JIT Trace the model",
+        "JIT Trace the model"
+    ],
+    "551": [
+        "STEP 1: Load and Preprocess Data",
+        "STEP 1: Load and Preprocess Data",
+        "STEP 1: Load and Preprocess Data"
+    ],
+    "552": [
+        "Classifiers",
+        "Classifiers",
+        "Classifiers"
+    ],
+    "553": [
+        "Create serving.properties",
+        "Create serving.properties",
+        "Create serving.properties"
+    ],
+    "554": [
+        "Load OpenSeg model",
+        "\u52a0\u8f7d\u6a21\u578b",
+        "`M.load_model(model_name)`"
+    ],
+    "555": [
+        "Stop Close the Endpoint",
+        "Stop Close the Endpoint (Optional)",
+        "Stop Close the Endpoint (Optional)"
+    ],
+    "556": [
+        "Create Explainer Object",
+        "Create Explainer Object",
+        "Create explainer object"
+    ],
+    "557": [
+        "Build and Push Docker Image to ECR",
+        "Build Docker image and push to ECR.",
+        "Build and Push Docker Image to ECR"
+    ],
+    "558": [
+        "Bars",
+        "Bars",
+        "Bars"
+    ],
+    "559": [
+        "Create Index",
+        "Create Index",
+        "Create Index"
+    ],
+    "560": [
+        "Monitoring Schedule",
+        "Monitoring Schedule",
+        "Monitoring Schedule"
+    ],
+    "561": [
+        "Install cecessary libraries",
+        "Install the `smjsindustry` library",
+        "Install the `smjsindustry` library"
+    ],
+    "562": [
+        "Pre Requisites",
+        "Pre-requisites",
+        "Pre-requisites"
+    ],
+    "563": [
+        "Hello, world: Submit a Q# job to IonQ",
+        "Hello world",
+        "Hello World"
+    ],
+    "564": [
+        "Using skopt.BayesSearchCV",
+        "Using Keyword Searches to Construct Seed Sets",
+        "Using Keyword Searches to Construct Seed Sets"
+    ],
+    "565": [
+        "Train/Test Split",
+        "Train-Test Split",
+        "Train Test Split"
+    ],
+    "566": [
+        "Hugging Face Large Model Inference with GPT-2 Large",
+        "We support fine-tuning on any pre-trained model available on HugginFace [Fill-Mask]( and [Text-Classification]( Though only the models in the dropdown list can be fine-tuned in network isolation. Please select huggingface-tc-models in the dropdown above if you can't find your choice of model to fine-tune in the dropdown list, and specify id of any model available in HugginFace [Fill-Mask]( and [Text-Classification]( in the HF_MODEL_ID variable below.",
+        "Hugging Face Large Model Inference"
+    ],
+    "567": [
+        "Get the azdata logs from the local machine",
+        "Get the azdata logs from the local machine",
+        "Get the azdata logs from the local machine"
+    ],
+    "568": [
+        "Copyright 2019 The TensorFlow Probability Authors.",
+        "Copyright 2019 The TensorFlow Probability Authors.",
+        "Copyright 2019 The TensorFlow Probability Authors."
+    ],
+    "569": [
+        "16.0 \u03a3\u03cd\u03bd\u03bf\u03c8\u03b7 \u0395\u03c0\u03cc\u03bc\u03b5\u03bd\u03b1 \u0392\u03ae\u03bc\u03b1\u03c4\u03b1;",
+        "16.0 \u603b\u7ed3/\u4e0b\u4e00\u6b65",
+        "16.0 \u603b\u7ed3/\u4e0b\u4e00\u6b65"
+    ],
+    "570": [
+        "Seamless Update",
+        "Seamless Update",
+        "Seamless update"
+    ],
+    "571": [
+        "Import Dependencies",
+        "Import dependencies",
+        "Import dependencies"
+    ],
+    "572": [
+        "Making Sure your Role **to run this Notebook** has the following policy attached:",
+        "Make sure that this notebook is using `smug` kernel",
+        "Make sure that this notebook is using `smug` kernel"
+    ],
+    "573": [
+        "To the extent that the GS entities are providing a financial service in Australia, the GS entities are each exempt from the requirement to hold an Australian financial services licence for the financial services they provide in Australia. Each of the GS entities are regulated by a foreign regulator under foreign laws which differ from Australian laws, specifically:",
+        "To the extent that the GS entities are providing a financial service in Australia, the GS entities are each exempt from the requirement to hold an Australian financial services licence for the financial services they provide in Australia. Each of the GS entities are regulated by a foreign regulator under foreign laws which differ from Australian laws, specifically:",
+        "To the extent that the GS entities are providing a financial service in Australia, the GS entities are each exempt from the requirement to hold an Australian financial services licence for the financial services they provide in Australia. Each of the GS entities are regulated by a foreign regulator under foreign laws which differ from Australian laws, specifically:"
+    ],
+    "574": [
+        "(i) who is an investment business within the meaning of clause 37 of Schedule 1 of the Financial Markets Conduct Act 2013 (New Zealand) (the \"FMC Act\");",
+        "(i) who is an investment business within the meaning of clause 37 of Schedule 1 of the Financial Markets Conduct Act 2013 (New Zealand) (the \"FMC Act\");",
+        "(i) who is an investment business within the meaning of clause 37 of Schedule 1 of the Financial Markets Conduct Act 2013 (New Zealand) (the \"FMC Act\");"
+    ],
+    "575": [
+        "Join between different data pool tables",
+        "Join between different data pool tables",
+        "Join between different data pool tables"
+    ],
+    "576": [
+        "Create an external table in the data pool with Round Robin distribution",
+        "Create an external table in the data pool with Round Robin distribution",
+        "Create an external table in the data pool with Round Robin distribution"
+    ],
+    "577": [
+        "Show the Kubernetes events for the system namespace",
+        "Show the Kubernetes events for the system namespace",
+        "Show the Kubernetes events for the system namespace"
+    ],
+    "578": [
+        "Run kubectl to display the PVs",
+        "Run kubectl to display the PVs",
+        "Run kubectl to display the PVs"
+    ],
+    "579": [
+        "Describe all nodes",
+        "Describe all nodes",
+        "Describe all nodes"
+    ],
+    "580": [
+        "Show the Kubernetes events for the Big Data Cluster namespace",
+        "Show the Kubernetes events for the Big Data Cluster namespace",
+        "Show the Kubernetes events for the Big Data Cluster namespace"
+    ],
+    "581": [
+        "Show the AZDATA version information",
+        "Show the AZDATA version information",
+        "Show the AZDATA version information"
+    ],
+    "582": [
+        "Create folder on `controller` to hold the certificate",
+        "Create folder on `controller` to hold the certificate",
+        "Create folder on `controller` to hold the certificate"
+    ],
+    "583": [
+        "Latest version",
+        "A particular version of the servable",
+        "Newest version of the servable"
+    ],
+    "584": [
+        "Loss",
+        "Quantify of loss in vegetation caused by wildfire",
+        "Quantify loss of vegetation and wildfire impact area"
+    ],
+    "585": [
+        "Get the name of the `master` `pods`",
+        "Get the name of the `master` `pods`",
+        "Get the name of the `master` `pods`"
+    ],
+    "586": [
+        "By default registration is disabled. Only `root_client` can register",
+        "Registration",
+        "Registration"
+    ],
+    "587": [
+        "Get the name of the new controller pod",
+        "Get the name of the new controller pod",
+        "Get the name of the new controller pod"
+    ],
+    "588": [
+        "\u51c6\u5907\u6e90\u4ee3\u7801\u548c\u6570\u636e",
+        "\u51c6\u5907\u6e90\u4ee3\u7801\u548c\u6570\u636e",
+        "\u51c6\u5907\u6e90\u4ee3\u7801\u548c\u6570\u636e"
+    ],
+    "589": [
+        "V. Evaluate the model",
+        "V. Evaluate the model",
+        "V. Evaluate the model"
+    ],
+    "590": [
+        "4. Write to DAC, read from ADC, print result",
+        "4. Write to DAC, read from ADC, print result",
+        "4. Write to DAC, read from ADC, print result"
+    ],
+    "591": [
+        "Define problem",
+        "Problem",
+        "The Problem"
+    ],
+    "592": [
+        "Endpoint cleanup",
+        "Cleanup the endpoint",
+        "Cleanup Endpoint"
+    ],
+    "593": [
+        "Multi-label classification",
+        "Multi-label Classification",
+        "Multi-label classification"
+    ],
+    "594": [
+        "Create data loaders to load data in batches",
+        "Create data loaders to load data in batches",
+        "Create data loaders to load data in batches"
+    ],
+    "595": [
+        "Data Exploration",
+        "Data Exploration",
+        "Data Exploration"
+    ],
+    "596": [
+        "Uploading data to sagemaker_session_bucket",
+        "Uploading data to `sagemaker_session_bucket`",
+        "Uploading data to `sagemaker_session_bucket`"
+    ],
+    "597": [
+        "TensorBoard",
+        "TensorBoard",
+        "Tensorboard"
+    ],
+    "598": [
+        "Load libraries",
+        "Load libraries",
+        "An issue has been brought up in the repository about using the library for labelling bars above them"
+    ],
+    "599": [
+        "Some utility functions",
+        "Some utility functions",
+        "Some utility functions"
+    ],
+    "600": [
+        "COVID-19 Tracking U.S. Cases",
+        "COVID-19 Overview",
+        "2 COVID-19 Data"
+    ],
+    "601": [
+        "Deploy the endpoint",
+        "Invoke locally deployed endpoint",
+        "Invoke remotely deployed endpoint"
+    ],
+    "602": [
+        "Disclaimers:",
+        "Disclaimers:",
+        "Disclaimers:"
+    ],
+    "603": [
+        "Plot a single instance",
+        "Plot a single instance",
+        "Plot a single instance"
+    ],
+    "604": [
+        "How it works",
+        "How it works?",
+        "How it works"
+    ],
+    "605": [
+        "Internal representation of a MusicXML State:",
+        "Methods of MusicXML Note:",
+        "Methods of MusicXML Part:"
+    ],
+    "606": [
+        "Step 3. Improve the answer to the same question using **prompt engineering** with insightful context",
+        "Step 4. Use RAG based approach to identify the correct documents, and use them along with prompt and question to query LLM",
+        "Step 4. Use RAG based approach to identify the correct documents, and use them along with prompt and question to query LLM"
+    ],
+    "607": [
+        "Beam Flink Runner Benchmarks 1.9.0 (beam-flink-runner-1.9 Beam 2.22.0)",
+        "Beam Spark Runner Benchmarks (beam-spark-runner Beam 2.22.0 on Spark 2.4.6) Micro batch interval 3 secs",
+        "Beam Spark Runner Benchmarks (beam-spark-runner Beam 2.22.0 on Spark 2.4.6) Micro batch interval 3 secs"
+    ],
+    "608": [
+        "Create Conda Environment for Dependencies",
+        "create the environment",
+        "Install from source in Conda environment"
+    ],
+    "609": [
+        "Footnotes",
+        "Footnotes",
+        "Footnotes"
+    ],
+    "610": [
+        "fin",
+        "fin",
+        "fin"
+    ],
+    "611": [
+        "\u8bad\u7ec3\u6a21\u578b",
+        "\u8bad\u7ec3\u6a21\u578b",
+        "\u8bad\u7ec3\u6a21\u578b"
+    ],
+    "612": [
+        "Train Model",
+        "Train Model",
+        "Train Model"
+    ],
+    "613": [
+        "Installing whylogs",
+        "Installing whylogs",
+        "Installing whylogs"
+    ],
+    "614": [
+        "Exposure to Macro Factors",
+        "Get All Available Macro Factors",
+        "Get your Portfolio Exposure to Macro Factors and Categories"
+    ],
+    "615": [
+        "Find Pod hosting the primary replica",
+        "Find Pod hosting the primary replica",
+        "Find Pod hosting the primary replica"
+    ],
+    "616": [
+        "Install Dependencies",
+        "Install Dependencies",
+        "Install Dependencies"
+    ],
+    "617": [
+        "Configure rules",
+        "Rules",
+        "Rules"
+    ],
+    "618": [
+        "Generating Datasets",
+        "Generating Data",
+        "Generating Data"
+    ],
+    "619": [
+        "Loading data",
+        "Loading Data",
+        "Loading data"
+    ],
+    "620": [
+        "Load and prepare the data",
+        "Load and prepare the data",
+        "Load and prepare the data"
+    ],
+    "621": [
+        "Appendix",
+        "Appendix",
+        "Appendix"
+    ],
+    "622": [
+        "15 \"left_back_paw\" \"right_back_paw\": 16",
+        "14 \"right_front_paw\" \"left_front_paw\": 13",
+        "13 \"left_front_paw\" \"right_front_paw\": 14"
+    ],
+    "623": [
+        "Predict probabilities and estimate quality",
+        "Predict probabilities and estimate quality",
+        "Predict probabilities and estimate quality"
+    ],
+    "624": [
+        "Disclaimer",
+        "Disclaimer",
+        "Disclaimer"
+    ],
+    "625": [
+        "Upload the data for training",
+        "Upload the data for training",
+        "Upload the data for training"
+    ],
+    "626": [
+        "Getting the data",
+        "Getting the data",
+        "Getting the data"
+    ],
+    "627": [
+        "Tests",
+        "Tests",
+        "Test PyCuda"
+    ],
+    "628": [
+        "Create the DNS alt\\_names for control plane in secure clusters",
+        "Create the DNS alt\\_names for control plane in secure clusters",
+        "Create the DNS alt\\_names for control plane in secure clusters"
+    ],
+    "629": [
+        "Load network",
+        "Load network",
+        "Load network"
+    ],
+    "630": [
+        "1. Import packages",
+        "1. Import packages",
+        "1. Import packages"
+    ],
+    "631": [
+        "2.2. Retrieve JumpStart Artifacts Deploy an Endpoint",
+        "2.2. Retrieve JumpStart Artifacts Deploy an Endpoint",
+        "2. Retrieve jumpstart artifacts deploy an endpoint"
+    ],
+    "632": [
+        "Kaggle Rossmann store with RandomForest regressor",
+        "Mountain Car with Amazon SageMaker RL",
+        "Using Amazon SageMaker for RL"
+    ],
+    "633": [
+        "Documentation",
+        "Documentation",
+        "Documentation"
+    ],
+    "634": [
+        "Concepts",
+        "Concepts",
+        "Concepts"
+    ],
+    "635": [
+        "Before you begin",
+        "Before you begin",
+        "Before you begin"
+    ],
+    "636": [
+        "Set your API Endpoint",
+        "Set your API Endpoint",
+        "Set your API Endpoint"
+    ],
+    "637": [
+        "Login to azure",
+        "Login to azure",
+        "Login to azure"
+    ],
+    "638": [
+        "Wait for cluster to to get healthy",
+        "Wait for cluster to to get healthy",
+        "Wait for cluster to to get healthy"
+    ],
+    "639": [
+        "Verify `azdata login` works",
+        "Verify `azdata login` works",
+        "Verify `azdata login` works"
+    ],
+    "640": [
+        "Define notebooks and their arguments",
+        "Define notebooks and their arguments",
+        "Define notebooks and their arguments"
+    ],
+    "641": [
+        "5.3. Performance Visualization",
+        "4.3. Performance Visualization",
+        "3.3. Performance Visualization"
+    ],
+    "642": [
+        "Define the format of the .csv or Parquet file to read from HDFS",
+        "Define the format of the .csv or Parquet file to read from HDFS",
+        "Define the format of the .csv or Parquet file to read from HDFS"
+    ],
+    "643": [
+        "Initial State",
+        "Initial State",
+        "Initial State"
+    ],
+    "644": [
+        "Create an external table that can read the `/tmp/clickstream_data` from the storage pool",
+        "Create an external table that can read the `/tmp/clickstream_data` from the storage pool",
+        "Create an external table that can read the `/tmp/clickstream_data` from the storage pool"
+    ],
+    "645": [
+        "Setting the Environment Variables",
+        "Setting the Environment Variables",
+        "Set Environment Variables"
+    ],
+    "646": [
+        "Explain predictions",
+        "Explain predictions",
+        "Explain predictions"
+    ],
+    "647": [
+        "7. Clean up the endpoint",
+        "7. Draw a filled rectangle",
+        "7. Draw a filled rectangle"
+    ],
+    "648": [
+        "Feature Space Partitioning",
+        "Feature Space Partitioning",
+        "Feature Space Partitioning"
+    ],
+    "649": [
+        "Stock NeurIPS2018 Part 1. Data",
+        "Part I: Classification for Tabular Data",
+        "Part I: Classification for Tabular Data"
+    ],
+    "650": [
+        "\u5b9a\u4e49\u63a8\u7406\u7f51\u7edc\uff0c\u5e76\u52a0\u8f7d\u524d\u9762\u8bad\u7ec3\u7684loss\u6700\u4f4e\u7684\u6a21\u578b",
+        "Training and Evaluating Simple Model",
+        "Evaluating Generative Models, and evaluating GANs"
+    ],
+    "651": [
+        "Highlight a group",
+        "if `num_pid_m` isn't divisible by `GROUP_SIZE_M`, the last group is smaller",
+        "Highlight a group"
+    ],
+    "652": [
+        "Use `azdata` to query the `SQL Master Pool`",
+        "Use `azdata` to query the `SQL Master Pool`",
+        "Use `azdata` to query the `SQL Master Pool`"
+    ],
+    "653": [
+        "Connect to each container that mounts a PVC and run the `df` linux command line tool",
+        "Connect to each container that mounts a PVC and run the `df` linux command line tool",
+        "Connect to each container that mounts a PVC and run the `df` linux command line tool"
+    ],
+    "654": [
+        "Use azdata to log out",
+        "Use azdata to log out",
+        "Use azdata to log out"
+    ],
+    "655": [
+        "Strategy",
+        "Folding strategy",
+        "Folding Strategy"
+    ],
+    "656": [
+        "Do you see `quantinuum.sim.h1-1sc` in your list of targets? If so, you're ready to keep going.",
+        "Do you see `quantinuum.sim.h1-1sc` in your list of targets? If so, you're ready to keep going.",
+        "Do you see `quantinuum.sim.h1-1sc` in your list of targets? If so, you're ready to keep going."
+    ],
+    "657": [
+        "Install the Root CA",
+        "Install the Root CA",
+        "Install the Root CA"
+    ],
+    "658": [
+        "ie quilt3.config('",
+        "ie quilt3.config('",
+        "ie quilt3.config('"
+    ],
+    "659": [
+        "Kick off baselining job",
+        "Kick off baselining job",
+        "Kick off baselining job"
+    ],
+    "660": [
+        "\u6570\u636e\u96c6",
+        "\u6570\u636e\u96c6",
+        "\u6570\u636e\u96c6"
+    ],
+    "661": [
+        "Eventlog Cleared",
+        "Resolving a full transaction log",
+        "Remarks: The log-sum-exp trick"
+    ],
+    "662": [
+        "Describe the app",
+        "Describe the app",
+        "Describe the app"
+    ],
+    "663": [
+        "Doing the inference",
+        "Doing the inference",
+        "Doing the inference"
+    ],
+    "664": [
+        "To create the end point the steps are:",
+        "To create the end point the steps are:",
+        "To create the end point the steps are:"
+    ],
+    "665": [
+        "Search data",
+        "Search data",
+        "Search data"
+    ],
+    "666": [
+        "Colab to run MADLAD models",
+        "Run Model on Onnxruntime",
+        "Run the ssd model under onnxruntime"
+    ],
+    "667": [
+        "Serializing",
+        "SetDate",
+        "SetDate"
+    ],
+    "668": [
+        "Day 1/17",
+        "Day 1/20",
+        "Day 1/20"
+    ],
+    "669": [
+        "Attack",
+        "Attack",
+        "Attack"
+    ],
+    "670": [
+        "4.\u914d\u7f6ehive-site.yml",
+        "4. Set the \"level\" or the number of LEDs which are set",
+        "4. Set the \"level\" or the number of LEDs which are set"
+    ],
+    "671": [
+        "Why use a Vector Database",
+        "Why use a Vector Database",
+        "Why use a Vector Database"
+    ],
+    "672": [
+        "Build a instance segmentation model and load pre-trained model weights",
+        "Load pre-trained model.",
+        "Build a instance segmentation model and load pre-trained model weights"
+    ],
+    "673": [
+        "Identity Matrix $I$",
+        "Identity Matrix",
+        "Identity Matrix"
+    ],
+    "674": [
+        "Scheduler:",
+        "Scheduler:",
+        "Scheduler:"
+    ],
+    "675": [
+        "Discussion",
+        "Themes",
+        "List of themes"
+    ],
+    "676": [
+        "Conclusions",
+        "Conclusions",
+        "Conclusions"
+    ],
+    "677": [
+        "What the heck are transformers and how they came to be?",
+        "Taming Transformers",
+        "Taming Transformers"
+    ],
+    "678": [
+        "Import ResNet18 from TorchVision",
+        "Import ResNet18 from TorchVision",
+        "Import ResNet18 from TorchVision"
+    ],
+    "679": [
+        "Run on IonQ QPU",
+        "Create IonQ simulator and QPU backends",
+        "Run on IonQ QPU"
+    ],
+    "680": [
+        "Spark Magic",
+        "Machine magic",
+        "Magic for files"
+    ],
+    "681": [
+        "Load Pretrained Model",
+        "Load the pretrained model",
+        "Load the pretrained model"
+    ],
+    "682": [
+        "Deploying Trained Model for Inference",
+        "Deploying Trained Model for Inference",
+        "Deploying Trained Model for Inference"
+    ],
+    "683": [
+        "9. Custom Load Test",
+        "7. Custom Load Test",
+        "7. Custom Load Test"
+    ],
+    "684": [
+        "Features importance plot",
+        "Feature importance",
+        "Features importance"
+    ],
+    "685": [
+        "6.3. Question and Answering",
+        "6.7. Question and Answering",
+        "6.3. Question and Answering"
+    ],
+    "686": [
+        "A.1. Using MLP on the vectorized Matrix (Euclidean Method)",
+        "A.5. Using Riemannian MDM",
+        "A.4. Using Euclidean MDM"
+    ],
+    "687": [
+        "Cell menu",
+        "Cell menu",
+        "Run the cells below"
+    ],
+    "688": [
+        "Define helper functions for MF-HVKG",
+        "Define a helper function to construct the MFKG acquisition function",
+        "Define a helper function to construct the MFKG acquisition function"
+    ],
+    "689": [
+        "Stop All Serving Containers",
+        "Stop All Serving Containers",
+        "Stop All Serving Containers"
+    ],
+    "690": [
+        "hide",
+        "|hide",
+        "`#|hide`"
+    ],
+    "691": [
+        "4. Customized Learner",
+        "4. Customized Learner",
+        "4. Training EfficientDets on PASCAL."
+    ],
+    "692": [
+        "Is notebook being run inside a Kubernetes cluster",
+        "Is notebook being run inside a Kubernetes cluster",
+        "Is notebook being run inside a Kubernetes cluster"
+    ],
+    "693": [
+        "Training with Native PyTorch",
+        "Training with Native PyTorch",
+        "Training with Native PyTorch"
+    ],
+    "694": [
+        "Polynomial order",
+        "4 Fit Polynomial",
+        "Polynomial Features"
+    ],
+    "695": [
+        "RandomColorProvider",
+        "RandomColorProvider",
+        "RandomColorProvider"
+    ],
+    "696": [
+        "Further reading",
+        "Further reading",
+        "Further Reading"
+    ],
+    "697": [
+        "Simple SA 20",
+        "Simple SA",
+        "Simple SA"
+    ],
+    "698": [
+        "All Kinds of Fields",
+        "All Kinds of Fields",
+        "All Kinds of Fields"
+    ],
+    "699": [
+        "Extrinsic Metrics: Assess the overall quality and effectiveness of generated output on downstream task",
+        "Extrinsic Metrics: Assess the overall quality and effectiveness of generated output on downstream task:",
+        "Extrinsic Metrics: Assess the overall quality and effectiveness of generated output on downstream task"
+    ],
+    "700": [
+        "8 workers checkpointing enabled",
+        "8 workers checkpointing enabled",
+        "2 workers checkpointing enabled"
+    ],
+    "701": [
+        "Utility methods",
+        "Utility methods",
+        "Utility methods"
+    ],
+    "702": [
+        "Save and Load the finetuned model",
+        "Saving and Reloading the Tabular Predictor",
+        "Saving and Reloading the Tabular Predictor"
+    ],
+    "703": [
+        "Example 2: Tooltips",
+        "2a GradSampleModule",
+        "Example #2: Using the backoff library"
+    ],
+    "704": [
+        "Data scientist: fetch result",
+        "Data scientist: fetch result",
+        "Data scientist: fetch result"
+    ],
+    "705": [
+        "Background data",
+        "Data Core",
+        "Data By Country"
+    ],
+    "706": [
+        "Performance Visualization",
+        "Show overall performance again but without Random",
+        "Show overall performance again but without Random"
+    ],
+    "707": [
+        "Measurement Noise Covariance",
+        "Measurement Noise Covariance $R$",
+        "Measurement Noise Covariance"
+    ],
+    "708": [
+        "3. Deploy and Run Inference on the Trained Tabular Model",
+        "6.2. Deploy and Run Inference on the Trained Tabular Model",
+        "3. Deploy and Run Inference on the Trained Tabular Model"
+    ],
+    "709": [
+        "Stage II: Train an unsupervised RandomCutForest model",
+        "Step 2: Train your model (a genetic algorithm with SynNet)",
+        "Step 2b: Task-adpative pretraining for langauge model"
+    ],
+    "710": [
+        "@package _global_",
+        "@package _global_",
+        "class_id center_x center_y bbox_width bbox_height"
+    ],
+    "711": [
+        "Load data into tables",
+        "Load data into tables",
+        "Load data into tables"
+    ],
+    "712": [
+        "Train Estimators",
+        "Train Estimators",
+        "Train Estimators"
+    ],
+    "713": [
+        "Calculate Shape Features",
+        "Colab notebook for demonstrating SCF calculations using the GAS22 functional",
+        "Calculate features using original image"
+    ],
+    "714": [
+        "Tree Convergence",
+        "Tree Convergence",
+        "Tree Convergence"
+    ],
+    "715": [
+        "Gather Requirement Information",
+        "Query Asset Data",
+        "Query Asset Data"
+    ],
+    "716": [
+        "Run FLAML",
+        "Run FLAML",
+        "Run FLAML"
+    ],
+    "717": [
+        "Launching Environment",
+        "Launching Environment",
+        "Launching Environment"
+    ],
+    "718": [
+        "4. Query endpoint and parse response",
+        "4. Query endpoint and parse response",
+        "4. Query endpoint and parse response"
+    ],
+    "719": [
+        "Suspicious eventlog clear or configuration using wevtutil",
+        "This program will use approximately 11.31 units (HQCs or eHQCs) using 50 shots, as configured below.",
+        "This program will use approximately 10.65 units (HQCs or eHQCs) using 50 shots, as configured below."
+    ],
+    "720": [
+        "Risk Measures",
+        "Risk Measures",
+        "Risk Measures"
+    ],
+    "721": [
+        "SageMaker JumpStart Foundation Models HuggingFace Text2Text Generation",
+        "SageMaker JumpStart Foundation Models HuggingFace Text2Text Generation",
+        "SageMaker JumpStart Foundation Models HuggingFace Text2Text Generation"
+    ],
+    "722": [
+        "Feature Selection",
+        "V. Feature selection",
+        "Feature Selection"
+    ],
+    "723": [
+        "Leverage multi process to Stress test the end point",
+        "Optional Stress test the end point",
+        "Optional Stress test the end point"
+    ],
+    "724": [
+        "Position x/y",
+        "Position x/y",
+        "Position x/y"
+    ],
+    "725": [
+        "Formulate Optimization Problem",
+        "Formulate Optimization Problem",
+        "Formulate Optimization Problem"
+    ],
+    "726": [
+        "Copyright 2021 Google LLC.",
+        "Copyright 2021 Google LLC.",
+        "Copyright 2021 Google LLC."
+    ],
+    "727": [
+        "Load network",
+        "Load network",
+        "Load network"
+    ],
+    "728": [
+        "Licence agreement",
+        "Licence agreement",
+        "Licence agreement"
+    ],
+    "729": [
+        "Visualize predictions.",
+        "Visualize predictions",
+        "Visualize predictions"
+    ],
+    "730": [
+        "Create SageMaker compatible Model artifact, upload Model to S3 and bring your own inference script.",
+        "Create SageMaker compatible Model artifact, upload Model to S3 and bring your own inference script.",
+        "Create SageMaker compatible Model artifact, upload model to S3 and bring your own inference script."
+    ],
+    "731": [
+        "Logistic regression",
+        "Logistic regression",
+        "Logistic Regression"
+    ],
+    "732": [
+        "Final chart",
+        "Final chart",
+        "Final chart"
+    ],
+    "733": [
+        "Introduction to NVIDIA Triton Server",
+        "Introduction to NVIDIA Triton Server",
+        "Introduction to NVIDIA Triton Server"
+    ],
+    "734": [
+        "Train and Eval Loop",
+        "Train and eval loop",
+        "Train and Eval Loop"
+    ],
+    "735": [
+        "Imports and variables",
+        "Imports and variables",
+        "Imports and variables"
+    ],
+    "736": [
+        "While you wait for the endpoint to be created, you can read more about:",
+        "While you wait for the endpoint to be created, you can read more about:",
+        "While you wait for the endpoint to be created, you can read more about:"
+    ],
+    "737": [
+        "Choose figure",
+        "_Choose-your-framework_",
+        "_Choose-your-framework_"
+    ],
+    "738": [
+        "Process Noise Covariance Matrix $Q$",
+        "Process Noise Covariance Matrix Q",
+        "Process Noise Covariance Matrix $Q$"
+    ],
+    "739": [
+        "3. Go Deeper",
+        "3. Set direction and speed for each motor",
+        "3. Set direction and speed for each motor"
+    ],
+    "740": [
+        "Run cluster-info dump",
+        "Run cluster-info dump",
+        "Run cluster-info dump"
+    ],
+    "741": [
+        "Fine tuning",
+        "Fine-tuning",
+        "Fine-tuning"
+    ],
+    "742": [
+        "Read profiles from the store",
+        "Merging Profiles",
+        "Merging Profiles"
+    ],
+    "743": [
+        "Support",
+        "Support",
+        "Support"
+    ],
+    "744": [
+        "Plot mispredictions thresholds",
+        "Plot mispredictions thresholds",
+        "Plot mispredictions thresholds"
+    ],
+    "745": [
+        "Convert Interest Rate Futures to FRAs",
+        "Convert Interest Rate Futures to FRAs",
+        "Interest Rate Swap"
+    ],
+    "746": [
+        "Logging in via SSH",
+        "RDP over Reverse SSH Tunnel WFP",
+        "RDP over Reverse SSH Tunnel"
+    ],
+    "747": [
+        "Weight distribution",
+        "Weight distribution",
+        "Weight distribution"
+    ],
+    "748": [
+        "Get the `hdfs dfsadmin` report",
+        "Get the `hdfs dfsadmin` report",
+        "Get the `hdfs dfsadmin` report"
+    ],
+    "749": [
+        "Building Supervized Model",
+        "Building Supervized Model",
+        "Building Supervized Model"
+    ],
+    "750": [
+        "Acknowledgments",
+        "Acknowledgments",
+        "Acknowledgments"
+    ],
+    "751": [
+        "Inspect execution results",
+        "Inspect execution results",
+        "Inspect execution results"
+    ],
+    "752": [
+        "Choose Labeling Job Built-In Task Type",
+        "Choose Labeling Job Type",
+        "Choose Labeling Job Type"
+    ],
+    "753": [
+        "Construct Agents",
+        "Construct Agents",
+        "Construct Agents"
+    ],
+    "754": [
+        "$n \\hat R$ diagnostic",
+        "$n \\hat R$ diagnostic",
+        "$n \\hat R$ diagnostic"
+    ],
+    "755": [
+        "Client:",
+        "Clients",
+        "Client:"
+    ],
+    "756": [
+        "ATE and CATE via DMLIV",
+        "ATE and CATE via DMLIV",
+        "ATE and CATE via DMLIV"
+    ],
+    "757": [
+        "State Estimate",
+        "Maintain the BAxUS state",
+        "Maintain state"
+    ],
+    "758": [
+        "evaluate pruning performance",
+        "evaluate pruning performance",
+        "evaluate pruning performance"
+    ],
+    "759": [
+        "Get the SID for user",
+        "Get the SID for user",
+        "Get the SID for user"
+    ],
+    "760": [
+        "Total Deaths",
+        "Evolution of daily confirmed deaths by region",
+        "Evolution of total confirmed deaths by region"
+    ],
+    "761": [
+        "Option 1: `csv` serialization",
+        "Option 2: `npy` serialization",
+        "Option 2: `npy` serialization"
+    ],
+    "762": [
+        "Content",
+        "Content",
+        "Downloading Content from Physionet"
+    ],
+    "763": [
+        "Load tokenizer",
+        "Load tokenizer",
+        "Load tokenizer"
+    ],
+    "764": [
+        "Stress and pressure",
+        "Arterial pressure features",
+        "Arterial pressure features"
+    ],
+    "765": [
+        "Deployments",
+        "Deployments",
+        "Deployments"
+    ],
+    "766": [
+        "Train XGBoost Model",
+        "Train XGBoost model",
+        "Train XGBoost Model"
+    ],
+    "767": [
+        "Create user account",
+        "Create user account",
+        "Create user account"
+    ],
+    "768": [
+        "Network functionality",
+        "Func",
+        "Functors"
+    ],
+    "769": [
+        "2. Select a model",
+        "2. Select a model",
+        "2. Select a model"
+    ],
+    "770": [
+        "Let's run it!",
+        "Let's blow it up!",
+        "Run (slow)"
+    ],
+    "771": [
+        "Create a model object",
+        "Create a model object",
+        "Create a model object"
+    ],
+    "772": [
+        "2. Starting logging once every 100 milliseconds",
+        "2. Starting logging once every 100 milliseconds",
+        "2. Starting logging once every 100 milliseconds"
+    ],
+    "773": [
+        "Training loop",
+        "Training loop",
+        "Training Loop"
+    ],
+    "774": [
+        "Get the name of the `management proxy` `pod`",
+        "Get the name of the `management proxy` `pod`",
+        "Get the name of the `management proxy` `pod`"
+    ],
+    "775": [
+        "Show the System pods for the big data cluster",
+        "Show the System pods for the big data cluster",
+        "Show the System pods for the big data cluster"
+    ],
+    "776": [
+        "Ouvidoria Goldman Sachs Brasil: 0800 727 5764 e/ou ouvidoriagoldmansachs@gs.com",
+        "Ouvidoria Goldman Sachs Brasil: 0800 727 5764 e/ou ouvidoriagoldmansachs@gs.com",
+        "Ouvidoria Goldman Sachs Brasil: 0800 727 5764 e/ou ouvidoriagoldmansachs@gs.com"
+    ],
+    "777": [
+        "Want to know more about zarr arrays?",
+        "zarr arrays",
+        "Zarr arrays"
+    ],
+    "778": [
+        "3. Retrieve Artifacts Deploy an Endpoint",
+        "3. Retrieve Artifacts Deploy an Endpoint",
+        "3.1. Retrieve Artifacts Deploy an Endpoint"
+    ],
+    "779": [
+        "\u5b9a\u4e49\u5faa\u73af\u8bad\u7ec3",
+        "\u81ea\u5b9a\u4e49\u8bad\u7ec3\uff1a\u5b9e\u6218",
+        "\u81ea\u5b9a\u4e49\u8bad\u7ec3\uff1a\u57fa\u7840\u90e8\u5206"
+    ],
+    "780": [
+        "Upload the dataset to Amazon S3",
+        "Stage COCO 2017 dataset on Amazon S3",
+        "Stage COCO 2017 dataset on Amazon S3"
+    ],
+    "781": [
+        "Rollback Case",
+        "Rollback Case",
+        "Rollback Case"
+    ],
+    "782": [
+        "Train and validate the model, this time on TPU",
+        "Train and evaluate a GAN model on TPU using TF-GAN.",
+        "Train and evaluate a GAN model on TPU using TF-GAN."
+    ],
+    "783": [
+        "Import modules",
+        "Import modules",
+        "Import Modules"
+    ],
+    "784": [
+        "Prereqs: Get Data",
+        "Prereqs: Get Data",
+        "Prereqs: Get Data"
+    ],
+    "785": [
+        "Exercise #1",
+        "Exercise 3",
+        "Exercise 4"
+    ],
+    "786": [
+        "VI. Save the model",
+        "VI. Save the model",
+        "VI. Save the model"
+    ],
+    "787": [
+        "Data preparation",
+        "Data preparation",
+        "Data preparation"
+    ],
+    "788": [
+        "Calculate the Jacobian of the Dynamic function $g$ with respect to the state vector $x$",
+        "Calculate the Jacobian of the Dynamic function $g$ with respect to the state vector $x$",
+        "Calculate the Jacobian of the Dynamic function $g$ with respect to the state vector $x$"
+    ],
+    "789": [
+        "Define Data Channels for SageMaker Training Using Amazon S3",
+        "Define data channels for SageMaker Training using Amazon S3",
+        "Define Data Channels for SageMaker Training Using Amazon S3"
+    ],
+    "790": [
+        "1. Setup",
+        "1. Setup",
+        "1.Setup"
+    ],
+    "791": [
+        "Define Metrics (Sort Order Perturbation Method)",
+        "Define Metrics (Sort Order Perturbation Method)",
+        "Define Metrics (Sort Order Perturbation Method)"
+    ],
+    "792": [
+        "Step 1: Load the overlay",
+        "Step 1: Load the overlay",
+        "Step 1: Load the overlay"
+    ],
+    "793": [
+        "\u6a21\u578b\u9009\u62e9",
+        "Model Selection Pipline",
+        "Model Selection Pipline"
+    ],
+    "794": [
+        "STEP 2: Create Model and Wrap in `Learner`",
+        "STEP 2: Create Model and Wrap in `Learner`",
+        "STEP 2: Create a Model and Wrap in `Learner`"
+    ],
+    "795": [
+        "1) What is a DSPy Optimizer?",
+        "4) How do I use a built-in module, like `dspy.Predict` or `dspy.ChainOfThought`?",
+        "1) What is a DSPy Module?"
+    ],
+    "796": [
+        "QG",
+        "QG",
+        "QG"
+    ],
+    "797": [
+        "Train the XGBoost model",
+        "Train the XGBoost model",
+        "Train the XGBoost model"
+    ],
+    "798": [
+        "Moving average",
+        "Moving average",
+        "Moving average"
+    ],
+    "799": [
+        "Training with Automatic Model Tuning ([HPO](",
+        "Training with Automatic Model Tuning ([HPO](",
+        "Training with SageMaker Automatic Model Tuning"
+    ],
+    "800": [
+        "Step 5.1: Deploy the model for performing real-time inference.",
+        "Step 3.1: Deploy the model for performing real-time inference.",
+        "Step 2.1: Deploy the model for performing real-time inference."
+    ],
+    "801": [
+        "Causal discovery with `TIGRAMITE`",
+        "Causal discovery with `TIGRAMITE`",
+        "Causal discovery with `TIGRAMITE`"
+    ],
+    "802": [
+        "Train the RL model using the Python SDK Script mode",
+        "Train the RL model using the Python SDK Script mode",
+        "Train the RL model using the Python SDK Script mode"
+    ],
+    "803": [
+        "Staging Low side",
+        "Staging Low side",
+        "Staging Low side"
+    ],
+    "804": [
+        "MLOps Template for Build, Train, and Deploy",
+        "Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2,",
+        "Customizing the Build/Train/Deploy MLOps Project Template"
+    ],
+    "805": [
+        "Problem setup",
+        "Problem setup",
+        "Problem setup"
+    ],
+    "806": [
+        "Kalman Gains",
+        "Kalman Gains K",
+        "Kalman Gains K"
+    ],
+    "807": [
+        "Minimization via Machine Learned Potentials",
+        "Simulations with Machine Learned Potentials",
+        "Machine Learned Potentials"
+    ],
+    "808": [
+        "Indicative Terms/Pricing Levels: This material may contain indicative terms only, including but not limited to pricing levels. There is no representation that any transaction can or could have been effected at such terms or prices. Proposed terms and conditions are for discussion purposes only. Finalized terms and conditions are subject to further discussion and negotiation.",
+        "Indicative Terms/Pricing Levels: This material may contain indicative terms only, including but not limited to pricing levels. There is no representation that any transaction can or could have been effected at such terms or prices. Proposed terms and conditions are for discussion purposes only. Finalized terms and conditions are subject to further discussion and negotiation.",
+        "Indicative Terms/Pricing Levels: This material may contain indicative terms only, including but not limited to pricing levels. There is no representation that any transaction can or could have been effected at such terms or prices. Proposed terms and conditions are for discussion purposes only. Finalized terms and conditions are subject to further discussion and negotiation."
+    ],
+    "809": [
+        "Prompts",
+        "Prompts",
+        "Prompts"
+    ],
+    "810": [
+        "AlphaFold2 w/ Jackhmmer (or MMseqs2)",
+        "ColabFold v1.5.5: AlphaFold2 w/ MMseqs2 BATCH",
+        "ColabFold v1.5.5: AlphaFold2 using MMseqs2"
+    ],
+    "811": [
+        "1. Example Usage with Single Continuous Treatment Synthetic Data and Model Selection",
+        "3. Example Usage with Multiple Continuous Treatment Synthetic Data",
+        "1. Example Usage with Continuous Treatment Synthetic Data"
+    ],
+    "812": [
+        "Pull Portfolio Factor Attribution Data with GS Quant",
+        "Pull Portfolio Factor Risk Data with GS Quant",
+        "Pull Portfolio Factor Risk Data with GS Quant"
+    ],
+    "813": [
+        "Wait for the App to move to ready state",
+        "Wait for the App to move to ready state",
+        "Wait for the App to move to ready state"
+    ],
+    "814": [
+        "\u7b2c\u4e00\u6b65\uff1a\u8bfb\u53d6\u56fe\u7247",
+        "Step 1: Request Developer Access",
+        "Step 1: Intial Developer Setup"
+    ],
+    "815": [
+        "HTML format",
+        "HTML",
+        "HTML"
+    ],
+    "816": [
+        "5. Launching BNN in software",
+        "8. Launching BNN in software",
+        "8. Launching BNN in Software"
+    ],
+    "817": [
+        "3.4. Start Training",
+        "4.4. Start Training",
+        "4.4. Start Training"
+    ],
+    "818": [
+        "Install the Hugging Face Transformers and Datasets libraries",
+        "Install the Hugging Face Transformers and Datasets libraries",
+        "Install the Hugging Face Transformers and Datasets libraries"
+    ],
+    "819": [
+        "BioBERT Named-Entity Recognition Inference with Mixed Precision",
+        "3. BioBERT Inference: Named-Entity Recognition",
+        "Named Entity Recognition (NER) to Enrich Text"
+    ],
+    "820": [
+        "Run SHAP Explanation",
+        "Run SHAP Explanation",
+        "Run SHAP Explanation"
+    ],
+    "821": [
+        "4. Plot values over time",
+        "4. Plot values over time",
+        "4. Plot values over time"
+    ],
+    "822": [
+        "Download the model",
+        "Download Segment Anything Model(SAM)",
+        "Download the Model"
+    ],
+    "823": [
+        "Load model and tokenizer",
+        "Load model and tokenizer",
+        "Load model and tokenizer"
+    ],
+    "824": [
+        "Copyright 2018 The TensorFlow Probability Authors.",
+        "Copyright 2018 The TensorFlow Probability Authors.",
+        "Copyright 2018 The TensorFlow Probability Authors."
+    ],
+    "825": [
+        "Create the Hugging Face Model",
+        "Create the Hugging Face Model",
+        "Create the Hugging Face Model"
+    ],
+    "826": [
+        "Analyze log in all pod containers",
+        "Analyze log in all pod containers",
+        "Analyze log in all pod containers"
+    ],
+    "827": [
+        "make an animation and save to disk",
+        "make an animation and save to disk",
+        "make an animation and save to disk"
+    ],
+    "828": [
+        "Generalized Linear Models",
+        "Fitting Generalized Linear Mixed-effects Models Using Variational Inference",
+        "Appendix B: Generalized Linear Mixed-Effect Models"
+    ],
+    "829": [
+        "Fine-tuning the model",
+        "Fine-tuning the model",
+        "De-dupe model-designed sequences"
+    ],
+    "830": [
+        "2.1. Retrieve Training Artifacts",
+        "2.1. Retrieve Training Artifacts",
+        "3.1. Retrieve Training Artifacts"
+    ],
+    "831": [
+        "Create folder on `controller` to hold Root CA certificate",
+        "Create folder on `controller` to hold Root CA certificate",
+        "Create folder on `controller` to hold Root CA certificate"
+    ],
+    "832": [
+        "Create Data for KML Path",
+        "Create Data for KML Path",
+        "Create Data for KML Path"
+    ],
+    "833": [
+        "Establish if cluster is Active Directory enabled",
+        "Establish if cluster is Active Directory enabled",
+        "Establish if cluster is Active Directory enabled"
+    ],
+    "834": [
+        "Auto Generated Agent Chat: Task Solving with Provided Tools as Functions",
+        "Auto Generated Agent Chat: Task Solving with Code Generation, Execution Debugging",
+        "Auto Generated Agent Chat: Group Chat"
+    ],
+    "835": [
+        "Evaluating the results",
+        "After the benchmark tests are completed, we will see the results in below format. Below values are sample and actual results will vary based on env setup.",
+        "This notebook is used to generate the finalized version of the classifier, to simply feature transformation into the final form, and to test that the results are the same"
+    ],
+    "836": [
+        "Performance comparison",
+        "Performance Comparison",
+        "We can now compare the throughput results e.g. Token/s, TPS for different batching techniques to review the throughout gains achieved by using Continuous and Paged Attention Batching over Dynamic Batching."
+    ],
+    "837": [
+        "Install Waymo Open Dataset Package",
+        "Install Waymo Open Dataset Package",
+        "Waymo Open Dataset Tutorial"
+    ],
+    "838": [
+        "Obtain CA certificate and extract the private key from pfx if Big Data Cluster CA is used",
+        "Obtain CA certificate and extract the private key from pfx if Big Data Cluster CA is used",
+        "Obtain CA certificate and extract the private key from pfx if Big Data Cluster CA is used"
+    ],
+    "839": [
+        "Handful of configuration",
+        "Handful of configuration",
+        "Handful of configuration"
+    ],
+    "840": [
+        "Training script",
+        "Training Script",
+        "Training script"
+    ],
+    "841": [
+        "Components",
+        "Components",
+        "Components"
+    ],
+    "842": [
+        "Prot T5 Finetuning",
+        "Prot T5 Finetuning",
+        "Prot T5 Finetuning"
+    ],
+    "843": [
+        "Validate certificate common name and alt names",
+        "Validate certificate common name and alt names",
+        "Validate certificate common name and alt names"
+    ],
+    "844": [
+        "BNN on Pynq",
+        "BNN on Pynq",
+        "BNN on Pynq"
+    ],
+    "845": [
+        "2.2. Set Training Parameters",
+        "2.3 Configure training job using TensorFlow estimator and pass in the profiler configuration.",
+        "2) discriminative finetuning: initialize 2-layer MLP with learned parameters $\\boldsymbol{\\psi}$ and train using backprop"
+    ],
+    "846": [
+        "Extracting Option Calls Cache",
+        "Extracting Daily Cache",
+        "Extracting Stats Cache"
+    ],
+    "847": [
+        "Landmarks features only",
+        "Landmarks features only",
+        "Landmarks features only"
+    ],
+    "848": [
+        "Table of contents",
+        "Table of contents",
+        "Table of contents"
+    ],
+    "849": [
+        "Linear DRIV Estimator",
+        "CATE via Re-Weighted DRIV: DRIV-RW",
+        "CATE via Re-Weighted DRIV: DRIV-RW"
+    ],
+    "850": [
+        "6.2. Common sense reasoning natural language inference",
+        "6.2. Common sense reasoning natural language inference",
+        "6.2. Common sense reasoning natural language inference"
+    ],
+    "851": [
+        "Grove ADC Example",
+        "Grove Ultrasonic Ranger Example",
+        "Grove Ultrasonic Ranger Example"
+    ],
+    "852": [
+        "Set upgrade timeouts",
+        "Set upgrade timeouts",
+        "Set upgrade timeouts"
+    ],
+    "853": [
+        "Line chart with multiple variables",
+        "About line chart",
+        "About line chart"
+    ],
+    "854": [
+        "Profiling with whylogs",
+        "Profiling with whylogs",
+        "Profiling with whylogs"
+    ],
+    "855": [
+        "List all keys for Hadoop encryption at rest.",
+        "List all keys for Hadoop encryption at rest.",
+        "List all keys for Hadoop encryption at rest."
+    ],
+    "856": [
+        "Callbacks",
+        "Callbacks",
+        "Callbacks"
+    ],
+    "857": [
+        "SageMaker Training Compiler Overview",
+        "SageMaker Training Compiler Overview",
+        "SageMaker Training Compiler Overview"
+    ],
+    "858": [
+        "Load an image and infer",
+        "See a visualization of the anchor with examples and etc (won't work if you're seeing this on github)",
+        "See a visualization of the anchor with examples and etc (won't work if you're seeing this on github)"
+    ],
+    "859": [
+        "Configure the AWS SageMaker Estimator",
+        "Configure the AWS Sagemaker estimator",
+        "Security Support Provider (SSP) added to LSA configuration"
+    ],
+    "860": [
+        "d. Final Prediction",
+        "Final prediction",
+        "Final prediction"
+    ],
+    "861": [
+        "See Also",
+        "Go forth and visualize!",
+        "See also"
+    ],
+    "862": [
+        "Format the Data",
+        "Pull customer data and format the datapoint",
+        "Format the datapoint"
+    ],
+    "863": [
+        "K-means clustering",
+        "K-Means Clustering",
+        "K-means clustering"
+    ],
+    "864": [
+        "Display azdata version",
+        "Display azdata version",
+        "Display azdata version"
+    ],
+    "865": [
+        "Copyright 2022 The TensorFlow Authors.",
+        "Copyright 2022 The TensorFlow Authors.",
+        "Copyright 2022 The TensorFlow Authors."
+    ],
+    "866": [
+        "Leaf info",
+        "Leaf info",
+        "Leaf info"
+    ],
+    "867": [
+        "Re-train the model with the expanded dataset",
+        "Train the model on the Flowers dataset.",
+        "Train the model on the Flowers dataset."
+    ],
+    "868": [
+        "Optimizing the acquisition function",
+        "Optimizing the acquisition function",
+        "Optimize the acquisition function"
+    ],
+    "869": [
+        "HPO Algorithm 1: Grid Search",
+        "HPO Algorithm 2: Random Search",
+        "HPO Algorithm 2: Random Search"
+    ],
+    "870": [
+        "3. Comparison with alternatives",
+        "3. Comparison with alternatives",
+        "3. Comparison with alternatives"
+    ],
+    "871": [
+        "2. trade scenario analysis run multiple optimizations upon different risk aversion (urgency) parameters and compare the cost-risk trade-off among optimized execution strategies",
+        "1. APEX Optimization: run my trade list in the APEX optimizer and explore the various analytics:",
+        "2. APEX Optimization Trade Scenario Analysis: run my trade list in the APEX optimizer across multiple risk aversions\\urgency parameters to assess ideal parameters set."
+    ],
+    "872": [
+        "Simple Reinforcement Learning in Tensorflow Part 1.5:",
+        "Simple Reinforcement Learning in Tensorflow Part 2-b:",
+        "Simple Reinforcement Learning in Tensorflow Part 1:"
+    ],
+    "873": [
+        "XIII. Making live predictions from Webcam",
+        "XIII. Making live predictions from Webcam",
+        "XIII. Making live predictions from Webcam"
+    ],
+    "874": [
+        "Category Plots, aka Bar Charts",
+        "Category Plots, aka Bar Charts",
+        "Category Plots, aka Bar Charts"
+    ],
+    "875": [
+        "\u7b2c\u4e8c\u90e8\u5206(crnn\u505a\u968f\u673a\u62bd\u53d6keys\u4e2d20\u6765\u4e2a\u5b57\u7684\u6a21\u578b)",
+        "\u7b2c\u4e09\u90e8\u5206(crnn\u505a\u4ecekeys\u4e2d\u6311\u9009255\u4e2a\u6c49\u5b57\u7684\u6a21\u578b)",
+        "\u7b2c\u4e00\u90e8\u5206(crnn\u505a\u4e00\u5230\u4e5d\u8fd9\u4e5d\u4e2a\u6c49\u5b57\u7684\u6a21\u578b)"
+    ],
+    "876": [
+        "Related (SOP063, SOP054)",
+        "Related (SOP063, SOP054)",
+        "Related (SOP063, SOP054)"
+    ],
+    "877": [
+        "FinanceDataReader \uc124\uce58",
+        "FinanceDataReader \uc124\uce58",
+        "FinanceDataReader \uc124\uce58"
+    ],
+    "878": [
+        "Create the DNS alt\\_names for control plane in secure clusters",
+        "Create the DNS alt\\_names for control plane in secure clusters",
+        "Create the DNS alt\\_names for control plane in secure clusters"
+    ],
+    "879": [
+        "Setup Configuration file path",
+        "Setup Configuration file path",
+        "Setup Configuration file path"
+    ],
+    "880": [
+        "Dataset definition",
+        "2. Dataset definition",
+        "2) Knowing the manifold that a data set belongs to may give you a deeper understanding of your data's evolution or \"why your data looks/evolves the way it does\""
+    ],
+    "881": [
+        "Creating and Valuing a CDS Contract",
+        "Creating and Valuing a CDS Contract",
+        "Creating and Valuing a CDS Contract"
+    ],
+    "882": [
+        "Convolution layers",
+        "Layers",
+        "Layers"
+    ],
+    "883": [
+        "Learn more",
+        "Learn more",
+        "Learn more"
+    ],
+    "884": [
+        "Cleaning up",
+        "Cleaning up",
+        "Cleaning up"
+    ],
+    "885": [
+        "Declare and Compile SmartExplainer",
+        "Declare and Compile SmartExplainer",
+        "Declare and Compile SmartExplainer"
+    ],
+    "886": [
+        "Amazon SageMaker Initialization",
+        "Amazon SageMaker Initialization",
+        "Amazon SageMaker initialization"
+    ],
+    "887": [
+        "2.5. Compressed Image Output",
+        "2.5. Compressed Image Output",
+        "2.5. Compressed Image Output"
+    ],
+    "888": [
+        "Define the serving container",
+        "Define the serving container",
+        "Define the serving container"
+    ],
+    "889": [
+        "Host",
+        "Host",
+        "Host"
+    ],
+    "890": [
+        "Defining the network and running prediction",
+        "Defining the network and running prediction",
+        "Defining the network and running prediction"
+    ],
+    "891": [
+        "View the upgrade configmap",
+        "View the upgrade configmap",
+        "View the upgrade configmap"
+    ],
+    "892": [
+        "You're all set, Congrats! What's next?",
+        "You're all set, Congrats! What's next?",
+        "You're all set, Congrats! What's next?"
+    ],
+    "893": [
+        "\u5c0f\u7ed3",
+        "\u5c0f\u7ed3",
+        "\u5c0f\u7ed3"
+    ],
+    "894": [
+        "Epilogue",
+        "Epilogue",
+        "Epilogue"
+    ],
+    "895": [
+        "Pip install the kubernetes module",
+        "Pip install the kubernetes module",
+        "Pip install the kubernetes module"
+    ],
+    "896": [
+        "TensorRT Model Respository",
+        "TensorRT Model Repository",
+        "TensorRT Model Repository"
+    ],
+    "897": [
+        "What is Customer Churn and why is it important for businesses?",
+        "Why?",
+        "Why?"
+    ],
+    "898": [
+        "Language Model",
+        "Language model",
+        "Language model"
+    ],
+    "899": [
+        "Note on cumulative return plots",
+        "Get cumulative return",
+        "Cumulative Return By Quantile"
+    ],
+    "900": [
+        "Activation Offloading",
+        "Activation Offloading",
+        "Activation Offloading"
+    ],
+    "901": [
+        "MLP with L1/L2 regularization",
+        "Without L1 Regularization",
+        "With L1 Regularization"
+    ],
+    "902": [
+        "Tabular regression with Amazon SageMaker LightGBM and CatBoost algorithm",
+        "Tabular classification with Amazon SageMaker AutoGluon-Tabular algorithm",
+        "Tabular regression with Amazon SageMaker AutoGluon-Tabular algorithm"
+    ],
+    "903": [
+        "Why use `show_doc`?",
+        "Document existing code: `show_doc`",
+        "Document with show_doc"
+    ],
+    "904": [
+        "Citation",
+        "Citation",
+        "Citation"
+    ],
+    "905": [
+        "64-bit, 7k reads, 1.5 chain",
+        "32-bit, 7k reads, 1 chain",
+        "32-bit, 7k reads, 1.5 chain"
+    ],
+    "906": [
+        "BO Loop",
+        "BO Loop",
+        "Run the BO loop"
+    ],
+    "907": [
+        "Load Models",
+        "Load Models",
+        "Load Models"
+    ],
+    "908": [
+        "An introduction to Sequential Monte Carlo",
+        "Monte-Carlo Analysis",
+        "Monte-Carlo Analysis"
+    ],
+    "909": [
+        "Generate Samples",
+        "Generate Samples",
+        "Generate Samples"
+    ],
+    "910": [
+        "Create the app",
+        "Create the app",
+        "Create the app"
+    ],
+    "911": [
+        "Step 4: Build a classification model to identify anomalous samples",
+        "Step 4: Drawing conclusions from our modelling",
+        "Step 4. Deploy the Personal Protective Equipment (PPE) detection model"
+    ],
+    "912": [
+        "Batch Transform",
+        "Batch Transform",
+        "Batch Transform"
+    ],
+    "913": [
+        "Set up hosting for the model",
+        "Set up Hosting for the Model",
+        "Set up hosting for the model"
+    ],
+    "914": [
+        "Create a Scikit-learn script to train with",
+        "Create a Scikit-learn script for training",
+        "Create a Scikit-learn script for training"
+    ],
+    "915": [
+        "Visualization of Collected points",
+        "Collected Points",
+        "Collected Points"
+    ],
+    "916": [
+        "Loops",
+        "Loops",
+        "Loops"
+    ],
+    "917": [
+        "Get the best model",
+        "Best Model",
+        "Best Model"
+    ],
+    "918": [
+        "2. Analyze collected data for data quality issues",
+        "2. Analyze collected data for data quality issues",
+        "2. Analyzing collected data for data quality issues"
+    ],
+    "919": [
+        "Tokenization",
+        "Tokenization",
+        "Tokenization"
+    ],
+    "920": [
+        "Get external mount for `Data`",
+        "Get external mount for `Data`",
+        "Get external mount for `Data`"
+    ],
+    "921": [
+        "4.1. Extract Model Predicted Image",
+        "4.2. Display Extracted Model Predicted Image",
+        "4. Display and Extract Model Predicted Image"
+    ],
+    "922": [
+        "1 Let's get started with gs quant",
+        "1 Let's get started with gs quant",
+        "1 Let's get started with gs-quant"
+    ],
+    "923": [
+        "What's next?",
+        "What's Next?",
+        "What's Next?"
+    ],
+    "924": [
+        "STEP 3: Estimate LR",
+        "STEP 3: Estimate LR",
+        "STEP 3: Estimate LR"
+    ],
+    "925": [
+        "Learning Curve",
+        "Learning Curve",
+        "Learning Curve"
+    ],
+    "926": [
+        "2. yolov3\u8bad\u7ec3",
+        "\uff083\uff09\u6307\u5b9a\u8bad\u7ec3\u8f93\u51fa\u4f4d\u7f6e",
+        "Experiment1: Short-term fine-tuning using 20% of the training DS"
+    ],
+    "927": [
+        "Create Multi Model Endpoint",
+        "Create Multi Model Endpoint",
+        "Create Multi Model Endpoint"
+    ],
+    "928": [
+        "Copyright 2019 Google LLC.",
+        "Copyright 2019 Google LLC.",
+        "Copyright 2019 Google LLC"
+    ],
+    "929": [
+        "Clean-up",
+        "Clean-up",
+        "Clean-up"
+    ],
+    "930": [
+        "Visualize Results",
+        "Visualise Optimization Results",
+        "Visualise Your Optimisation Results"
+    ],
+    "931": [
+        "First, we upload our pre-trained models to Amazon S3",
+        "First, we upload our pre-trained models to Amazon S3",
+        "First, we upload our pre-trained models to Amazon S3"
+    ],
+    "932": [
+        "Net Surgery",
+        "Implement an operation that could introduce bit flips",
+        "Operations"
+    ],
+    "933": [
+        "Plot 'flatness' of classifier prediction",
+        "Voting prediction (predict i_th_ fold by all classifiers and take value, which is calculated by `vote_function`)",
+        "Perceptron minimizes the score difference between the correct class and the prediction"
+    ],
+    "934": [
+        "Get `PersistentVolumeClaim` reference for `Data` and `Logs`",
+        "Get `PersistentVolumeClaim` reference for `Data` and `Logs`",
+        "Get `PersistentVolumeClaim` reference for `Data` and `Logs`"
+    ],
+    "935": [
+        "Delete role-binding",
+        "Delete role-binding",
+        "Delete role-binding"
+    ],
+    "936": [
+        "Calculate AUC for the test data on model 1",
+        "Calculate AUC for the test data on model 2",
+        "Calculate AUC for the test data on model 3"
+    ],
+    "937": [
+        "Get IP address",
+        "Get IP address",
+        "Get IP address"
+    ],
+    "938": [
+        "First load data into numpy format",
+        "First load data into numpy format",
+        "First load data into numpy format"
+    ],
+    "939": [
+        "3.1. Retrieve JumpStart Training artifacts",
+        "4.1. Retrieve JumpStart Training artifacts",
+        "4.1. Retrieve JumpStart Training artifacts"
+    ],
+    "940": [
+        "Graph Matching Networks for Learning the Similarity of Graph Structured Objects",
+        "Graph matching layer and graph matching networks",
+        "The graph matching networks"
+    ],
+    "941": [
+        "STEP 3: Train the Model",
+        "Step 3: Deploy the hard-hat detection model.",
+        "Stage III: Train a XGBoost model with the built-in weighting schema"
+    ],
+    "942": [
+        "Utils",
+        "Utils",
+        "Utils"
+    ],
+    "943": [
+        "Example 1: Marker Pose Estimation",
+        "Inf 1 instances",
+        "Example 1: Effect-Moderation"
+    ],
+    "944": [
+        "Creating a blog within a nbdev project",
+        "Fastpages Notebook Blog Post",
+        "Fastpages Notebook Blog Post"
+    ],
+    "945": [
+        "2.1. Preparing training data",
+        "1.1. Preparing training data",
+        "2.1. Preparing training data"
+    ],
+    "946": [
+        "2.3. Starting training",
+        "2.2. Starting training",
+        "2.3. Starting training"
+    ],
+    "947": [
+        "Helpers",
+        "`L` helpers",
+        "Helpers"
+    ],
+    "948": [
+        "3.1. Retrieve JumpStart Artifacts Deploy an Endpoint",
+        "3.1. Retrieve jumpStart artifacts deploy an endpoint",
+        "3. Retrieve JumpStart Artifacts Deploy an Endpoint"
+    ],
+    "949": [
+        "Define a Model Evaluation Step to Evaluate the Trained Model",
+        "Define a Model Evaluation Step to Evaluate the Trained Model",
+        "\u5b9a\u4e49\u8bad\u7ec3\u8d85\u53c2\uff0c\u6a21\u578b\u3001\u65e5\u5fd7\u4fdd\u5b58\u8def\u5f84"
+    ],
+    "950": [
+        "Tabula Muris Data",
+        "Rubber Ducky data",
+        "Rubber Ducky data"
+    ],
+    "951": [
+        "WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.",
+        "WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.",
+        "WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied."
+    ],
+    "952": [
+        "Noise",
+        "Noise",
+        "Noise"
+    ],
+    "953": [
+        "Delete the temporary folder holding the Root CA certificate",
+        "Delete the temporary folder holding the Root CA certificate",
+        "Delete the temporary folder holding the Root CA certificate"
+    ],
+    "954": [
+        "What's New",
+        "What's New",
+        "What's New"
+    ],
+    "955": [
+        "Fetch the daily returns for a stock",
+        "Fetch the daily returns for a stock",
+        "Fetch the daily returns for a stock"
+    ],
+    "956": [
+        "Frequency spectrum over time",
+        "3. Frequency spectrum over time",
+        "Frequency spectrum over time"
+    ],
+    "957": [
+        "Plot a global summary",
+        "Plot a global summary",
+        "Plot a global summary"
+    ],
+    "958": [
+        "Load dataset and network",
+        "Load dataset and network",
+        "Load dataset and network"
+    ],
+    "959": [
+        "Top Candidates Customer Churn Prediction with Amazon SageMaker Autopilot and Batch Transform (Python SDK)",
+        "Direct Marketing with Amazon SageMaker Autopilot",
+        "Customer Churn Prediction with Amazon SageMaker Autopilot"
+    ],
+    "960": [
+        "www.goldmansachs.com/disclaimer/sales-and-trading-invest-rec-disclosures.html If you are not accessing this material via Marquee ContentStream, a list of the author's investment recommendations disseminated during the preceding 12 months and the proportion of the author's recommendations that are 'buy', 'hold', 'sell' or other over the previous 12 months is available by logging into Marquee ContentStream using the link below. Alternatively, if you do not have access to Marquee ContentStream, please contact your usual GS representative who will be able to provide this information to you.",
+        "www.goldmansachs.com/disclaimer/sales-and-trading-invest-rec-disclosures.html If you are not accessing this material via Marquee ContentStream, a list of the author's investment recommendations disseminated during the preceding 12 months and the proportion of the author's recommendations that are 'buy', 'hold', 'sell' or other over the previous 12 months is available by logging into Marquee ContentStream using the link below. Alternatively, if you do not have access to Marquee ContentStream, please contact your usual GS representative who will be able to provide this information to you.",
+        "www.goldmansachs.com/disclaimer/sales-and-trading-invest-rec-disclosures.html If you are not accessing this material via Marquee ContentStream, a list of the author's investment recommendations disseminated during the preceding 12 months and the proportion of the author's recommendations that are 'buy', 'hold', 'sell' or other over the previous 12 months is available by logging into Marquee ContentStream using the link below. Alternatively, if you do not have access to Marquee ContentStream, please contact your usual GS representative who will be able to provide this information to you."
+    ],
+    "961": [
+        "Agent 2: DDPG",
+        "Agent 1: A2C",
+        "Agent 2: DDPG"
+    ],
+    "962": [
+        "Cleaning Up",
+        "Cleaning Up",
+        "Cleaning Up"
+    ],
+    "963": [
+        "Pre-processes UCI Adult (Census Income) dataset:",
+        "Pre-process Law School Admissions Council Dataset (LSAC)",
+        "Pre-process data: raw_data raw_norm_data hct_data"
+    ],
+    "964": [
+        "Create XGBoost data objects",
+        "Create XGBoost data objects",
+        "Create XGBoost data objects"
+    ],
+    "965": [
+        "Authentication using API key",
+        "Authentication using API key",
+        "Authentication using API key"
+    ],
+    "966": [
+        "Quick Tip!",
+        "Quick Tip!",
+        "Quick Tip!"
+    ],
+    "967": [
+        "V. Define the number of classes",
+        "V. Define the number of classes",
+        "V. Define the number of classes"
+    ],
+    "968": [
+        "Setting up data",
+        "Setting up Data",
+        "Setting up data"
+    ],
+    "969": [
+        "\u5bfc\u5165\u57fa\u672c\u5de5\u5177\u5e93",
+        "\u5bfc\u5165\u57fa\u672c\u5de5\u5177\u5e93",
+        "\u5bfc\u5165\u57fa\u672c\u5de5\u5177\u5e93"
+    ],
+    "970": [
+        "Fairness and Explainability with SageMaker Clarify",
+        "Fairness and Explainability with SageMaker Clarify",
+        "Fairness and Explainability with SageMaker Clarify"
+    ],
+    "971": [
+        "Preamble",
+        "Preamble",
+        "Preamble"
+    ],
+    "972": [
+        "Clean up file on local filesystem",
+        "Clean up file on local filesystem",
+        "Clean up file on local filesystem"
+    ],
+    "973": [
+        "General Setup",
+        "General Setup",
+        "General Setup"
+    ],
+    "974": [
+        "Download the ResNet-50 weights from Torchvision",
+        "Download the ResNet-50 weights from Torchvision",
+        "Download the ResNet-50 weights from Torchvision"
+    ],
+    "975": [
+        "generate samples (negative particles) after DBM training",
+        "Visualize poisoned training examples",
+        "Visualize poisoned training examples"
+    ],
+    "976": [
+        "Violin Plot",
+        "Violin plot",
+        "Violin plot"
+    ],
+    "977": [
+        "Rotate controller certificate",
+        "Rotate app proxy certificate",
+        "Rotate app proxy certificate"
+    ],
+    "978": [
+        "Show the Kubernetes config contexts",
+        "Show the Kubernetes config contexts",
+        "Show the Kubernetes config contexts"
+    ],
+    "979": [
+        "Quick Start",
+        "Quick start",
+        "Quick start"
+    ],
+    "980": [
+        "Export model to ONNX format",
+        "Export model to ONNX format",
+        "Export model to ONNX format"
+    ],
+    "981": [
+        "Default LightGBM",
+        "Default LightGBM",
+        "Default LightGBM"
+    ],
+    "982": [
+        "Model training",
+        "model training",
+        "Please uncomment and run the cell below if you want to use a pretrained model, as training might take several hours/days to complete."
+    ],
+    "983": [
+        "Start an Earth Observation Job (EOJ) to identify the land cover types in the area of Mount Shasta",
+        "Semantic Segmentation for Land Cover Classification Earth Observation Job",
+        "Start an Earth Observation Job (EOJ) to identify the land cover types in the area of Lake Mead"
+    ],
+    "984": [
+        "MODELS",
+        "MODELS",
+        "MERTON CREDIT MODEL"
+    ],
+    "985": [
+        "Criticism",
+        "Criticism",
+        "Criticism"
+    ],
+    "986": [
+        "Run command in containers",
+        "Run command in containers",
+        "Run command in containers"
+    ],
+    "987": [
+        "Set Kubernetes context to destination cluster",
+        "Set Kubernetes context to destination cluster",
+        "Set Kubernetes context to destination cluster"
+    ],
+    "988": [
+        "Submit the pipeline to SageMaker and start execution",
+        "Submit the pipeline to SageMaker and start execution",
+        "Submit the pipeline to SageMaker and start execution"
+    ],
+    "989": [
+        "Choose which model you want to examine",
+        "Choose which model you want to examine",
+        "Choose which model you want to examine"
+    ],
+    "990": [
+        "Setup Neptune Cluster and notebook plugin",
+        "Install hooks for git-friendly notebooks",
+        "Application and Data Portability Setup Notebook"
+    ],
+    "991": [
+        "Uninstall azdata CLI using OS specific package manager",
+        "Uninstall azdata CLI using OS specific package manager",
+        "Uninstall azdata CLI using OS specific package manager"
+    ],
+    "992": [
+        "Setup Cloud SQL instance and PostgreSQL database",
+        "Create Kubernetes secrets and SQL logins",
+        "Create Kubernetes secrets and SQL logins"
+    ],
+    "993": [
+        "Validate Verify the namenode is no longer in safe mode",
+        "Validate Verify the namenode is no longer in safe mode",
+        "Validate Verify the namenode is no longer in safe mode"
+    ],
+    "994": [
+        "Install `unixodbc`",
+        "Install `unixodbc`",
+        "Install `unixodbc`"
+    ],
+    "995": [
+        "Let's take a look at the filter performance",
+        "Let's take a look at the filter performance",
+        "Let's take a look at the filter performance"
+    ],
+    "996": [
+        "How to compute conditions",
+        "Defining the Conditions",
+        "Defining the Conditions"
+    ],
+    "997": [
+        "Demo Flow",
+        "Demo Flow",
+        "Demo Flow"
+    ],
+    "998": [
+        "3. Architecture definition",
+        "3. Architecture definition",
+        "3. Architecture definition"
+    ],
+    "999": [
+        "(III) Example in Jax MD",
+        "Example 3: More Tooltips",
+        "In the below example, the input features (status 1) (purpose 0) and (personal_status_sex 2) are the top 3 features driving the negative decision."
+    ],
+    "1000": [
+        "Explore the dataset",
+        "Search matching Sentinel-2 satellite imagery",
+        "Query the Sentinel-2 raster data collection using SearchRasterDataCollection"
+    ],
+    "1001": [
+        "Exploit for CVE-2017-8759",
+        "Exploit for CVE-2017-0261",
+        "Potential RDP exploit CVE-2019-0708"
+    ],
+    "1002": [
+        "Upgrade pip",
+        "Upgrade pip",
+        "Upgrade pip"
+    ],
+    "1003": [
+        "Load original SavedModel.",
+        "Load the SavedModel",
+        "Download SavedModel"
+    ],
+    "1004": [
+        "2020 [FinanceData.KR]( [facebook.com/financedata](",
+        "2020 [FinanceData.KR]() [facebook.com/financedata]()",
+        "2020 [FinanceData.KR]() [facebook.com/financedata]()"
+    ],
+    "1005": [
+        "Related (SOP064, SOP055)",
+        "Related (SOP055, SOP064)",
+        "Related (SOP055, SOP064)"
+    ],
+    "1006": [
+        "Connect to the namenode pod and run hadoop fs CLI",
+        "Connect to the namenode pod and run hadoop fs CLI",
+        "Connect to the namenode pod and run hadoop fs CLI"
+    ],
+    "1007": [
+        "Create a Spark Statement",
+        "Create a Spark Statement",
+        "Create a Spark Statement"
+    ],
+    "1008": [
+        "DataLoader",
+        "CortxDataLoader",
+        "CortxDataLoader"
+    ],
+    "1009": [
+        "TSG117 App-Deploy Proxy Nginx Logs",
+        "TSG121 Supervisor mssql-server logs",
+        "TSG090 Yarn nodemanager logs"
+    ],
+    "1010": [
+        "b. Detect Keypoints to plot them",
+        "b. Detect Keypoints to plot them",
+        "b. Detect Keypoints to plot them"
+    ],
+    "1011": [
+        "Create an external table to HDFS",
+        "Create an external table to HDFS",
+        "Create an external table to HDFS"
+    ],
+    "1012": [
+        "Heterogeneous Curves",
+        "Homogeneous Curves",
+        "Homogeneous Curves"
+    ],
+    "1013": [
+        "Notice to New Zealand Investors: When this document is disseminated in New Zealand by Goldman Sachs Co. LLC (\"GSCO\") Goldman Sachs International (\"GSI\"), Goldman Sachs Bank Europe SE (\"GSBE\"), Goldman Sachs (Asia) L.L.C. (\"GSALLC\") or Goldman Sachs (Singapore) Pte (\"GSSP\") (collectively the \"GS entities\"), this document, and any access to it, is intended only for a person that has first satisfied; the GS entities that the person is someone:",
+        "Notice to New Zealand Investors: When this document is disseminated in New Zealand by Goldman Sachs Co. LLC (\"GSCO\") Goldman Sachs International (\"GSI\"), Goldman Sachs Bank Europe SE (\"GSBE\"), Goldman Sachs (Asia) L.L.C. (\"GSALLC\") or Goldman Sachs (Singapore) Pte (\"GSSP\") (collectively the \"GS entities\"), this document, and any access to it, is intended only for a person that has first satisfied; the GS entities that the person is someone:",
+        "Notice to New Zealand Investors: When this document is disseminated in New Zealand by Goldman Sachs Co. LLC (\"GSCO\") Goldman Sachs International (\"GSI\"), Goldman Sachs Bank Europe SE (\"GSBE\"), Goldman Sachs (Asia) L.L.C. (\"GSALLC\") or Goldman Sachs (Singapore) Pte (\"GSSP\") (collectively the \"GS entities\"), this document, and any access to it, is intended only for a person that has first satisfied; the GS entities that the person is someone:"
+    ],
+    "1014": [
+        "My Google Cloud resources",
+        "My Google Cloud resources",
+        "My Google Cloud resources"
+    ],
+    "1015": [
+        "Setup account and role",
+        "Setup account and role",
+        "Setup account and role"
+    ],
+    "1016": [
+        "Constants",
+        "Constants",
+        "Constants"
+    ],
+    "1017": [
+        "Tasks",
+        "Taskonomy",
+        "Taskonomy"
+    ],
+    "1018": [
+        "Make Predictions",
+        "Make Predictions",
+        "Make Predictions"
+    ],
+    "1019": [
+        "Animate decision tree min samples per leaf",
+        "Animate decision tree max depth",
+        "Decision tree"
+    ],
+    "1020": [
+        "Weight KLD",
+        "Weight KLD",
+        "Weight KLD"
+    ],
+    "1021": [
+        "Run top in each container",
+        "Run top in each container",
+        "Run top in each container"
+    ],
+    "1022": [
+        "Define the Call and Put Options",
+        "Define the Call and Put Options",
+        "Define the Call and Put Options"
+    ],
+    "1023": [
+        "Credits Changelog",
+        "Visualize changes in the land",
+        "Land cover change"
+    ],
+    "1024": [
+        "Black-Karasinski Model",
+        "Black Karasinski Model",
+        "Black-Karasinski Model"
+    ],
+    "1025": [
+        "Prerequisites and Data",
+        "Prerequisites and Data",
+        "Prerequisites and Data"
+    ],
+    "1026": [
+        "6. Next steps",
+        "Step 5. Customize the QA application above with different prompt.",
+        "Step 5. Customize the QA application above with different prompt."
+    ],
+    "1027": [
+        "4. Generate a clock of $25\\%$ duty cycle and $20\\,\\mu$s period",
+        "3. Generate a clock of $50\\%$ duty cycle and $10\\,\\mu$s period",
+        "3. Generate a clock of $50\\%$ duty cycle and $10\\,\\mu$s period"
+    ],
+    "1028": [
+        "Locally",
+        "Locally",
+        "Locally"
+    ],
+    "1029": [
+        "STEP 2: Create a Model and Wrap in Learner Object",
+        "STEP 2: Create a Model and Wrap in Learner Object",
+        "STEP 2: Create a Model and Wrap in Learner Object"
+    ],
+    "1030": [
+        "Initialize dtreeviz model (adaptor)",
+        "Initialize dtreeviz model (adaptor)",
+        "Initialize dtreeviz model (adaptor)"
+    ],
+    "1031": [
+        "Verify the cluster health monitor is reporting \u2018Healthy\u2019",
+        "Verify the cluster health monitor is reporting \u2018Healthy\u2019",
+        "Verify the cluster health monitor is reporting \u2018Healthy\u2019"
+    ],
+    "1032": [
+        "Read data from the HELK Elasticsearch via Spark SQL",
+        "Read data from the HELK Elasticsearch via Spark SQL",
+        "Read data from the HELK Elasticsearch via Spark SQL"
+    ],
+    "1033": [
+        "Define a helper function that performs the essential BO step",
+        "Define a helper function that performs the essential BO step",
+        "Define a helper function that performs the essential BO step"
+    ],
+    "1034": [
+        "Generate visualization images",
+        "Generate Distorted Image",
+        "Generate distorted image"
+    ],
+    "1035": [
+        "Use kubectl to view the services",
+        "Use kubectl to view the services",
+        "Use kubectl to view the services"
+    ],
+    "1036": [
+        "Loading the model",
+        "Loading the model",
+        "Loading the model"
+    ],
+    "1037": [
+        "Marquee is not meant for the general public in Brazil. The services or products provided by or through Marquee, at any time, may not be offered or sold to the general public in Brazil. You have received a password granting access to Marquee exclusively due to your existing relationship with a GS business located in Brazil. The selection and engagement with any of the offered services or products through Marquee, at any time, will be carried out directly by you. Before acting to implement any chosen service or products, provided by or through Marquee you should consider, at your sole discretion, whether it is suitable for your particular circumstances and, if necessary, seek professional advice. Any steps necessary in order to implement the chosen service or product, including but not limited to remittance of funds, shall be carried out at your discretion. Accordingly, such services and products have not been and will not be publicly issued, placed, distributed, offered or negotiated in the Brazilian capital markets and, as a result, they have not been and will not be registered with the Brazilian Securities and Exchange Commission (Comiss\u00e3o de Valores Mobili\u00e1rios), nor have they been submitted to the foregoing agency for approval. Documents relating to such services or products, as well as the information contained therein, may not be supplied to the general public in Brazil, as the offering of such services or products is not a public offering in Brazil, nor used in connection with any offer for subscription or sale of securities to the general public in Brazil.",
+        "Marquee is not meant for the general public in Brazil. The services or products provided by or through Marquee, at any time, may not be offered or sold to the general public in Brazil. You have received a password granting access to Marquee exclusively due to your existing relationship with a GS business located in Brazil. The selection and engagement with any of the offered services or products through Marquee, at any time, will be carried out directly by you. Before acting to implement any chosen service or products, provided by or through Marquee you should consider, at your sole discretion, whether it is suitable for your particular circumstances and, if necessary, seek professional advice. Any steps necessary in order to implement the chosen service or product, including but not limited to remittance of funds, shall be carried out at your discretion. Accordingly, such services and products have not been and will not be publicly issued, placed, distributed, offered or negotiated in the Brazilian capital markets and, as a result, they have not been and will not be registered with the Brazilian Securities and Exchange Commission (Comiss\u00e3o de Valores Mobili\u00e1rios), nor have they been submitted to the foregoing agency for approval. Documents relating to such services or products, as well as the information contained therein, may not be supplied to the general public in Brazil, as the offering of such services or products is not a public offering in Brazil, nor used in connection with any offer for subscription or sale of securities to the general public in Brazil.",
+        "Marquee is not meant for the general public in Brazil. The services or products provided by or through Marquee, at any time, may not be offered or sold to the general public in Brazil. You have received a password granting access to Marquee exclusively due to your existing relationship with a GS business located in Brazil. The selection and engagement with any of the offered services or products through Marquee, at any time, will be carried out directly by you. Before acting to implement any chosen service or products, provided by or through Marquee you should consider, at your sole discretion, whether it is suitable for your particular circumstances and, if necessary, seek professional advice. Any steps necessary in order to implement the chosen service or product, including but not limited to remittance of funds, shall be carried out at your discretion. Accordingly, such services and products have not been and will not be publicly issued, placed, distributed, offered or negotiated in the Brazilian capital markets and, as a result, they have not been and will not be registered with the Brazilian Securities and Exchange Commission (Comiss\u00e3o de Valores Mobili\u00e1rios), nor have they been submitted to the foregoing agency for approval. Documents relating to such services or products, as well as the information contained therein, may not be supplied to the general public in Brazil, as the offering of such services or products is not a public offering in Brazil, nor used in connection with any offer for subscription or sale of securities to the general public in Brazil."
+    ],
+    "1038": [
+        "STEP 3: Estimate Learning Rate",
+        "STEP 3: Estimate Learning Rate",
+        "STEP 3: Estimate Learning Rate"
+    ],
+    "1039": [
+        "Levels Of Detail",
+        "Levels Of Detail",
+        "Levels Of Detail"
+    ],
+    "1040": [
+        "Print a selection of training images and their labels",
+        "Create a Dataset from images and labels",
+        "Create a Dataset from images and labels"
+    ],
+    "1041": [
+        "Detectron2 Training",
+        "Detectron2 Training",
+        "Detectron2 Training Code"
+    ],
+    "1042": [
+        "13. Make Video Clips w/o Face Alignment",
+        "13. Make video clips w/o face alignment",
+        "13. Make video clips w/o face alignment"
+    ],
+    "1043": [
+        "base-model",
+        "base-model",
+        "Baseline model SingleHead class"
+    ],
+    "1044": [
+        "Colab-only auth",
+        "Colab-only auth for this notebook and the TPU",
+        "Colab-only auth for this notebook and the TPU"
+    ],
+    "1045": [
+        "Observations",
+        "Observations",
+        "Observations"
+    ],
+    "1046": [
+        "Base imports",
+        "Base imports",
+        "Base imports"
+    ],
+    "1047": [
+        "Plot error distributions",
+        "Plot error distributions",
+        "Plot error distributions"
+    ],
+    "1048": [
+        "Analysis of local explanations",
+        "Analysis of local explanations",
+        "Analysis of local explanations"
+    ],
+    "1049": [
+        "W1A1 1 bit weights and 1 bit activation",
+        "W1A2 1 bit weights and 2 bit activation",
+        "W1A2 1 bit weight and 2 bit activation"
+    ],
+    "1050": [
+        "Create role-binding",
+        "Create role-binding",
+        "Create role-binding"
+    ],
+    "1051": [
+        "Step 8: Reset the generators",
+        "Step 7: Stop the generators",
+        "Step 7: Stop the generators"
+    ],
+    "1052": [
+        "Zero-Shot Classification",
+        "Zero-shot Classification",
+        "Zero-shot classification"
+    ],
+    "1053": [
+        "Optional: ListInferenceRecommendationsJobSteps",
+        "Optional: ListInferenceRecommendationsJobSteps",
+        "Optional: ListInferenceRecommendationsJobSteps"
+    ],
+    "1054": [
+        "Viewing the Explainability Report",
+        "Viewing the Explainability Report",
+        "Viewing the Explainability Report"
+    ],
+    "1055": [
+        "Part 2 Create the model.tar.gz",
+        "Step 1 Exploration and training of the model",
+        "Step 1: Exploration and training of the model"
+    ],
+    "1056": [
+        "Writing ModelPredictedLabelConfig",
+        "Writing ModelPredictedLabelConfig",
+        "Writing ModelPredictedLabelConfig"
+    ],
+    "1057": [
+        "Get external mount for `Logs`",
+        "Get external mount for `Logs`",
+        "Get external mount for `Logs`"
+    ],
+    "1058": [
+        "Show the Kubernetes storage classes",
+        "Show the Kubernetes storage classes",
+        "Show the Kubernetes storage classes"
+    ],
+    "1059": [
+        "Running Conditional Neural Processes",
+        "Conditional Neural Processes",
+        "(Attentive) Neural Processes for 1D regression"
+    ],
+    "1060": [
+        "Analyze the cluster health",
+        "Analyze the cluster health",
+        "Analyze the cluster health"
+    ],
+    "1061": [
+        "Controllable generation",
+        "Controllable generation",
+        "Controllable generation"
+    ],
+    "1062": [
+        "Developing the math behind dynamic model",
+        "Developing the math behind dynamic model",
+        "Developing the math behind dynamic model"
+    ],
+    "1063": [
+        "Verify that all the pods for \u2018Running\u2019",
+        "Verify that all the pods for \u2018Running\u2019",
+        "Verify that all the pods for \u2018Running\u2019"
+    ],
+    "1064": [
+        "Benchmark ConvGru",
+        "Benchmark",
+        "Benchmark"
+    ],
+    "1065": [
+        "Move the namenode out of safe mode",
+        "Move the namenode out of safe mode",
+        "Move the namenode out of safe mode"
+    ],
+    "1066": [
+        "Flink latency/throughput for higher rate of events 200K/s to 400K/s Parallelism with 8x parallelism for bolts",
+        "Storm latency/throughput for higher rate of events 200K/s to 400K/s Parallelism with 8x parallelism for bolts",
+        "Storm latency/throughput for higher rate of events 200K/s to 400K/s Parallelism with 8x parallelism for bolts"
+    ],
+    "1067": [
+        "\u63a8\u7406",
+        "\u63a8\u7406",
+        "\u63a8\u7406"
+    ],
+    "1068": [
+        "Measurement Matrix $H$",
+        "Measurement Matrix",
+        "Measurement Matrix $H$"
+    ],
+    "1069": [
+        "Step 2: Create WaveJSON waveform",
+        "Step 2: Create WaveJSON waveform",
+        "Step 2: Create WaveJSON waveform"
+    ],
+    "1070": [
+        "Download the VGG-16 checkpoint",
+        "Apply Pre-trained VGG-16 model to Images.",
+        "Apply Pre-trained VGG-16 model to Images."
+    ],
+    "1071": [
+        "Convert CSV to Parquet using the PySpark kernel",
+        "Convert CSV to Parquet using the PySpark kernel",
+        "Convert CSV to Parquet using the PySpark kernel"
+    ],
+    "1072": [
+        "rotations, Bayesian",
+        "rotations, Bayesian",
+        "rotations, Bayesian"
+    ],
+    "1073": [
+        "First a very simple example with labelling one point out of many",
+        "A very simple example also shown in the wiki to simply introduce the call signature of `adjust_text`",
+        "A very simple example also shown in the wiki to simply introduce the call signature of `adjust_text`"
+    ],
+    "1074": [
+        "Copyright 2018 The TensorFlow Hub Authors.",
+        "Copyright 2018 The TensorFlow Hub Authors.",
+        "Copyright 2018 The TensorFlow Hub Authors."
+    ],
+    "1075": [
+        "Benchmark converted model",
+        "Benchmark converted model",
+        "Benchmark converted model"
+    ],
+    "1076": [
+        "TASK",
+        "TASK",
+        "TASK"
+    ],
+    "1077": [
+        "Case 2:",
+        "Case 3:",
+        "Case 2:"
+    ],
+    "1078": [
+        "Suspicious Parent of Csc.exe",
+        "Suspicious PowerShell Invocation based on Parent Process",
+        "Windows Processes Suspicious Parent Directory"
+    ],
+    "1079": [
+        "Display pandas in groovy:",
+        "Display pandas in groovy:",
+        "Display pandas in groovy:"
+    ],
+    "1080": [
+        "Customizing Potentials in JAX MD",
+        "Distributed Inference with JAX",
+        "JAX MD Tutorial ([tutorial.jax-md.org]("
+    ],
+    "1081": [
+        "Random Generator",
+        "Load Generator",
+        "Generator"
+    ],
+    "1082": [
+        "3. Import VGGFace",
+        "3. Import VGGFace",
+        "3. Import VGGFace"
+    ],
+    "1083": [
+        "Initialize the app specification (yaml)",
+        "Initialize the app specification (yaml)",
+        "Initialize the app specification (yaml)"
+    ],
+    "1084": [
+        "Training Stage",
+        "\u5b9e\u8df5\u6b65\u9aa4",
+        "Building in stages"
+    ],
+    "1085": [
+        "Supported Parameters",
+        "Supported Parameters",
+        "Supported parameters"
+    ],
+    "1086": [
+        "View the `--help` options",
+        "View the `--help` options",
+        "View the `--help` options"
+    ],
+    "1087": [
+        "Log history",
+        "Log history",
+        "History"
+    ],
+    "1088": [
+        "3.3. Train with Automatic Model Tuning",
+        "5.1. Train with Automatic Model Tuning",
+        "3.3. Train with Automatic Model Tuning"
+    ],
+    "1089": [
+        "Specify Amazon S3 Bucket Paths",
+        "Specify Amazon S3 bucket paths",
+        "Specify Amazon S3 Bucket Paths"
+    ],
+    "1090": [
+        "default_exp baz",
+        "default_exp core",
+        "`#|default_exp"
+    ],
+    "1091": [
+        "Copy certificates to `controller` `pod`",
+        "Copy certificates to `controller` `pod`",
+        "Copy certificates to `controller` `pod`"
+    ],
+    "1092": [
+        "`single_pred`: Prediction of property for an individual biomedical entity.",
+        "Generate some local predictions add a batch dimetnion to the 1 image we have",
+        "Generate some local predictions add a batch dimetnion to the 1 image we have"
+    ],
+    "1093": [
+        "Accessing the Training Logs",
+        "Accessing the Training Logs",
+        "Accessing the Training Logs"
+    ],
+    "1094": [
+        "Get the Hadoop datanode logs from the hadoop container",
+        "Get the Hadoop datanode logs from the hadoop container",
+        "Get the Hadoop datanode logs from the hadoop container"
+    ],
+    "1095": [
+        "Describe all non running pods",
+        "Describe all non running pods",
+        "Describe all non running pods"
+    ],
+    "1096": [
+        "hstack and vstack",
+        "sys.stdout and sys.stderr",
+        "sys.stdout and sys.stderr"
+    ],
+    "1097": [
+        "4.2. Set Training parameters",
+        "4.2. Set Training parameters",
+        "4.2. Set Training parameters"
+    ],
+    "1098": [
+        "Create helper function to run `sqlcmd` against the controller database",
+        "Create helper function to run `sqlcmd` against the controller database",
+        "Create helper function to run `sqlcmd` against the controller database"
+    ],
+    "1099": [
+        "Translation:",
+        "Translation",
+        "Translation"
+    ],
+    "1100": [
+        "Parametrized Executions",
+        "Parametrized Executions",
+        "Parametrized Executions"
+    ],
+    "1101": [
+        "SageMaker environment",
+        "SageMaker environment",
+        "SageMaker environment"
+    ],
+    "1102": [
+        "Part 1 Installs and imports",
+        "Part 1 Installs and imports",
+        "Installating and importing h2o and boto3"
+    ],
+    "1103": [
+        "Install VISSL",
+        "Install VISSL",
+        "Install VISSL"
+    ],
+    "1104": [
+        "Install ODBC Driver 17 for SQL Server",
+        "Install ODBC Driver 17 for SQL Server",
+        "Install ODBC Driver 17 for SQL Server"
+    ],
+    "1105": [
+        "4. Estimation Diagnostics",
+        "4] Evaluation Intrinsic and Extrinsic",
+        "4] Evaluation Intrinsic and Extrinsic"
+    ],
+    "1106": [
+        "Dependencies Prerequisites",
+        "Dependencies Prerequisites",
+        "Dependencies Prerequisites"
+    ],
+    "1107": [
+        "Transductive Inference: Making Predictions for Validation and Test Nodes in Original Training Graph",
+        "Transductive Inference: Making Predictions for Unlabeled Nodes in Original Training Graph",
+        "Transductive Inference: Making Predictions for Unlabeled Nodes in Original Training Graph"
+    ],
+    "1108": [
+        "Context",
+        "The Contextual Bandits",
+        "The Contextual Bandits"
+    ],
+    "1109": [
+        "Usage example: Eight schoools",
+        "Some usage examples and ways to make the figure better than what default options yield.",
+        "Some usage examples and ways to make the figure better than what default options yield."
+    ],
+    "1110": [
+        "Create AWS IoT thing",
+        "Create StepFunctions Workflow execution Input schema",
+        "Create an ETL step with AWS Glue"
+    ],
+    "1111": [
+        "Batch Inference",
+        "BatchLossFilter",
+        "Batch Inference"
+    ],
+    "1112": [
+        "BERT \u6a21\u578b",
+        "BERT \u6a21\u578b",
+        "BERT \u6a21\u578b"
+    ],
+    "1113": [
+        "Part 1: Packaging and Uploading your Algorithm for use with Amazon SageMaker",
+        "Part 1: Packaging and Uploading your Algorithm for use with Amazon SageMaker",
+        "Part 1: Packaging and Uploading your Algorithm for use with Amazon SageMaker"
+    ]
+}

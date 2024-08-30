@@ -1,0 +1,3677 @@
+{
+    "-1": [
+        "NER Model Implementation in Spark NLP",
+        "You can find details about Spark NLP models here:",
+        "Building a Custom Classifier in Keras with Transfer Learning"
+    ],
+    "0": [
+        "\u05de\u05d5\u05e0\u05d7\u05d9\u05dd",
+        "\u05de\u05d5\u05e0\u05d7\u05d9\u05dd",
+        "\u05de\u05d5\u05e0\u05d7\u05d9\u05dd"
+    ],
+    "1": [
+        "Python 3",
+        "Python",
+        "Python 2"
+    ],
+    "2": [
+        "[predictions.batch-prediction](",
+        "[predictions.batch-prediction](",
+        "[predictions.batch-prediction]("
+    ],
+    "3": [
+        "Word Embeddings",
+        "Word embeddings",
+        "1. A dictionary of words, with word vectors"
+    ],
+    "4": [
+        "Code 8.1",
+        "Code 7.6",
+        "Code 5.3"
+    ],
+    "5": [
+        "Create the pipeline",
+        "Create the pipeline",
+        "Create the pipeline"
+    ],
+    "6": [
+        "Using Vertex AI SDK",
+        "Deploy the `AutoML` model to a `Vertex AI Endpoint` resource",
+        "Vertex AI"
+    ],
+    "7": [
+        "Create a training job",
+        "Create the training job",
+        "Training set"
+    ],
+    "8": [
+        "Introduction",
+        "Introduction",
+        "Introduction"
+    ],
+    "9": [
+        "Dataset",
+        "Dataset",
+        "Dataset"
+    ],
+    "10": [
+        "Overview",
+        "Overview",
+        "Overview"
+    ],
+    "11": [
+        "Setup",
+        "Setup",
+        "Setup"
+    ],
+    "12": [
+        "Algorithm",
+        "Algorithm",
+        "Algorithm"
+    ],
+    "13": [
+        "From matrix",
+        "Create Matrix",
+        "Matrix"
+    ],
+    "14": [
+        "2.1 D\u1ef1a v\u00e0o t\u00ean c\u1ee7a h\u00e0ng",
+        "5.1 D\u1ef1a v\u00e0o t\u00ean c\u1ee7a h\u00e0ng v\u00e0 c\u1ed9t",
+        "3.1 D\u1ef1a v\u00e0o t\u00ean c\u1ee7a c\u1ed9t"
+    ],
+    "15": [
+        "Neural Network",
+        "Neural Network",
+        "Neural Network"
+    ],
+    "16": [
+        "Step 4. Train the model",
+        "Step 3: Train the model",
+        "Step 4. Train the model"
+    ],
+    "17": [
+        "Step 3.",
+        "Step 8.",
+        "Step 1."
+    ],
+    "18": [
+        "[16 17 18 19 20]]",
+        "[16 17 18 19 20]]",
+        "[16 17 18 19]"
+    ],
+    "19": [
+        "filter",
+        "filter",
+        "@filter"
+    ],
+    "20": [
+        "Missing Data",
+        "Missing data",
+        "Missing data"
+    ],
+    "21": [
+        "Summary",
+        "Summary",
+        "Summary"
+    ],
+    "22": [
+        "Code",
+        "Code",
+        "CODE:"
+    ],
+    "23": [
+        "Coding Exercise 1: Implement the M-step",
+        "Coding Exercise 1: Implement the M-step",
+        "Coding Exercise 1: Implement the M-step"
+    ],
+    "24": [
+        "Add a policy to your SageMaker role in IAM",
+        "Add a policy to your SageMaker role in IAM",
+        "Add a policy to your SageMaker role in IAM"
+    ],
+    "25": [
+        "Comparison",
+        "Comparison",
+        "Comparison"
+    ],
+    "26": [
+        "Arithmetic",
+        "Arithmetic",
+        "Arithmetic"
+    ],
+    "27": [
+        "\u89e3\u51b3\u65b9\u6848",
+        "\u89e3\u51b3\u65b9\u6848",
+        "\u89e3\u51b3\u65b9\u6848"
+    ],
+    "28": [
+        "Objective",
+        "Objective",
+        "Objective"
+    ],
+    "29": [
+        "Analysis",
+        "Analysis",
+        "Analysis"
+    ],
+    "30": [
+        "Plot the results",
+        "Plot the results",
+        "Plot the results"
+    ],
+    "31": [
+        "Before you begin",
+        "Before you begin",
+        "Before you begin"
+    ],
+    "32": [
+        "`**kwargs`",
+        "\\*args ve **kwargs",
+        "\\*args and \\*\\*kwargs"
+    ],
+    "33": [
+        "Cleaning up",
+        "Cleaning up",
+        "Cleaning up"
+    ],
+    "34": [
+        "\u95ee\u9898",
+        "\u95ee\u9898",
+        "\u95ee\u9898"
+    ],
+    "35": [
+        "9.12.3. \u8bfb\u53d6\u6570\u636e\u96c6",
+        "9.12.3 \u8bfb\u53d6\u6570\u636e\u96c6",
+        "9.10.4 \u8bfb\u53d6\u6570\u636e\u96c6"
+    ],
+    "36": [
+        "Image",
+        "Image",
+        "Image"
+    ],
+    "37": [
+        "\u8ba8\u8bba",
+        "\u8ba8\u8bba",
+        "\u8ba8\u8bba"
+    ],
+    "38": [
+        "Costs",
+        "Costs",
+        "Costs"
+    ],
+    "39": [
+        "Installation",
+        "Installation",
+        "Installation"
+    ],
+    "40": [
+        "Make predictions with the trained model.",
+        "Make predictions with the trained model",
+        "Make Predictions from Model"
+    ],
+    "41": [
+        "ENVIRONMENT",
+        "Environment",
+        "Environment"
+    ],
+    "42": [
+        "Using pre-trained models",
+        "Using pre-trained model",
+        "Download pre-trained model from TensorFlow Hub"
+    ],
+    "43": [
+        "Create a Cloud Storage bucket",
+        "Create a Cloud Storage bucket",
+        "Create a Cloud Storage bucket"
+    ],
+    "44": [
+        "**Statistics**",
+        "Statistics",
+        "Statistics"
+    ],
+    "45": [
+        "Solution",
+        "Solution",
+        "Solution"
+    ],
+    "46": [
+        "Hyperparameter tuning",
+        "Hyperparameter tuning",
+        "Hyperparameter tuning"
+    ],
+    "47": [
+        "ACCESS MOD\u0130F\u0130ERLAR (ER\u0130\u015e\u0130M BEL\u0130RLEY\u0130C\u0130LER)",
+        "SINIF D\u00dcZEY\u0130NDE ER\u0130\u015e\u0130M BEL\u0130RLEY\u0130C\u0130LER",
+        "SINIF D\u00dcZEY\u0130NDE ER\u0130\u015e\u0130M BEL\u0130RLEY\u0130C\u0130LER"
+    ],
+    "48": [
+        "Utility functions",
+        "Utility functions",
+        "Utility Functions"
+    ],
+    "49": [
+        "Figure 5.3:",
+        "Figure 8.7:",
+        "Figure 3.6"
+    ],
+    "50": [
+        "Sanity check",
+        "Sanity check",
+        "Sanity check"
+    ],
+    "51": [
+        "\u0417\u0430\u0434\u0430\u0447\u0430 A",
+        "\u0417\u0430\u0434\u0430\u0447\u0430 N",
+        "\u0417\u0430\u0434\u0430\u0447\u0430 L"
+    ],
+    "52": [
+        "optimization",
+        "Optimization",
+        "Optimization"
+    ],
+    "53": [
+        "Why?",
+        "Why?",
+        "Why?"
+    ],
+    "54": [
+        "Exercises",
+        "Exercises",
+        "Exercises"
+    ],
+    "55": [
+        "Imports",
+        "Imports",
+        "Imports"
+    ],
+    "56": [
+        "Region",
+        "Region",
+        "Region"
+    ],
+    "57": [
+        "Conclusion",
+        "Conclusion",
+        "Conclusion"
+    ],
+    "58": [
+        "Example:",
+        "Example:",
+        "Example:"
+    ],
+    "59": [
+        "Linear Regression",
+        "Linear Regression",
+        "Linear regression"
+    ],
+    "60": [
+        "Probability",
+        "Probability",
+        "Probability"
+    ],
+    "61": [
+        "\u8bad\u7ec3",
+        "\u8bad\u7ec3",
+        "\u8bad\u7ec3"
+    ],
+    "62": [
+        "text",
+        "Text",
+        "Text"
+    ],
+    "63": [
+        "Resampling",
+        "Resampling",
+        "Resampling"
+    ],
+    "64": [
+        "Metrics",
+        "Metrics",
+        "Metrics"
+    ],
+    "65": [
+        "TF-IDF",
+        "TF-IDF",
+        "TF-IDF"
+    ],
+    "66": [
+        "Notebook 5",
+        "Notebook 7",
+        "Notebook 6"
+    ],
+    "67": [
+        "Authenticate your Google Cloud account",
+        "Authenticate your Google Cloud account",
+        "Authenticate your Google Cloud account"
+    ],
+    "68": [
+        "Layer 2, the output layer",
+        "Layer 1",
+        "Layer 1"
+    ],
+    "69": [
+        "Parameters",
+        "Parameters",
+        "Parameters"
+    ],
+    "70": [
+        "\u6a21\u578b Model",
+        "Model \u6a21\u578b",
+        "Models \u6a21\u578b"
+    ],
+    "71": [
+        "Distributions",
+        "Distributions",
+        "Distribution"
+    ],
+    "72": [
+        "Set your project ID",
+        "Set your project ID",
+        "Set your project ID"
+    ],
+    "73": [
+        "Run on Google Cloud AI Platform",
+        "Train ML model on Cloud AI Platform",
+        "Train ML model on Cloud AI Platform"
+    ],
+    "74": [
+        "Machine Learning",
+        "Machine Learning",
+        "Machine Learning"
+    ],
+    "75": [
+        "References",
+        "References",
+        "References"
+    ],
+    "76": [
+        "Set up your Google Cloud project",
+        "Set up your Google Cloud project",
+        "Set up your Google Cloud project"
+    ],
+    "77": [
+        "class",
+        "class",
+        "Class"
+    ],
+    "78": [
+        "Fourier Transform",
+        "Fourier Transform",
+        "Fourier Transform"
+    ],
+    "79": [
+        "summarizer_clinical_jsl",
+        "summarizer_clinical_jsl",
+        "summarizer_clinical_jsl"
+    ],
+    "80": [
+        "Generate fake data",
+        "Generate fake data",
+        "Generate some fake data"
+    ],
+    "81": [
+        "6.7.3.2 \u5b9a\u4e49\u6a21\u578b",
+        "1.1\u3001 \u5b9a\u4e49\u6a21\u578b",
+        "1.1\u3001 \u5b9a\u4e49\u6a21\u578b"
+    ],
+    "82": [
+        "Generative Adversarial Networks",
+        "Generative Adversarial Networks",
+        "Generative Adversarial Networks"
+    ],
+    "83": [
+        "Obfuscation mode",
+        "Obfuscation mode",
+        "Mode"
+    ],
+    "84": [
+        "Unit tests",
+        "Chi-square test and F-test",
+        "Chi-square tests"
+    ],
+    "85": [
+        "Moving average",
+        "Moving Average",
+        "1. Moving Average"
+    ],
+    "86": [
+        "**Models:**",
+        "**MODELS**",
+        "**Models**"
+    ],
+    "87": [
+        "Columns",
+        "Columns",
+        "Columns"
+    ],
+    "88": [
+        "Response",
+        "Response",
+        "Response"
+    ],
+    "89": [
+        "Libraries",
+        "Libraries",
+        "Libraries"
+    ],
+    "90": [
+        "Create an interactive map",
+        "Create an interactive map",
+        "Create an interactive map"
+    ],
+    "91": [
+        "Initialize Vertex AI SDK for Python",
+        "Initialize Vertex AI SDK for Python",
+        "Initialize Vertex AI SDK for Python"
+    ],
+    "92": [
+        "Missing values",
+        "Missing Values",
+        "Missing values"
+    ],
+    "93": [
+        "Task 2.1*. $|0\\rangle$ or $|+\\rangle$?",
+        "Task 1.1. $|0\\rangle$ or $|1\\rangle$?",
+        "Task 1.1. The $|11...1\\rangle$ Oracle"
+    ],
+    "94": [
+        "Install Earth Engine API and geemap",
+        "Install Earth Engine API and geemap",
+        "Install Earth Engine API and geemap"
+    ],
+    "95": [
+        "Display Earth Engine data layers",
+        "Display Earth Engine data layers",
+        "Display Earth Engine data layers"
+    ],
+    "96": [
+        "Import libraries and define constants",
+        "Import libraries and define constants",
+        "Import libraries and define constants"
+    ],
+    "97": [
+        "\u041e\u0446\u0435\u043d\u0438\u0432\u0430\u043d\u0438\u0435 $\\mathbb{E}_{x, y}$",
+        "$$-D_{KL}(q(w_{ij}\\,|\\,\\theta_{ij}, \\alpha_{ij})\\,\\|\\,p(w_{ij})) \\approx$$",
+        "$$-D_{KL}(q(w_{ij}\\,|\\,\\theta_{ij}, \\alpha_{ij})\\,\\|\\,p(w_{ij})) \\approx$$"
+    ],
+    "98": [
+        "Interactive Demo 1: Check your results",
+        "Interactive Demo 1: Check your results",
+        "Interactive Demo 1: Check your results"
+    ],
+    "99": [
+        "Add Earth Engine Python script",
+        "Add Earth Engine Python script",
+        "Add Earth Engine Python script"
+    ],
+    "100": [
+        "Restart the kernel",
+        "Restart the kernel",
+        "Restart the kernel"
+    ],
+    "101": [
+        "Pipeline API",
+        "Dataset API",
+        "Data API"
+    ],
+    "102": [
+        "The problem",
+        "The Problem",
+        "List of problems"
+    ],
+    "103": [
+        "Look at the data",
+        "Let's look at data:",
+        "Look at the data"
+    ],
+    "104": [
+        "Train the model",
+        "Train the model",
+        "Train the model"
+    ],
+    "105": [
+        "pandas",
+        "Pandas",
+        "Pandas"
+    ],
+    "106": [
+        "\u4e60\u98989.3",
+        "\u4e60\u98989.2",
+        "\u4e60\u98989.4"
+    ],
+    "107": [
+        "Set up variables",
+        "Set up variables",
+        "Set up variables"
+    ],
+    "108": [
+        "Linear Search",
+        "Search",
+        "Search"
+    ],
+    "109": [
+        "\u63d0\u793a4",
+        "\u63d0\u793a4",
+        "\u63d0\u793a4"
+    ],
+    "110": [
+        "GPU",
+        "GPU",
+        "GPU"
+    ],
+    "111": [
+        "BigQuery",
+        "BigQuery",
+        "BigQuery"
+    ],
+    "112": [
+        "1. Split the data into training and test sets.",
+        "Split data into training, test, and validation sets",
+        "Split data into training, test, and validation sets"
+    ],
+    "113": [
+        "Graph",
+        "Graph",
+        "Graph"
+    ],
+    "114": [
+        "Additional Options",
+        "Call Options",
+        "Options"
+    ],
+    "115": [
+        "Decision Tree",
+        "Decision Tree",
+        "Decision Tree"
+    ],
+    "116": [
+        "\u0414\u0430\u043d\u043d\u044b\u0435",
+        "\u0414\u0430\u043d\u043d\u044b\u0435",
+        "\u0414\u0430\u043d\u043d\u044b\u0435"
+    ],
+    "117": [
+        "Model",
+        "Model",
+        "Model"
+    ],
+    "118": [
+        "Autoencoder",
+        "Autoencoder",
+        "Autoencoder"
+    ],
+    "119": [
+        "Inference",
+        "Inference",
+        "Inference"
+    ],
+    "120": [
+        "Batch Normalization",
+        "Batch normalization",
+        "Batch normalization"
+    ],
+    "121": [
+        "\u63d0\u793a3",
+        "\u63d0\u793a3",
+        "\u63d0\u793a3"
+    ],
+    "122": [
+        "Input variables",
+        "Tensorflow variables",
+        "Use of variables"
+    ],
+    "123": [
+        "Operations",
+        "Operations",
+        "Operations"
+    ],
+    "124": [
+        "Top 10 Movie List",
+        "Loading the IMDb movie review dataset",
+        "Find Top Similar Movies for a Sample Movie"
+    ],
+    "125": [
+        "Basics",
+        "Basics",
+        "Basics"
+    ],
+    "126": [
+        "Part II: Introduction to NumPy",
+        "Part II: evaluation",
+        "Part 2"
+    ],
+    "127": [
+        "CNN",
+        "CNN",
+        "CNN"
+    ],
+    "128": [
+        "**Load bioactivity data**",
+        "**Bioinformatics Project Computational Drug Discovery [Part 1] Download Bioactivity Data (Concised version)**",
+        "**Computational Drug Discovery [Part 1] Download Bioactivity Data**"
+    ],
+    "129": [
+        "Exercise",
+        "Exercise",
+        "Exercise"
+    ],
+    "130": [
+        "Part 3: Training",
+        "Part 3",
+        "Part 3"
+    ],
+    "131": [
+        "List comprehensions",
+        "List comprehensions:",
+        "`list` Comprehensions"
+    ],
+    "132": [
+        "Call",
+        "Call",
+        "Call"
+    ],
+    "133": [
+        "Initialization",
+        "Initialization",
+        "Initialization"
+    ],
+    "134": [
+        "Candlestick with Variance",
+        "Simple Candlestick with Pandas",
+        "Candlestick with Linear Regression"
+    ],
+    "135": [
+        "Step 15. How many orders were made in the period?",
+        "Step 10. For the most-ordered item, how many items were ordered?",
+        "Step 10. For the most-ordered item, how many items were ordered?"
+    ],
+    "136": [
+        "Timestamp",
+        "Timestamp",
+        "Timestamp"
+    ],
+    "137": [
+        "Train!",
+        "Train!",
+        "Train!"
+    ],
+    "138": [
+        "Model experimentation with pre-built data pre-processing code",
+        "Model experimentation with pre-built data pre-processing code",
+        "Model experimentation with pre-built data pre-processing code"
+    ],
+    "139": [
+        "Get Labels",
+        "Labels",
+        "Labels"
+    ],
+    "140": [
+        "Push container to Container Registry",
+        "**Push the container to Container Registry**",
+        "Push container to Container Registry"
+    ],
+    "141": [
+        "1. Colab Setup",
+        "1. Colab Setup",
+        "1. Colab Setup"
+    ],
+    "142": [
+        "Request",
+        "Request",
+        "Request"
+    ],
+    "143": [
+        "License",
+        "License",
+        "License"
+    ],
+    "144": [
+        "A Grammar from Arguments",
+        "Grammar",
+        "A Grammar from Arguments"
+    ],
+    "145": [
+        "`np.full`",
+        "`np.rand` and `np.randn`",
+        "`np.rand` and `np.randn`"
+    ],
+    "146": [
+        "Training Data",
+        "Training Data",
+        "Training Data"
+    ],
+    "147": [
+        "Time series",
+        "Time Series",
+        "Time Series"
+    ],
+    "148": [
+        "The next step in writing our word counting program is to create a new type of RDD, called a pair RDD. A pair RDD is an RDD where each element is a pair tuple `(k, v)` where `k` is the key and `v` is the value. In this example, we will create a pair consisting of 1)` for each word element in the RDD.",
+        "Next, lets look at the response codes that appear in the log. As with the content size analysis, first we create a new RDD by using a `lambda` function to extract the `response_code` field from the `access_logs` RDD. The difference here is that we will use a [pair tuple]( instead of just the field itself. Using a pair tuple consisting of the response code and 1 will let us count how many records have a particular response code. Using the new RDD, we perform a [`reduceByKey`]( function. `reduceByKey` performs a reduce on a per-key basis by applying the `lambda` function to each element, pairwise with the same key. We use the simple `lambda` function of adding the two values. Then, we cache the resulting RDD and create a list by using the [`take`]( function.",
+        "We can create the pair RDD using the `map()` transformation with a `lambda()` function to create a new RDD."
+    ],
+    "149": [
+        "\ucd94\ub860[[inference]]",
+        "\ucd94\ub860[[inference]]",
+        "\ucd94\ub860[[inference]]"
+    ],
+    "150": [
+        "Create S3 Bucket",
+        "Create S3 Bucket",
+        "Get Data from S3"
+    ],
+    "151": [
+        "Weights and Biases",
+        "Weights",
+        "Weights"
+    ],
+    "152": [
+        "Base fields expansions bigrams",
+        "Base fields expansions",
+        "Base fields expansions bigrams"
+    ],
+    "153": [
+        "Saving the model",
+        "Saving the Model",
+        "Saving the model"
+    ],
+    "154": [
+        "time",
+        "time",
+        "Time"
+    ],
+    "155": [
+        "3D vectors",
+        "2D Model Inference on a 3D Volume",
+        "3D"
+    ],
+    "156": [
+        "Evaluation",
+        "Evaluation",
+        "Evaluation"
+    ],
+    "157": [
+        "Reading the data",
+        "Reading the data",
+        "Reading the data"
+    ],
+    "158": [
+        "Tutorial Objectives",
+        "Tutorial Objectives",
+        "Tutorial Objectives"
+    ],
+    "159": [
+        "Proje 2",
+        "Proje 2",
+        "Proje 1"
+    ],
+    "160": [
+        "Synopsis",
+        "Synopsis",
+        "Synopsis"
+    ],
+    "161": [
+        "Exploratory Data Analysis",
+        "Dataset and Exploratory Data Analysis",
+        "Exploratory Data Analysis"
+    ],
+    "162": [
+        "The `forward` method",
+        "Mean Method",
+        "`plot` method"
+    ],
+    "163": [
+        "1. From csv files",
+        "1. From csv files",
+        "1. From csv files"
+    ],
+    "164": [
+        "Files",
+        "files",
+        "Files"
+    ],
+    "165": [
+        "Test the Model",
+        "Test the model",
+        "Test the model"
+    ],
+    "166": [
+        "User Interface Actions",
+        "User Interface Actions",
+        "User interface"
+    ],
+    "167": [
+        "Index",
+        "Index",
+        "Index"
+    ],
+    "168": [
+        "Simulation",
+        "Simulation",
+        "Simulation"
+    ],
+    "169": [
+        "14. (1 \u0431\u0430\u043b\u043b) \u0417\u0430\u043a\u043e\u0434\u0438\u0440\u0443\u0439\u0442\u0435 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0438 (\u0432\u0441\u0435, \u043a\u0440\u043e\u043c\u0435 Title \u0438 FullDescription) \u043f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 [one-hot encoding]( \u043f\u043e\u0441\u043b\u0435 \u0447\u0435\u0433\u043e \u043e\u0431\u0443\u0447\u0438\u0442\u0435 \u043b\u043e\u0433\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0440\u0435\u0433\u0440\u0435\u0441\u0441\u0438\u044e (\u043f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 scikit-learn \u0438\u043b\u0438 Vowpal Wabbit) \u043d\u0430 \u043e\u0431\u0443\u0447\u0430\u044e\u0449\u0435\u0439 \u0432\u044b\u0431\u043e\u0440\u043a\u0435. \u0412\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f ROC-AUC, [F-\u043c\u0435\u0440\u044b]( \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0441\u0442\u0440\u043e\u0439\u0442\u0435 [\u043c\u0430\u0442\u0440\u0438\u0446\u0443 \u043e\u0448\u0438\u0431\u043e\u043a]( \u0434\u043b\u044f \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u043e\u0439 \u043c\u043e\u0434\u0435\u043b\u0438 \u043d\u0430 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u043e\u0439 \u0432\u044b\u0431\u043e\u0440\u043a\u0435.",
+        "15. (2 \u0431\u0430\u043b\u043b\u0430) \u0414\u043b\u044f \u0432\u044b\u0431\u043e\u0440\u043a\u0438, \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u043e\u0439 \u0432 \u043f. 13, \u0437\u0430\u043a\u043e\u0434\u0438\u0440\u0443\u0439\u0442\u0435 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0438 (\u0432\u0441\u0435, \u043a\u0440\u043e\u043c\u0435 Title \u0438 FullDescription) \u043f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 \u0441\u0447\u0451\u0442\u0447\u0438\u043a\u043e\u0432, \u043f\u043e\u0441\u043b\u0435 \u0447\u0435\u0433\u043e \u043e\u0431\u0443\u0447\u0438\u0442\u0435 \u043b\u043e\u0433\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0440\u0435\u0433\u0440\u0435\u0441\u0441\u0438\u044e (\u043f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 scikit-learn \u0438\u043b\u0438 Vowpal Wabbit) \u043d\u0430 \u043e\u0431\u0443\u0447\u0430\u044e\u0449\u0435\u0439 \u0432\u044b\u0431\u043e\u0440\u043a\u0435. \u0412\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f ROC-AUC, [F-\u043c\u0435\u0440\u044b]( \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0441\u0442\u0440\u043e\u0439\u0442\u0435 [\u043c\u0430\u0442\u0440\u0438\u0446\u0443 \u043e\u0448\u0438\u0431\u043e\u043a]( \u0434\u043b\u044f \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u043e\u0439 \u043c\u043e\u0434\u0435\u043b\u0438 \u043d\u0430 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u043e\u0439 \u0432\u044b\u0431\u043e\u0440\u043a\u0435.",
+        "(b) Fit a support vector classifier to the training data using cost=0.01, with Purchase as the response and the other variables as predictors. Use the summary() function to produce summary statistics, and describe the results obtained"
+    ],
+    "170": [
+        "Properties",
+        "Properties",
+        "Properties"
+    ],
+    "171": [
+        "Learning objectives",
+        "Learning objectives",
+        "Learning objectives"
+    ],
+    "172": [
+        "Correlation",
+        "Correlation",
+        "Correlation"
+    ],
+    "173": [
+        "Example",
+        "Example",
+        "Example"
+    ],
+    "174": [
+        "Softmax",
+        "Softmax",
+        "Softmax"
+    ],
+    "175": [
+        "Deep Reinforcement Learning",
+        "Deep Reinforcement Learning",
+        "Deep reinforcement learning"
+    ],
+    "176": [
+        "Importing the data",
+        "1.1 Importing the Data",
+        "1.1 Importing the Data"
+    ],
+    "177": [
+        "\u53ef\u89c6\u5316",
+        "\u53ef\u89c6\u5316",
+        "\u53ef\u89c6\u5316"
+    ],
+    "178": [
+        "Part 1",
+        "Part 1",
+        "Part 1"
+    ],
+    "179": [
+        "Train Test Split",
+        "Train Test Split",
+        "Train-test split"
+    ],
+    "180": [
+        "Numbers",
+        "Numbers",
+        "Numbers"
+    ],
+    "181": [
+        "Create model",
+        "Create a model",
+        "Create Model"
+    ],
+    "182": [
+        "Output",
+        "Output",
+        "Output"
+    ],
+    "183": [
+        "GPU runtime",
+        "GPU runtime",
+        "GPU runtime"
+    ],
+    "184": [
+        "Import Packages",
+        "Import Packages",
+        "Import Packages"
+    ],
+    "185": [
+        "Tutorial",
+        "Tutorial",
+        "Tutorial"
+    ],
+    "186": [
+        "Create featurestore and define schemas",
+        "Create Featurestore and Define Schemas",
+        "Create Featurestore and Define Schemas"
+    ],
+    "187": [
+        "Congratulations!",
+        "Congratulations!",
+        "Congratulations!"
+    ],
+    "188": [
+        "End of Excursion",
+        "End of Excursion",
+        "End of Excursion"
+    ],
+    "189": [
+        "K-Means++",
+        "K-Means",
+        "K-Means"
+    ],
+    "190": [
+        "Import libraries",
+        "Import libraries",
+        "Import libraries"
+    ],
+    "191": [
+        "\ub370\uc774\ud130\uc14b(Dataset) \ub2e4\uc6b4\ub85c\ub4dc \ubc0f \ubd88\ub7ec\uc624\uae30",
+        "\ub370\uc774\ud130\uc14b(Dataset) \ub2e4\uc6b4\ub85c\ub4dc \ubc0f \ubd88\ub7ec\uc624\uae30",
+        "Download dataset and prepare `DataLoader`s"
+    ],
+    "192": [
+        "update",
+        "Update",
+        "Update"
+    ],
+    "193": [
+        "Install Packages",
+        "Install packages",
+        "Install packages"
+    ],
+    "194": [
+        "Code License: MIT License",
+        "Code License: MIT License",
+        "Code License: MIT License"
+    ],
+    "195": [
+        "Make the batch prediction request",
+        "Make the batch prediction request",
+        "Make the batch prediction request"
+    ],
+    "196": [
+        "Attention",
+        "Attention",
+        "Attention"
+    ],
+    "197": [
+        "\u5b89\u88c5 Pytorch",
+        "\u5b89\u88c5 Pytorch",
+        "Set-up and install"
+    ],
+    "198": [
+        "1a) Load from `datasets` Hub",
+        "1a) Load from `datasets` Hub",
+        "1a) Load from `datasets` Hub"
+    ],
+    "199": [
+        "Set machine type",
+        "Set machine type",
+        "Set machine type"
+    ],
+    "200": [
+        "Colab Setup",
+        "Colab Setup",
+        "Colab Setup"
+    ],
+    "201": [
+        "2. Bayes' Theorem",
+        "Bayes's Theorem",
+        "5. Bayes' Theorem"
+    ],
+    "202": [
+        "[False True True False]",
+        "True False]",
+        "[False True True False]"
+    ],
+    "203": [
+        "Background",
+        "Background",
+        "Background"
+    ],
+    "204": [
+        "Regression Tree",
+        "Regression Tree",
+        "Regression Tree"
+    ],
+    "205": [
+        "\u9884\u5904\u7406",
+        "\u9884\u5904\u7406",
+        "\u9884\u5904\u7406"
+    ],
+    "206": [
+        "**classifierdl_gender_biobert**",
+        "**`classifierdl_gender_biobert`**",
+        "classifierdl_gender_biobert"
+    ],
+    "207": [
+        "Imports Settings",
+        "Imports Settings",
+        "Imports Settings"
+    ],
+    "208": [
+        "Gradient Descent",
+        "Gradient descent",
+        "Gradient Descent"
+    ],
+    "209": [
+        "\u041b\u0435\u043c\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u0438 \u0441\u0442\u0435\u043c\u043c\u0438\u043d\u0433",
+        "\u0421\u0442\u0435\u043c\u043c\u0438\u043d\u0433 \u0438 \u043b\u0435\u043c\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f",
+        "\u0421\u0442\u0435\u043c\u043c\u0438\u043d\u0433 \u0438 \u043b\u0435\u043c\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f"
+    ],
+    "210": [
+        "End sidebar",
+        "End sidebar",
+        "End sidebar"
+    ],
+    "211": [
+        "k Nearest Neighbors",
+        "k-Nearest Neighbors",
+        "K-Nearest Neighbors"
+    ],
+    "212": [
+        "Logistic regression",
+        "Logistic regression",
+        "Logistic regression"
+    ],
+    "213": [
+        "Question answering",
+        "Answering Questions",
+        "Answering Questions"
+    ],
+    "214": [
+        "Loss",
+        "Loss",
+        "Loss"
+    ],
+    "215": [
+        "Strategy",
+        "Strategy",
+        "Strategy"
+    ],
+    "216": [
+        "The Gaussian Distribution",
+        "Gaussian Distribution",
+        "Gaussian Regression"
+    ],
+    "217": [
+        "Loading the dataset",
+        "Loading the dataset",
+        "Loading the dataset"
+    ],
+    "218": [
+        "**\ud83d\udd0eDefine Spark NLP pipeline**",
+        "**Define Spark NLP pipeline**",
+        "**\ud83d\udd0eDefine Spark NLP pipeline**"
+    ],
+    "219": [
+        "Deploy the model to Amazon SageMaker",
+        "Run Model Training on Amazon SageMaker",
+        "Run Model Training on Amazon SageMaker"
+    ],
+    "220": [
+        "Part IV: Semantic Fuzzing",
+        "Part IV: Semantic Fuzzing",
+        "Part IV: Semantic Fuzzing"
+    ],
+    "221": [
+        "Setup environment",
+        "Setup environment",
+        "Setup environment"
+    ],
+    "222": [
+        "Export the model",
+        "Export the model",
+        "Export the model"
+    ],
+    "223": [
+        "Viewing the 99 pre-made SQL queries",
+        "Question 99",
+        "Question 99"
+    ],
+    "224": [
+        "Prepare the data",
+        "Prepare the data",
+        "Prepare the data"
+    ],
+    "225": [
+        "Linear model",
+        "Linear model",
+        "Linear Model"
+    ],
+    "226": [
+        "2. Start Spark Session",
+        "2. Start Spark Session",
+        "2. Start Spark Session"
+    ],
+    "227": [
+        "Loading Data",
+        "Loading data",
+        "Loading Data"
+    ],
+    "228": [
+        "Content under Creative Commons Attribution license CC-BY 4.0, code under MIT license (c)2014 L.A. Barba, C.D. Cooper, G.F. Forsyth.",
+        "Content under Creative Commons Attribution license CC-BY 4.0, code under MIT license (c)2014 L.A. Barba, G.F. Forsyth.",
+        "Content under Creative Commons Attribution license CC-BY 4.0, code under MIT license (c)2014 L.A. Barba, G.F. Forsyth."
+    ],
+    "229": [
+        "Results",
+        "Results",
+        "Results"
+    ],
+    "230": [
+        "Video",
+        "Video",
+        "Video"
+    ],
+    "231": [
+        "Object Detection",
+        "Object detection",
+        "Object Detection"
+    ],
+    "232": [
+        "Errors",
+        "Errors",
+        "Errors"
+    ],
+    "233": [
+        "Creating Numpy arrays",
+        "NumPy arrays",
+        "with `numpy` arrays"
+    ],
+    "234": [
+        "scikit-learn",
+        "Scikit-learn",
+        "Scikit-learn"
+    ],
+    "235": [
+        "Transformers",
+        "Transformers",
+        "Transformers"
+    ],
+    "236": [
+        "Lessons Learned",
+        "Lessons Learned",
+        "Lessons Learned"
+    ],
+    "237": [
+        "Distance Metrics",
+        "Distance Matrix",
+        "Distance"
+    ],
+    "238": [
+        "67. Considering a four dimensions array, how to get sum over the last two axis at once?",
+        "67. Considering a four dimensions array, how to get sum over the last two axis at once?",
+        "67. Considering a four dimensions array, how to get sum over the last two axis at once?"
+    ],
+    "239": [
+        "Run Experiment",
+        "Run Experiment",
+        "Run Experiment"
+    ],
+    "240": [
+        "Feature Engineering",
+        "Feature engineering",
+        "Feature Engineering"
+    ],
+    "241": [
+        "1. C\u00f4ng th\u1ee9c",
+        "1. C\u00f4ng th\u1ee9c",
+        "1. C\u00f4ng th\u1ee9c"
+    ],
+    "242": [
+        "En-Zh Bilingual Parallel Corpus",
+        "En-Zh Bilingual Parallel Corpus",
+        "En-Zh Bilingual Parallel Corpus"
+    ],
+    "243": [
+        "Service Account",
+        "Service Account",
+        "Service Account"
+    ],
+    "244": [
+        "Resources",
+        "Resources",
+        "Resources"
+    ],
+    "245": [
+        "Load Data",
+        "Load Data",
+        "Load Data"
+    ],
+    "246": [
+        "[Day 22]( Grid Computing",
+        "[Day 17]( Two Steps Forward",
+        "[Day 0]( Preparation"
+    ],
+    "247": [
+        "1.00000000e+00 1.00000000e+00 -1.11022302e-16]",
+        "[-1.00000000e+00 -3.00000000e+00 1.00000000e+00]",
+        "[-2.00000000e+00 -3.00000000e+00 2.00000000e+00]]"
+    ],
+    "248": [
+        "Deploy the model",
+        "Deploy the model",
+        "Deploy the model"
+    ],
+    "249": [
+        "Bonus",
+        "Bonus",
+        "Bonus"
+    ],
+    "250": [
+        "**Colab Setup**",
+        "Colab Setup**",
+        "Colab Setup**"
+    ],
+    "251": [
+        "Slides",
+        "Slides",
+        "Slides"
+    ],
+    "252": [
+        "\u63d0\u793a6",
+        "\u63d0\u793a6",
+        "\u63d0\u793a6"
+    ],
+    "253": [
+        "Download the pretrained model",
+        "Download the pretrained model",
+        "Download the pretrained model"
+    ],
+    "254": [
+        "Data preparation",
+        "Data preparation",
+        "Data preparation"
+    ],
+    "255": [
+        "The Test Data",
+        "Test Data",
+        "Test Data"
+    ],
+    "256": [
+        "Masked language modeling",
+        "Masked language modeling",
+        "Masked Language Modeling"
+    ],
+    "257": [
+        "2. \u542f\u52a8\u7ebf\u7a0b\u3002",
+        "2. \u4f7f\u7528placeholder",
+        "2. \u542f\u52a8\u7ebf\u7a0b\u3002"
+    ],
+    "258": [
+        "[projects.locations.datasets.create](",
+        "[projects.locations.datasets.create](",
+        "[projects.locations.datasets.create]("
+    ],
+    "259": [
+        "Answer",
+        "Answer",
+        "Answer"
+    ],
+    "260": [
+        "Generator",
+        "Generator",
+        "generator"
+    ],
+    "261": [
+        "Next Steps",
+        "Next Steps",
+        "Next Steps"
+    ],
+    "262": [
+        "Facebook data",
+        "Facebook data",
+        "Instagram users vs other Facebook apps"
+    ],
+    "263": [
+        "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435, \u0424\u041a\u041d \u0412\u0428\u042d",
+        "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435, \u0424\u041a\u041d \u0412\u0428\u042d",
+        "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435, \u0424\u041a\u041d \u0412\u0428\u042d"
+    ],
+    "264": [
+        "One-hot-encoding",
+        "One Hot Encoding",
+        "One-hot encoding"
+    ],
+    "265": [
+        "Hints",
+        "Hints",
+        "Hints"
+    ],
+    "266": [
+        "Monte Carlo",
+        "Monte Carlo",
+        "Monte Carlo"
+    ],
+    "267": [
+        "Prerequisites",
+        "Prerequisites",
+        "Prerequisites"
+    ],
+    "268": [
+        "Create and run training pipeline",
+        "Create and run training pipeline",
+        "Create and run training pipeline"
+    ],
+    "269": [
+        "Setup imports",
+        "Setup imports",
+        "Setup imports"
+    ],
+    "270": [
+        "_Wait Until the Endpoint is Deployed_",
+        "_Wait Until the Endpoint Above is Deployed_",
+        "_Wait Until the Endpoint Above is Deployed_"
+    ],
+    "271": [
+        "alpha 0.01",
+        "alpha 0.01",
+        "Alpha 4"
+    ],
+    "272": [
+        "\u6a21\u578b\u8bc4\u4f30",
+        "\u6a21\u578b\u8bc4\u4f30",
+        "\u6a21\u578b\u8bc4\u4f30"
+    ],
+    "273": [
+        "Comparing models",
+        "Comparing models",
+        "Comparing the models"
+    ],
+    "274": [
+        "Create a training script",
+        "Create training script",
+        "Create a training script"
+    ],
+    "275": [
+        "DataFrames",
+        "DataFrames!",
+        "DataFrames!"
+    ],
+    "276": [
+        "Examples",
+        "Examples",
+        "Examples"
+    ],
+    "277": [
+        "Factor Exposures and Factor Returns",
+        "factors exposures and factor returns",
+        "factors exposures and factor returns"
+    ],
+    "278": [
+        "Implementation",
+        "Implementation",
+        "Implementation"
+    ],
+    "279": [
+        "Keras .pb or .h5",
+        "Keras .pb or .h5",
+        "Keras .pb or .h5"
+    ],
+    "280": [
+        "Loss function",
+        "Loss function",
+        "Loss function"
+    ],
+    "281": [
+        "Data types",
+        "7. Data Types",
+        "Data Types"
+    ],
+    "282": [
+        "Evaluate the model",
+        "Evaluate the model",
+        "Evaluate the model"
+    ],
+    "283": [
+        "Set pre-built containers",
+        "Set pre-built containers",
+        "Set pre-built containers"
+    ],
+    "284": [
+        "Priors",
+        "The Priors",
+        "The Priors"
+    ],
+    "285": [
+        "Get test item(s)",
+        "Get test item(s)",
+        "Get test item"
+    ],
+    "286": [
+        "Train model",
+        "Train model",
+        "Train Model"
+    ],
+    "287": [
+        "Excursion: Creating the Plot",
+        "Excursion: Creating the Plot",
+        "Excursion: Creating the Plot"
+    ],
+    "288": [
+        "BLACKJACK: Given three integers between 1 and 11, if their sum is less than or equal to 21, return their sum. If their sum exceeds 21 *and* there's an eleven, reduce the total sum by 10. Finally, if the sum (even after adjustment) exceeds 21, return 'BUST'",
+        "BLACKJACK: Given three integers between 1 and 11, if their sum is less than or equal to 21, return their sum. If their sum exceeds 21 *and* there's an eleven, reduce the total sum by 10. Finally, if the sum (even after adjustment) exceeds 21, return 'BUST'",
+        "BLACKJACK: Given three integers between 1 and 11, if their sum is less than or equal to 21, return their sum. If their sum exceeds 21 *and* there's an eleven, reduce the total sum by 10. Finally, if the sum (even after adjustment) exceeds 21, return 'BUST'"
+    ],
+    "289": [
+        "Exercise 01",
+        "Exercise M1.01",
+        "Solution for Exercise M1.01"
+    ],
+    "290": [
+        "Perform the model evaluation",
+        "Perform the model evaluation",
+        "Perform the model evaluation"
+    ],
+    "291": [
+        "Putting it all together",
+        "Putting it all together",
+        "Putting it all Together"
+    ],
+    "292": [
+        "Release Resources",
+        "Release Resources",
+        "Release Resources"
+    ],
+    "293": [
+        "Run the training pipeline",
+        "Run the training pipeline",
+        "Run the training pipeline"
+    ],
+    "294": [
+        "Tables",
+        "Tables",
+        "Tables"
+    ],
+    "295": [
+        "[L2 Regularization](",
+        "L2 regularization",
+        "L1 vs. L2 Regularization"
+    ],
+    "296": [
+        "Problem 2",
+        "Problem 2",
+        "Problem 2"
+    ],
+    "297": [
+        "Game Play",
+        "Game Play",
+        "Game Play"
+    ],
+    "298": [
+        "Quick tour",
+        "Quick tour",
+        "Quick tour"
+    ],
+    "299": [
+        "Evaluate",
+        "Evaluate",
+        "Evaluate"
+    ],
+    "300": [
+        "7. Repeat until satisfied",
+        "7. Repeat until satisfied",
+        "7. Repeat until satisfied"
+    ],
+    "301": [
+        "Research Ideas",
+        "Research Ideas",
+        "Research Ideas"
+    ],
+    "302": [
+        "Feature importance",
+        "Feature Importance",
+        "Feature Importance"
+    ],
+    "303": [
+        "Good Job!",
+        "Good Job!",
+        "Good Job!"
+    ],
+    "304": [
+        "Least Squares",
+        "Least squares",
+        "Least squares"
+    ],
+    "305": [
+        "Preparing the dataset",
+        "Preparing the dataset",
+        "Preparing the Dataset"
+    ],
+    "306": [
+        "Helper Functions",
+        "Helper functions",
+        "Helper functions"
+    ],
+    "307": [
+        "Run",
+        "Run!",
+        "run"
+    ],
+    "308": [
+        "Train a model",
+        "Train a model",
+        "Train a model"
+    ],
+    "309": [
+        "Answer question 4",
+        "Answer question 4",
+        "Answer question 4"
+    ],
+    "310": [
+        "Decision Boundary",
+        "Decision Boundary",
+        "Decision boundary"
+    ],
+    "311": [
+        "**Question**",
+        "**Question**",
+        "**Question**"
+    ],
+    "312": [
+        "Automatic Differentiation using *AutoGrad*",
+        "Autograd: automatic differentiation",
+        "Autograd: automatic differentiation"
+    ],
+    "313": [
+        "print",
+        "0.print",
+        "Print"
+    ],
+    "314": [
+        "Set up your local development environment",
+        "Set up your local development environment",
+        "Set up your local development environment"
+    ],
+    "315": [
+        "Sentence Entity Resolver (ICD-10CM)",
+        "ICD-10CM Resolver",
+        "ICD-10CM Resolver"
+    ],
+    "316": [
+        "Contents",
+        "Contents",
+        "Contents"
+    ],
+    "317": [
+        "Hints:",
+        "Hints:",
+        "Hints:"
+    ],
+    "318": [
+        "Precision and Recall",
+        "Precision and Recall",
+        "Precision and Recall"
+    ],
+    "319": [
+        "Documentation",
+        "Documentation",
+        "Documentation"
+    ],
+    "320": [
+        "Exploring the Data",
+        "Exploring the Data",
+        "Exploring the data"
+    ],
+    "321": [
+        "Outline",
+        "Outline",
+        "Outline"
+    ],
+    "322": [
+        "String Formatting",
+        "String Formatting",
+        "String formatting\u00b6"
+    ],
+    "323": [
+        "Data Augmentation",
+        "Data Augmentation",
+        "Data augmentation"
+    ],
+    "324": [
+        "Undeploy the `Model` resource",
+        "Undeploy the `Model` resource",
+        "Undeploy the `Model` resource"
+    ],
+    "325": [
+        "Learning Objectives",
+        "Learning Objectives",
+        "Learning Objectives"
+    ],
+    "326": [
+        "Initialize workspace",
+        "Initialize Workspace",
+        "Create a workspace"
+    ],
+    "327": [
+        "Normalize the data",
+        "Normalize the data",
+        "Normalize the data"
+    ],
+    "328": [
+        "Exercise 2: _Title_",
+        "Exercise 1: _Title_",
+        "Exercise 2: _Title_"
+    ],
+    "329": [
+        "Configurations",
+        "Configurations",
+        "Configurations"
+    ],
+    "330": [
+        "Set-up",
+        "Set Up",
+        "Set-up"
+    ],
+    "331": [
+        "Prediction",
+        "Prediction",
+        "Prediction"
+    ],
+    "332": [
+        "\u8f7d\u5165\u6d4b\u8bd5\u56fe\u50cf",
+        "\u8f7d\u5165\u6d4b\u8bd5\u56fe\u50cf",
+        "\u8f7d\u5165\u6d4b\u8bd5\u56fe\u50cf"
+    ],
+    "333": [
+        "Hierarchical Clustering",
+        "Hierarchical Clustering",
+        "Hierarchical clustering"
+    ],
+    "334": [
+        "TensorFlow2.0\u6559\u7a0b-Boosted trees",
+        "TensorFlow2.0\u6559\u7a0b-DCGAN",
+        "TensorFlow2.0\u6559\u7a0b-Boosted trees"
+    ],
+    "335": [
+        "Principal component analysis",
+        "Principal Component Analysis",
+        "Principal Component Analysis"
+    ],
+    "336": [
+        "Step 1. Import the necessary libraries",
+        "Step 1. Import the necessary libraries",
+        "Step 1. Import the necessary libraries"
+    ],
+    "337": [
+        "Polynomial regression",
+        "Polynomial regression",
+        "Polynomial Regression"
+    ],
+    "338": [
+        "4. Define Spark NLP pipeline",
+        "4. Define Spark NLP pipeline",
+        "5. Define Spark NLP pipeline"
+    ],
+    "339": [
+        "Visualization",
+        "Visualization",
+        "Visualization"
+    ],
+    "340": [
+        "algorithm",
+        "algorithm",
+        "algorithm"
+    ],
+    "341": [
+        "How to configure T5 task for MultiRC",
+        "How to configure T5 task for MultiRC",
+        "How to configure T5 task for MultiRC"
+    ],
+    "342": [
+        "map()",
+        "map",
+        "`map`"
+    ],
+    "343": [
+        "Sentence Entity Resolver (RxNorm)",
+        "Sentence Entity Resolver (RxNorm)",
+        "Sentence Entity Resolver (RxNorm)"
+    ],
+    "344": [
+        "Policy",
+        "`Policy`",
+        "Policy"
+    ],
+    "345": [
+        "UUID",
+        "UUID",
+        "UUID"
+    ],
+    "346": [
+        "\u4e09\uff0c\u8bad\u7ec3\u6a21\u578b",
+        "3\uff0c\u8bad\u7ec3\u6a21\u578b",
+        "3\uff0c\u8bad\u7ec3\u6a21\u578b"
+    ],
+    "347": [
+        "Define constants",
+        "Define constants",
+        "Define constants"
+    ],
+    "348": [
+        "Visualize",
+        "Visualize",
+        "Visualize"
+    ],
+    "349": [
+        "\u7ec3\u4e60",
+        "\u7ec3\u4e60",
+        "\u7ec3\u4e60"
+    ],
+    "350": [
+        "Colab Only: Uncomment the following cell to restart the kernel",
+        "Colab only: Uncomment the following cell to restart the kernel",
+        "Colab only: Uncomment the following cell to restart the kernel"
+    ],
+    "351": [
+        "Goals",
+        "Goals",
+        "Goals"
+    ],
+    "352": [
+        "Applications",
+        "Applications",
+        "Applications"
+    ],
+    "353": [
+        "Support Vector Machines",
+        "Support Vector Machines",
+        "1 Support Vector Machines"
+    ],
+    "354": [
+        "Load Images",
+        "Load Images",
+        "Load Images"
+    ],
+    "355": [
+        "Translate to German",
+        "Translate to German",
+        "Translate English to Chinese"
+    ],
+    "356": [
+        "Set hardware accelerators",
+        "Set hardware accelerators",
+        "Set hardware accelerators"
+    ],
+    "357": [
+        "\u4e8c\uff0c\u5b9a\u4e49\u6a21\u578b",
+        "2\uff0c\u5b9a\u4e49\u6a21\u578b",
+        "2\uff0c\u5b9a\u4e49\u6a21\u578b"
+    ],
+    "358": [
+        "Package Assembly",
+        "Package assembly",
+        "Package Assembly"
+    ],
+    "359": [
+        "Exercise 1",
+        "Exercise 1",
+        "Exercise 1"
+    ],
+    "360": [
+        "2. Download and read PDF Document",
+        "Load PDF",
+        "PDF to Text"
+    ],
+    "361": [
+        "For T5 models:",
+        "For T5 models:",
+        "For T5 models:"
+    ],
+    "362": [
+        "Model Parameters",
+        "Model Parameters",
+        "Model Parameters"
+    ],
+    "363": [
+        "[Medical Named Entity Recognizer: ner.jsl\t\t\t](",
+        "[Medical Named Entity Recognizer: ner.healthcare\t\t\t](",
+        "[Medical Named Entity Recognizer: ner.clinical\t\t\t]("
+    ],
+    "364": [
+        "Feature Selection",
+        "Feature Selection",
+        "Feature Selection"
+    ],
+    "365": [
+        "Text Classification",
+        "Using Text Classification to Find Relevant Parts of the Document",
+        "Using Text Classification to Find Relevant Parts of the Document"
+    ],
+    "366": [
+        "Recommendations",
+        "Recommendations",
+        "Recommendations"
+    ],
+    "367": [
+        "Make the batch input file",
+        "Make the batch input file",
+        "Make the batch input file"
+    ],
+    "368": [
+        "What we're going to cover",
+        "What we're going to cover",
+        "What we're going to cover"
+    ],
+    "369": [
+        "constraints",
+        "Constraints",
+        "constraints"
+    ],
+    "370": [
+        "Step 9. Select the rows 3 to 7 and the columns 3 to 6",
+        "Step 9. Select the rows 3 to 7 and the columns 3 to 6",
+        "Step 9. Select the rows 3 to 7 and the columns 3 to 6"
+    ],
+    "371": [
+        "Table of Contents",
+        "Table of Contents",
+        "Table of Contents"
+    ],
+    "372": [
+        "Box",
+        "Bounding Box",
+        "Bounding Box"
+    ],
+    "373": [
+        "\u0424\u043e\u0440\u043c\u0430\u0442 \u0441\u0434\u0430\u0447\u0438",
+        "\u0424\u043e\u0440\u043c\u0430\u0442 \u0441\u0434\u0430\u0447\u0438",
+        "\u0424\u043e\u0440\u043c\u0430\u0442 \u0441\u0434\u0430\u0447\u0438"
+    ],
+    "374": [
+        "Confidence Intervals",
+        "Confidence Intervals",
+        "Confidence Intervals"
+    ],
+    "375": [
+        "Color Images",
+        "Color",
+        "Color"
+    ],
+    "376": [
+        "\u041e \u0437\u0430\u0434\u0430\u043d\u0438\u0438",
+        "\u041e \u0437\u0430\u0434\u0430\u043d\u0438\u0438",
+        "\u041e \u0437\u0430\u0434\u0430\u043d\u0438\u0438"
+    ],
+    "377": [
+        "Architecture",
+        "architecture",
+        "architecture"
+    ],
+    "378": [
+        "\u63d0\u793a5",
+        "\u63d0\u793a5",
+        "\u63d0\u793a5"
+    ],
+    "379": [
+        "\u041e\u0446\u0435\u043d\u0438\u0432\u0430\u043d\u0438\u0435 \u0438 \u0448\u0442\u0440\u0430\u0444\u044b",
+        "\u041e\u0446\u0435\u043d\u0438\u0432\u0430\u043d\u0438\u0435 \u0438 \u0448\u0442\u0440\u0430\u0444\u044b",
+        "\u041e\u0446\u0435\u043d\u0438\u0432\u0430\u043d\u0438\u0435 \u0438 \u0448\u0442\u0440\u0430\u0444\u044b"
+    ],
+    "380": [
+        "Image Classification",
+        "Image classification",
+        "Image Classification"
+    ],
+    "381": [
+        "4. Create example inputs",
+        "4. Create example inputs",
+        "3. Create example inputs"
+    ],
+    "382": [
+        "\u041e\u0431\u0449\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f",
+        "\u041e\u0431\u0449\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f",
+        "\u041e\u0431\u0449\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f"
+    ],
+    "383": [
+        "Set-up environment",
+        "Set-up environment",
+        "Set-up environment"
+    ],
+    "384": [
+        "Store training script on your Cloud Storage bucket",
+        "Store training script on your Cloud Storage bucket",
+        "Store training script on your Cloud Storage bucket"
+    ],
+    "385": [
+        "Quick peek at your data",
+        "Quick peek at your data",
+        "Quick peek at your data"
+    ],
+    "386": [
+        "Colab only: Uncomment the following cell to restart the kernel.",
+        "Colab only: Uncomment the following cell to restart the kernel.",
+        "Colab only: Uncomment the following cell to restart the kernel."
+    ],
+    "387": [
+        "Readings",
+        "Readings",
+        "Readings"
+    ],
+    "388": [
+        "Clean the data",
+        "Clean the data",
+        "Clean up the data!"
+    ],
+    "389": [
+        "Section 2.1: Introduction",
+        "Section 2.1: Introduction",
+        "Section 2.1: Introduction"
+    ],
+    "390": [
+        "Data processing",
+        "Data Processing",
+        "Data Processing"
+    ],
+    "391": [
+        "3. Select the model and construct the pipeline",
+        "3. Select the model and construct the pipeline",
+        "3. Select the model and construct the pipeline"
+    ],
+    "392": [
+        "Problem Statement",
+        "Problem Statement",
+        "Problem Statement"
+    ],
+    "393": [
+        "Feature Extraction",
+        "Feature Extraction",
+        "Feature extraction"
+    ],
+    "394": [
+        "RNN",
+        "RNN",
+        "RNN"
+    ],
+    "395": [
+        "Package layout",
+        "Package layout",
+        "Package layout"
+    ],
+    "396": [
+        "Location of Cloud Storage training data.",
+        "Location of Cloud Storage training data.",
+        "Location of Cloud Storage training data."
+    ],
+    "397": [
+        "\u6784\u5efa\u6a21\u578b",
+        "\u6784\u5efa\u6a21\u578b",
+        "\u6784\u5efa\u6a21\u578b"
+    ],
+    "398": [
+        "Create the Dataset",
+        "Create the Dataset",
+        "Create the Dataset"
+    ],
+    "399": [
+        "Start H2O",
+        "Data in H2O",
+        "Data in H2O"
+    ],
+    "400": [
+        "Pipeline",
+        "Pipeline",
+        "a. Pipeline"
+    ],
+    "401": [
+        "Great Job!",
+        "Great Job!",
+        "Great Job!"
+    ],
+    "402": [
+        "Problem 1",
+        "Problem 1",
+        "Problem 1"
+    ],
+    "403": [
+        "1 Packages",
+        "1 Packages",
+        "1 Packages"
+    ],
+    "404": [
+        "Logistic Regression",
+        "Logistic Regression",
+        "Logistic Regression"
+    ],
+    "405": [
+        "Next steps",
+        "Next steps",
+        "Next steps"
+    ],
+    "406": [
+        ".type",
+        "type",
+        "Type"
+    ],
+    "407": [
+        "Problem 1.3 (Page 33)",
+        "Problem 1.1 (Page 33)",
+        "Problem 1.2 (Page 33)"
+    ],
+    "408": [
+        "Data preprocessing",
+        "Data Preprocessing",
+        "Data preprocessing"
+    ],
+    "409": [
+        "Training Loop",
+        "Training loop",
+        "Training Loop"
+    ],
+    "410": [
+        "4.5 Predictions",
+        "4.5 Predictions",
+        "4.5 Predictions"
+    ],
+    "411": [
+        "2.1.1.\u5bfc\u5165\u5de5\u5177\u5305",
+        "\u5bfc\u5165\u5de5\u5177\u5305",
+        "\u5bfc\u5165\u5de5\u5177\u5305"
+    ],
+    "412": [
+        "\u6570\u636e\u9884\u5904\u7406",
+        "\u6570\u636e\u9884\u5904\u7406",
+        "\u6570\u636e\u9884\u5904\u7406"
+    ],
+    "413": [
+        "random",
+        "random.random()",
+        "random"
+    ],
+    "414": [
+        "Plotting",
+        "Plotting",
+        "Plotting"
+    ],
+    "415": [
+        "Define a simple plot",
+        "Define a simple plot",
+        "Simple"
+    ],
+    "416": [
+        "There's more",
+        "There's more",
+        "There's more..."
+    ],
+    "417": [
+        "Undeploy the model",
+        "Undeploy the model",
+        "Undeploy the model"
+    ],
+    "418": [
+        "5. Run the pipeline",
+        "5. Run the pipeline",
+        "5. Run the pipeline"
+    ],
+    "419": [
+        "Install additional packages",
+        "Install additional packages",
+        "Install additional packages"
+    ],
+    "420": [
+        "6. Julia (built-in)",
+        "6. Julia (built-in)",
+        "Julia code"
+    ],
+    "421": [
+        "Want more tips? [View all tips on GitHub]( or [Sign up to receive 2 tips by email every week](",
+        "Want more tips? [View all tips on GitHub]( or [Sign up to receive 2 tips by email every week](",
+        "Want more tips? [View all tips on GitHub]( or [Sign up to receive 2 tips by email every week]("
+    ],
+    "422": [
+        "Problem",
+        "Problem",
+        "Problem"
+    ],
+    "423": [
+        "6. Run the pipeline",
+        "6. Run the pipeline",
+        "6. Run the pipeline"
+    ],
+    "424": [
+        "Install Dependencies",
+        "Install Dependencies",
+        "Install Dependencies"
+    ],
+    "425": [
+        "Testing",
+        "Testing",
+        "Testing"
+    ],
+    "426": [
+        "Learning Rate",
+        "Learning rate",
+        "Learning rate"
+    ],
+    "427": [
+        "Use case",
+        "Use Case",
+        "Use Case"
+    ],
+    "428": [
+        "Get Data",
+        "Get Data",
+        "Get Data"
+    ],
+    "429": [
+        "1. \u4e0d\u540c\u7684\u547d\u540d\u7a7a\u95f4\u3002",
+        "1. \u4e0d\u540c\u7684\u547d\u540d\u7a7a\u95f4\u3002",
+        "1. \u4e0d\u540c\u7684\u547d\u540d\u7a7a\u95f4\u3002"
+    ],
+    "430": [
+        "Step 3: Import the ONNX model into Tensorflow",
+        "Download the ONNX Models",
+        "Import the ONNX model to Tensorflow"
+    ],
+    "431": [
+        "Import Vertex client library",
+        "Import Vertex client library",
+        "Import Vertex client library"
+    ],
+    "432": [
+        "\u05d4\u05d2\u05d3\u05e8\u05d4",
+        "\u05d4\u05d2\u05d3\u05e8\u05d4",
+        "\u05d4\u05d2\u05d3\u05e8\u05d4"
+    ],
+    "433": [
+        "Daily survey",
+        "Daily survey",
+        "Daily survey"
+    ],
+    "434": [
+        "Manual downloading",
+        "Manual downloading",
+        "Manual downloading"
+    ],
+    "435": [
+        "Questions",
+        "Questions",
+        "Questions"
+    ],
+    "436": [
+        "Get the predictions",
+        "Get the predictions",
+        "Get the predictions"
+    ],
+    "437": [
+        "Azure Machine Learning SDK",
+        "Azure Machine Learning Imports",
+        "Azure Machine Learning SDK"
+    ],
+    "438": [
+        "Model Settings",
+        "Model Settings",
+        "Model Settings"
+    ],
+    "439": [
+        "A Setting a random seed for reproducibility.",
+        "Set random seed (for reproducibility)",
+        "Set random seed (for reproducibility)"
+    ],
+    "440": [
+        "\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u0444\u0438\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u043c\u043e\u0434\u0435\u043b\u0438",
+        "\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u0444\u0438\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u043c\u043e\u0434\u0435\u043b\u0438",
+        "\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u0444\u0438\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u043c\u043e\u0434\u0435\u043b\u0438"
+    ],
+    "441": [
+        "Variables",
+        "Variables",
+        "Variables"
+    ],
+    "442": [
+        "Create an `Endpoint` resource",
+        "Create an `Endpoint` resource",
+        "Create an `Endpoint` resource"
+    ],
+    "443": [
+        "E2E ML on GCP: MLOps stage 6 Get started with TensorFlow Serving with Vertex AI Prediction",
+        "E2E ML on GCP: MLOps stage 6 Get started with Vertex AI Batch Prediction for custom text models",
+        "E2E ML on GCP: MLOps stage 6 Get started with Vertex AI Batch Prediction for custom image models"
+    ],
+    "444": [
+        "Good Luck!",
+        "Good Luck!",
+        "Good Luck!"
+    ],
+    "445": [
+        "Inference Process",
+        "The Process",
+        "The process"
+    ],
+    "446": [
+        "Objects",
+        "Objects",
+        "Objects"
+    ],
+    "447": [
+        "Description:",
+        "Description:",
+        "Description\uff1a"
+    ],
+    "448": [
+        "Feature Transformation",
+        "Feature Transformation",
+        "Feature transformation"
+    ],
+    "449": [
+        "Training the Model",
+        "Training the Model",
+        "Training the model"
+    ],
+    "450": [
+        "Export",
+        "Export",
+        "Export"
+    ],
+    "451": [
+        "Languages suppoted by LABSE",
+        "Languages suppoted by LABSE",
+        "Languages suppoted by LABSE"
+    ],
+    "452": [
+        "Examine the training package",
+        "Examine the training package",
+        "Examine the training package"
+    ],
+    "453": [
+        "References:",
+        "References:",
+        "References:"
+    ],
+    "454": [
+        "Make the prediction",
+        "Make the prediction",
+        "Make the prediction"
+    ],
+    "455": [
+        "Ungraded Lab: Logistic Regression using Scikit-Learn",
+        "Ungraded Lab: Logistic Regression using Scikit-Learn",
+        "Ungraded Lab: Logistic Regression using Scikit-Learn"
+    ],
+    "456": [
+        "**Question:**",
+        "**Question:**",
+        "**Question:**"
+    ],
+    "457": [
+        "\ud83d\udcccSelf Reported Symptoms Classifier Model",
+        "\ud83d\udcccSelf Reported Symptoms Classifier Model",
+        "\ud83d\udcccSelf Reported Symptoms Classifier Model"
+    ],
+    "458": [
+        "date-of-birth and date-of-death",
+        "date-of-birth and date-of-death",
+        "Date Time Feature"
+    ],
+    "459": [
+        "Loading MNIST",
+        "Loading MNIST",
+        "Loading MNIST"
+    ],
+    "460": [
+        "Components",
+        "Components",
+        "Components"
+    ],
+    "461": [
+        "Extra material",
+        "Extra material",
+        "Extra material"
+    ],
+    "462": [
+        "\ud6c8\ub828[[train]]",
+        "\ud6c8\ub828[[train]]",
+        "\ud6c8\ub828[[train]]"
+    ],
+    "463": [
+        "Part 1: Determine the number of low pulses and high pulses that would be sent after pushing the button 1000 times, waiting for all pulses to be fully handled after each push of the button. What do you get if you multiply the total number of low pulses sent by the total number of high pulses sent?",
+        "Part 1: Starting from the garden plot marked S on your map, how many garden plots could the Elf reach in exactly 64 steps?",
+        "Part 2: Find the top three Elves carrying the most Calories. How many Calories are those Elves carrying in total?"
+    ],
+    "464": [
+        "5- Section Header Normalizer Mapper with ChunkSentenceSplitter",
+        "5- Section Header Normalizer Mapper with ChunkSentenceSplitter",
+        "5- Section Header Normalizer Mapper with ChunkSentenceSplitter"
+    ],
+    "465": [
+        "View Data\u00b6",
+        "View Data",
+        "View Data"
+    ],
+    "466": [
+        "2.1 LSTM cell",
+        "2.1 LSTM cell",
+        "2.1 LSTM cell"
+    ],
+    "467": [
+        "Requirements",
+        "Requirements",
+        "Requirements"
+    ],
+    "468": [
+        "\u5b57\u6bb5\u8bf4\u660e",
+        "\u5b57\u6bb5\u8bf4\u660e",
+        "\u5b57\u6bb5\u8bf4\u660e"
+    ],
+    "469": [
+        "Automatic Installation",
+        "Automatic Installation",
+        "Automatic Installation"
+    ],
+    "470": [
+        "3.2.1 Style matrix",
+        "3.2.1 Style matrix",
+        "For 2 x 2 Matrix"
+    ],
+    "471": [
+        "Company Name Normalization",
+        "Get Normalized Company Name",
+        "Get Normalized Company Name"
+    ],
+    "472": [
+        "Solving the Taxi Problem using Q Learning",
+        "Solving the Taxi Problem using Q Learning",
+        "Solving the Taxi Problem using Q Learning"
+    ],
+    "473": [
+        "TODO:",
+        "TODO:",
+        "TODO"
+    ],
+    "474": [
+        "Download dataset",
+        "Download dataset",
+        "Download Dataset"
+    ],
+    "475": [
+        "4. Use the pipeline to create outputs",
+        "4. Use the pipeline to create outputs",
+        "5. Use the pipeline to create outputs"
+    ],
+    "476": [
+        "Task.py contents",
+        "Task.py contents",
+        "Task.py contents"
+    ],
+    "477": [
+        "M2M100",
+        "M2M100",
+        "M2M100"
+    ],
+    "478": [
+        "Dimensionality reduction",
+        "Dimensionality Reduction",
+        "Dimensionality reduction"
+    ],
+    "479": [
+        "Heatmap",
+        "Heatmap",
+        "Heatmap"
+    ],
+    "480": [
+        "Normal distribution",
+        "Normal Distribution",
+        "Normal distribution"
+    ],
+    "481": [
+        "The Model understands German",
+        "The Model understands German",
+        "The Model understands German"
+    ],
+    "482": [
+        "while loops",
+        "while loops",
+        "while loops"
+    ],
+    "483": [
+        "Interpretation In Context",
+        "Interpretation In Context",
+        "Interpretation in context"
+    ],
+    "484": [
+        "\u4efb\u52a1\u4e00\uff1a\u5207\u5272\u8bad\u7ec3\u96c6\u548c\u6d4b\u8bd5\u96c6",
+        "\u4efb\u52a1\u4e00\uff1a\u5207\u5272\u8bad\u7ec3\u96c6\u548c\u6d4b\u8bd5\u96c6",
+        "\u4efb\u52a1\u4e00\uff1a\u5207\u5272\u8bad\u7ec3\u96c6\u548c\u6d4b\u8bd5\u96c6"
+    ],
+    "485": [
+        "Expected output",
+        "Expected output",
+        "Expected Output:"
+    ],
+    "486": [
+        "Define the model",
+        "Define the model",
+        "Define the model"
+    ],
+    "487": [
+        "['2020-05' '2020-06' '2020-07' '2020-08' '2020-09' '2020-10' '2020-11']",
+        "['2020-05' '2020-06' '2020-07' '2020-08' '2020-09' '2020-10' '2020-11']",
+        "['2020-05' '2020-06' '2020-07' '2020-08' '2020-09' '2020-10' '2020-11']"
+    ],
+    "488": [
+        "Question 2",
+        "Question 2",
+        "Question 2"
+    ],
+    "489": [
+        "Define functions",
+        "Define functions",
+        "Define functions"
+    ],
+    "490": [
+        "Remove outliers",
+        "Remove outliers",
+        "Remove outliers"
+    ],
+    "491": [
+        "76. Consider a one-dimensional array Z, build a two-dimensional array whose first row is (Z\\[0\\],Z\\[1\\],Z\\[2\\]) and each subsequent row is shifted by 1 (last row should be (Z\\[-3\\],Z\\[-2\\],Z\\[-1\\])",
+        "76. Consider a one-dimensional array Z, build a two-dimensional array whose first row is (Z\\[0\\],Z\\[1\\],Z\\[2\\]) and each subsequent row is shifted by 1 (last row should be (Z\\[-3\\],Z\\[-2\\],Z\\[-1\\])",
+        "76. Consider a one-dimensional array Z, build a two-dimensional array whose first row is (Z\\[0\\],Z\\[1\\],Z\\[2\\]) and each subsequent row is shifted by 1 (last row should be (Z\\[-3\\],Z\\[-2\\],Z\\[-1\\])"
+    ],
+    "492": [
+        "Compute instance scaling",
+        "Compute instance scaling",
+        "Compute instance scaling"
+    ],
+    "493": [
+        "Logic functions",
+        "Logic",
+        "Logic"
+    ],
+    "494": [
+        "Tools",
+        "Tools",
+        "Tools"
+    ],
+    "495": [
+        "Load the data",
+        "Load the data",
+        "Load the Data"
+    ],
+    "496": [
+        "Set service account access for Vertex AI Pipelines",
+        "Set service account access for Vertex AI Pipelines",
+        "Set service account access for Vertex AI Pipelines"
+    ],
+    "497": [
+        "\u8f93\u5165",
+        "\u8f93\u5165",
+        "\u8f93\u5165"
+    ],
+    "498": [
+        "How to help",
+        "How to help",
+        "How to help"
+    ],
+    "499": [
+        "Download the Dataset",
+        "Download the dataset",
+        "Download the dataset"
+    ],
+    "500": [
+        "Chapter 8",
+        "Chapter 7",
+        "Chapter 8"
+    ],
+    "501": [
+        "Make online predictions",
+        "Make online predictions",
+        "Make online predictions"
+    ],
+    "502": [
+        "S&P 500 3 Year Returns",
+        "S&P 500 1 Year Returns",
+        "S&P 500 5 Year Returns"
+    ],
+    "503": [
+        "Load Dataset",
+        "Load Dataset",
+        "Load Dataset"
+    ],
+    "504": [
+        "2 Neural Networks",
+        "2 Neural Networks",
+        "3. Neural networks"
+    ],
+    "505": [
+        "Random Forest",
+        "Random Forest",
+        "2.7. Random Forest"
+    ],
+    "506": [
+        "Hands-on",
+        "Hands-on",
+        "Hands-on"
+    ],
+    "507": [
+        "4. Some sample examples",
+        "4. Some sample examples",
+        "4. Some sample examples"
+    ],
+    "508": [
+        "**Detect entities in English text**",
+        "**Detect Clinical Entities**",
+        "**Detect Clinical Entities**"
+    ],
+    "509": [
+        "\u4e60\u989824.1",
+        "\u4e60\u989824.7",
+        "\u4e60\u989824.4"
+    ],
+    "510": [
+        "Build the Model",
+        "build the model",
+        "Build the Model"
+    ],
+    "511": [
+        "Evaluating model performance",
+        "Evaluating Model Performance",
+        "Evaluating the model performance"
+    ],
+    "512": [
+        "7. Visualize results",
+        "7. Visualize results",
+        "7. Visualize results"
+    ],
+    "513": [
+        "Get the serving function signature",
+        "Get the serving function signature",
+        "Get the serving function signature"
+    ],
+    "514": [
+        "Bonus Interactive Demo 1.1.1: Visualizing the SimCLR network encoder RSMs, organized along different latent dimensions",
+        "Bonus Interactive Demo 1.1.1: Visualizing the SimCLR network encoder RSMs, organized along different latent dimensions",
+        "Bonus Interactive Demo 1.1.1: Visualizing the SimCLR network encoder RSMs, organized along different latent dimensions"
+    ],
+    "515": [
+        "Categorical Variables",
+        "Categorical variables",
+        "Categorical Variables"
+    ],
+    "516": [
+        "Random forest regression",
+        "Random Forest #2",
+        "Using Random Forest"
+    ],
+    "517": [
+        "2 \u7b2c\u4e8c\u7ae0\uff1a\u6570\u636e\u91cd\u6784",
+        "2 \u7b2c\u4e8c\u7ae0\uff1a\u6570\u636e\u91cd\u6784",
+        "2 \u7b2c\u4e8c\u7ae0\uff1a\u6570\u636e\u91cd\u6784"
+    ],
+    "518": [
+        "Deploy `Model` resource to the `Endpoint` resource",
+        "Deploy `Model` resource to the `Endpoint` resource",
+        "Deploy `Model` resource to the `Endpoint` resource"
+    ],
+    "519": [
+        "2. \u5b9a\u4e49\u6570\u636e\u5904\u7406\u8fc7\u7a0b",
+        "2.\u63a2\u7d22\u6570\u636e",
+        "2.\u63a2\u7d22\u6570\u636e"
+    ],
+    "520": [
+        "Multiple Dispatch",
+        "Multiple dispatch",
+        "Multiple dispatch"
+    ],
+    "521": [
+        "Risk",
+        "Risk",
+        "Risk"
+    ],
+    "522": [
+        "5. Visualize Results",
+        "5. Visualize results",
+        "5. Visualize results"
+    ],
+    "523": [
+        "Quiz",
+        "Quiz",
+        "Quiz"
+    ],
+    "524": [
+        "Relation Extraction Models",
+        "Relation Extraction Models",
+        "Relation Extraction Models"
+    ],
+    "525": [
+        "Highlight Candlestick",
+        "Highlight Candlestick",
+        "Highlight Candlestick"
+    ],
+    "526": [
+        "\u8bad\u7ec3\u6a21\u578b",
+        "\u8bad\u7ec3\u6a21\u578b",
+        "\u8bad\u7ec3\u6a21\u578b"
+    ],
+    "527": [
+        "Test",
+        "Test",
+        "test"
+    ],
+    "528": [
+        "Section 0: Introduction",
+        "Section 0: introduction",
+        "Section 0: Introduction"
+    ],
+    "529": [
+        "Question 3",
+        "Question 3",
+        "Question 3"
+    ],
+    "530": [
+        "Import Libraries",
+        "Import Libraries",
+        "Import Libraries"
+    ],
+    "531": [
+        "Installations",
+        "Installations",
+        "Installations"
+    ],
+    "532": [
+        "Improving a model",
+        "Improving the model",
+        "Improving the model"
+    ],
+    "533": [
+        "Get the explanations",
+        "Get the explanations",
+        "Get the explanations"
+    ],
+    "534": [
+        "Load data",
+        "Load Data",
+        "Load data"
+    ],
+    "535": [
+        "Sentiment Analysis",
+        "Sentiment Analysis",
+        "Sentiment Analysis"
+    ],
+    "536": [
+        "Posology Releation Extraction",
+        "Posology Releation Extraction",
+        "Posology Releation Extraction"
+    ],
+    "537": [
+        "Vertex constants",
+        "Vertex constants",
+        "Vertex constants"
+    ],
+    "538": [
+        "Task 13 [WSC and DPR Coreference resolution/ Pronoun ambiguity resolver",
+        "Task 13 [WSC and DPR Coreference resolution/ Pronoun ambiguity resolver",
+        "Task 13 [WSC and DPR Coreference resolution/ Pronoun ambiguity resolver"
+    ],
+    "539": [
+        "Create training pipeline",
+        "Create training pipeline",
+        "Create training pipeline"
+    ],
+    "540": [
+        "Groupby!",
+        "`groupby`",
+        "groupby"
+    ],
+    "541": [
+        "3. \u5b9a\u4e49\u8bad\u7ec3\u8fc7\u7a0b\u3002",
+        "3. \u5b9a\u4e49\u8bad\u7ec3\u8fc7\u7a0b\u3002",
+        "2. \u5b9a\u4e49\u8bad\u7ec3\u8fc7\u7a0b\u3002"
+    ],
+    "542": [
+        "Introduction:",
+        "Introduction:",
+        "Introduction:"
+    ],
+    "543": [
+        "10.",
+        "10.",
+        "10."
+    ],
+    "544": [
+        "Austria (EWO) 5 Year Returns",
+        "Austria (EWO) 3 to 7 Year Returns",
+        "Austria (EWO) 10 Year Returns"
+    ],
+    "545": [
+        "Make a online prediction request",
+        "Make a online prediction request",
+        "Make a online prediction request"
+    ],
+    "546": [
+        "Load Checkpoint",
+        "Load Checkpoint",
+        "Load Checkpoint"
+    ],
+    "547": [
+        "Partial Dependence Plots",
+        "Partial Dependence Plots",
+        "Partial Dependence Plots"
+    ],
+    "548": [
+        "Exercise solutions",
+        "Exercise solutions",
+        "Exercise solutions"
+    ],
+    "549": [
+        "Quantization of Signals",
+        "Quantization of Signals",
+        "Quantization of Signals"
+    ],
+    "550": [
+        "Hidden State",
+        "Hidden States",
+        "State"
+    ],
+    "551": [
+        "Example pre-processed input for T5 MRPC Binary Paraphrasing/ sentence similarity",
+        "Example pre-processed input for T5 MRPC Binary Paraphrasing/ sentence similarity",
+        "Example pre-processed input for T5 MRPC Binary Paraphrasing/ sentence similarity"
+    ],
+    "552": [
+        "Excluding entities from deidentification",
+        "Excluding entities from deidentification",
+        "Excluding entities from deidentification"
+    ],
+    "553": [
+        "Load the saved model",
+        "Load the saved model",
+        "Load the saved model"
+    ],
+    "554": [
+        "Enclosing function locals",
+        "Enclosing function locals",
+        "Enclosing function locals"
+    ],
+    "555": [
+        "Synthetic Dataset",
+        "Synthetic Data",
+        "Synthetic Data"
+    ],
+    "556": [
+        "Step 3. Assign it to a variable called",
+        "Step 3. Assign it to a variable called",
+        "Step 3. Assign it to a variable called"
+    ],
+    "557": [
+        "Solutions",
+        "Solutions",
+        "Solutions"
+    ],
+    "558": [
+        "Clean up resources",
+        "Clean Up Resources",
+        "Clean up resources"
+    ],
+    "559": [
+        "Using your Google Drive!",
+        "Using Google Drive",
+        "Google Drive"
+    ],
+    "560": [
+        "Upload the model",
+        "Upload the model",
+        "Upload the model"
+    ],
+    "561": [
+        "Congratulations",
+        "Congratulations",
+        "Congratulations"
+    ],
+    "562": [
+        "Logistic regression model",
+        "Logistic regression model",
+        "Logistic regression model"
+    ],
+    "563": [
+        "Prepare your disk specification",
+        "Prepare your disk specification",
+        "Prepare your disk specification"
+    ],
+    "564": [
+        "Import alphalens",
+        "Import alphalens",
+        "Import alphalens"
+    ],
+    "565": [
+        "Setup data directory",
+        "Setup data directory",
+        "Setup data directory"
+    ],
+    "566": [
+        "Verify table creation",
+        "Verify table creation",
+        "Verify table creation"
+    ],
+    "567": [
+        "BillSum \ub370\uc774\ud130\uc14b \uac00\uc838\uc624\uae30[[load-billsum-dataset]]",
+        "BillSum \ub370\uc774\ud130\uc14b \uac00\uc838\uc624\uae30[[load-billsum-dataset]]",
+        "BillSum \ub370\uc774\ud130\uc14b \uac00\uc838\uc624\uae30[[load-billsum-dataset]]"
+    ],
+    "568": [
+        "Notation",
+        "Notation",
+        "Notation"
+    ],
+    "569": [
+        "Define common functions",
+        "Define common functions",
+        "Define common functions"
+    ],
+    "570": [
+        "Input/Output Annotation Types**",
+        "Input/Output Annotation Types**",
+        "Input/Output Annotation Types**"
+    ],
+    "571": [
+        "Example #1 on_click",
+        "Example #1 on_click",
+        "Example #1 on_click"
+    ],
+    "572": [
+        "[projects.locations.models.create](",
+        "[projects.locations.models.create](",
+        "[projects.locations.models.create]("
+    ],
+    "573": [
+        "Further Reading",
+        "Further Reading",
+        "Further Reading"
+    ],
+    "574": [
+        "Parameters**",
+        "Parameters**",
+        "Parameters**"
+    ],
+    "575": [
+        "Milestone Project 1",
+        "Milestone Project 2 Solution",
+        "Milestone Project 2 Solution"
+    ],
+    "576": [
+        "Set up clients",
+        "Set up clients",
+        "Set up clients"
+    ],
+    "577": [
+        "Methods",
+        "Methods",
+        "Methods"
+    ],
+    "578": [
+        "AutoML constants",
+        "AutoML constants",
+        "AutoML constants"
+    ],
+    "579": [
+        "Probability Density Function",
+        "Probability Density Function",
+        "Probability Density Function"
+    ],
+    "580": [
+        "Colab only",
+        "Colab only",
+        "Colab only"
+    ],
+    "581": [
+        "Wrap up",
+        "Wrap-up",
+        "Wrap Up"
+    ],
+    "582": [
+        "Density Estimation",
+        "Density Plot",
+        "Density Plot"
+    ],
+    "583": [
+        "\u53c3\u8003:",
+        "\u53c3\u8003:",
+        "\u53c3\u8003:"
+    ],
+    "584": [
+        "Outro",
+        "Outro",
+        "Outro"
+    ],
+    "585": [
+        "Wait for completion of batch prediction job",
+        "Wait for completion of batch prediction job",
+        "Wait for completion of batch prediction job"
+    ],
+    "586": [
+        "Text-guided image-to-image generation",
+        "Text-guided image-to-image generation",
+        "Text-guided image-to-image generation"
+    ],
+    "587": [
+        "Starting",
+        "Starting",
+        "Starting"
+    ],
+    "588": [
+        "THIS WILL TAKE 20-30 MINUTES. PLEASE BE PATIENT!",
+        "THIS WILL TAKE 20-30 MINUTES. PLEASE BE PATIENT!",
+        "THIS WILL TAKE 20-30 MINUTES. PLEASE BE PATIENT!"
+    ],
+    "589": [
+        "Exercise 03",
+        "Exercise 03",
+        "Exercise 03"
+    ],
+    "590": [
+        "2.0 Problem statement: SIGNS Dataset",
+        "2.0 Problem statement: SIGNS Dataset",
+        "2.0 Problem statement: SIGNS Dataset"
+    ],
+    "591": [
+        "Setting up the dataset",
+        "Setting up the dataset",
+        "Setting up the dataset"
+    ],
+    "592": [
+        "Downloading MNIST Dataset",
+        "Downloading MNIST Dataset",
+        "The MNIST dataset"
+    ],
+    "593": [
+        "Broadcasting rules",
+        "Broadcasting rules",
+        "Rules"
+    ],
+    "594": [
+        "Assemble a job specification",
+        "Assemble a job specification",
+        "Assemble a job specification"
+    ],
+    "595": [
+        "Container (Docker) image",
+        "Container (Docker) image",
+        "Container (Docker) image"
+    ],
+    "596": [
+        "A quick visual check",
+        "A quick visual check",
+        "A quick visual check"
+    ],
+    "597": [
+        "Measuring Model Performance",
+        "Measuring Model Performance",
+        "Measuring Model Performance"
+    ],
+    "598": [
+        "MCMC",
+        "MCMC",
+        "MCMC"
+    ],
+    "599": [
+        "\u5c0f\u7ed3",
+        "\u5c0f\u7ed3",
+        "\u5c0f\u7ed3"
+    ],
+    "600": [
+        "Create custom training job",
+        "Create custom training job",
+        "Create custom training job"
+    ],
+    "601": [
+        "Step 2. Import the dataset from this [address](",
+        "Step 2. Import the dataset from this [address](",
+        "Step 2. Import the dataset from this [address]("
+    ],
+    "602": [
+        "Recording Calls",
+        "Recording Calls",
+        "Recording Calls"
+    ],
+    "603": [
+        "Neural Machine Translation",
+        "Neural Machine Translation",
+        "Neural Machine Translation"
+    ],
+    "604": [
+        "information gain $g(D, A)=H(D)-H(D|A)$",
+        "Information Gain",
+        "information gain $g(D, A)=H(D)-H(D|A)$"
+    ],
+    "605": [
+        "Get pricing data helper function",
+        "Get pricing data helper function",
+        "Get pricing data helper function"
+    ],
+    "606": [
+        "Boundary Conditions",
+        "Boundary conditions",
+        "Boundary Conditions"
+    ],
+    "607": [
+        "Set up environment variables and load necessary libraries",
+        "Set up environment variables and load necessary libraries",
+        "Set up environment variables and load necessary libraries"
+    ],
+    "608": [
+        "\u5bfc\u5165\u5305",
+        "\u5bfc\u5165\u5305",
+        "\u5bfc\u5165\u5305"
+    ],
+    "609": [
+        "Create and run custom training job",
+        "Create and run custom training job",
+        "Create and run custom training job"
+    ],
+    "610": [
+        "Register the model",
+        "Register the model",
+        "Register the model"
+    ],
+    "611": [
+        "Broadcasting",
+        "Broadcasting",
+        "Broadcasting"
+    ],
+    "612": [
+        "\u6a21\u578b\u642d\u5efa",
+        "\u6a21\u578b\u642d\u5efa",
+        "\u6a21\u578b\u642d\u5efa"
+    ],
+    "613": [
+        "3. \u8fd0\u884c\u6570\u636e\u5904\u7406\u8fc7\u7a0b",
+        "3. \u8fd0\u884c\u6570\u636e\u5904\u7406\u8fc7\u7a0b",
+        "3. \u8fd0\u884c\u6570\u636e\u5904\u7406\u8fc7\u7a0b"
+    ],
+    "614": [
+        "Multiclass classification",
+        "Multiclass Classification",
+        "Multiclass classification"
+    ],
+    "615": [
+        "Problem 3",
+        "Problem 3",
+        "Problem 3"
+    ],
+    "616": [
+        "Setup Azure ML Workspace",
+        "Create Azure ML Workspace",
+        "Azure ML workspace"
+    ],
+    "617": [
+        "Answer **Closed Book Questions**",
+        "Answer **Closed Book Questions**",
+        "Answer **Closed Book Questions**"
+    ],
+    "618": [
+        "Step 12. Create two scatterplots graphs, one for Male and another for Female, presenting the total_bill value and tip relationship, differing by smoker or no smoker",
+        "Step 12. Create two scatterplots graphs, one for Male and another for Female, presenting the total_bill value and tip relationship, differing by smoker or no smoker",
+        "Step 12. Create two scatterplots graphs, one for Male and another for Female, presenting the total_bill value and tip relationship, differing by smoker or no smoker"
+    ],
+    "619": [
+        "Compile the pipeline into a JSON file",
+        "Generate the JSON pipeline file",
+        "Save JSON to file"
+    ],
+    "620": [
+        "Example 2: Detect Gender and Age",
+        "Example 2: Detect Gender and Age",
+        "Example 2: Detect Gender and Age"
+    ],
+    "621": [
+        "Think Bayes",
+        "Think Bayes",
+        "Think Bayes"
+    ],
+    "622": [
+        "@bigquery",
+        "@bigquery",
+        "@bigquery"
+    ],
+    "623": [
+        "**Importing libraries**",
+        "**Importing Libraries**",
+        "**Installing and importing the required libraries**"
+    ],
+    "624": [
+        "Bert Embeddings",
+        "Bert Embeddings",
+        "Bert Embeddings"
+    ],
+    "625": [
+        "with Relation Extraction",
+        "with Relation Extraction",
+        "Relation Extraction"
+    ],
+    "626": [
+        "Plot Certain dates",
+        "Plot Certain dates",
+        "Plot Certain dates"
+    ],
+    "627": [
+        "Usage and Productization",
+        "Usage and Productization",
+        "Usage and Productization"
+    ],
+    "628": [
+        "From SQL to pandas",
+        "SQL Libraries",
+        "SQL Libraries"
+    ],
+    "629": [
+        "Lists",
+        "Lists",
+        "Lists"
+    ],
+    "630": [
+        "Sets",
+        "Sets",
+        "Sets"
+    ],
+    "631": [
+        "Transform the data",
+        "Transform the data",
+        "Transform the data"
+    ],
+    "632": [
+        "When we look at any image, most of the time we identify a person using a face. An image might contain multiple faces, also the face can be obstructed and not clear. The first step in our pre-processing pipeline is to detect faces from an image. Once face is detected, we will detect eyes, if two eyes are detected then only we keep that image otherwise discard it.",
+        "When we look at any image, most of the time we identify a person using a face. An image might contain multiple faces, also the face can be obstructed and not clear. The first step in our pre-processing pipeline is to detect faces from an image. Once face is detected, we will detect eyes, if two eyes are detected then only we keep that image otherwise discard it.",
+        "Hugging Face"
+    ],
+    "633": [
+        "numpy.e",
+        "numpy.e",
+        "numpy.e"
+    ],
+    "634": [
+        "Login to W&B",
+        "Login to W&B",
+        "Login to W&B"
+    ],
+    "635": [
+        "Modeling and Simulation in Python",
+        "Modeling and Simulation in Python",
+        "Modeling and Simulation in Python"
+    ],
+    "636": [
+        "Download Data",
+        "Download data",
+        "Download Data"
+    ],
+    "637": [
+        "Strings",
+        "Strings",
+        "Strings"
+    ],
+    "638": [
+        "NUTS sampler",
+        "NUTS samples",
+        "NUTS samples"
+    ],
+    "639": [
+        "Explanation Metadata",
+        "Explanation Metadata",
+        "Explanation Metadata"
+    ],
+    "640": [
+        "ClassifierDL",
+        "ClassifierDL",
+        "ClassifierDL"
+    ],
+    "641": [
+        "Cross-validation",
+        "Cross-validation",
+        "Cross-validation"
+    ],
+    "642": [
+        "HTML",
+        "HTML",
+        "HTML"
+    ],
+    "643": [
+        "Review model evaluation scores",
+        "Review model evaluation scores",
+        "Review model evaluation scores"
+    ],
+    "644": [
+        "Quiz 1",
+        "Quiz 1 Answer here",
+        "Quiz 1 Answer"
+    ],
+    "645": [
+        "**Steps Covered in this Tutorial**",
+        "Steps Covered in this Tutorial",
+        "Steps Covered in this Tutorial"
+    ],
+    "646": [
+        "Best Model",
+        "Best Model",
+        "Best Model"
+    ],
+    "647": [
+        "Intro",
+        "Intro",
+        "Intro"
+    ],
+    "648": [
+        "Sensitivity to the Prior",
+        "Prior sensitivity",
+        "Sensitivity"
+    ],
+    "649": [
+        "Review: The Gradient",
+        "Review: The Gradient",
+        "Review: Regression"
+    ],
+    "650": [
+        "1.3 Computing the Cost",
+        "1.3 Computing the Cost",
+        "1.3 Computing the Cost"
+    ],
+    "651": [
+        "Previewing sample rows of data values",
+        "Previewing sample rows of data values",
+        "Previewing sample rows of data values"
+    ],
+    "652": [
+        "Clustering",
+        "Clustering",
+        "Clustering"
+    ],
+    "653": [
+        "Defining the Causal effect",
+        "What's the effect?",
+        "The Regression Effect"
+    ],
+    "654": [
+        "\u5b66\u7fd2\u3055\u305b\u308b",
+        "\u5b66\u7fd2\u3055\u305b\u308b",
+        "\u5b66\u7fd2\u3055\u305b\u308b"
+    ],
+    "655": [
+        "User Input",
+        "\u53ef\u4ee5\u770b\u51fa\uff1a\u67091605541\uff08\u7ea6\u536099.2%\uff09\u7684\u7528\u6237\u672a\u91cd\u590d\u9605\u8bfb\u8fc7\u6587\u7ae0\uff0c\u4ec5\u6709\u6781\u5c11\u6570\u7528\u6237\u91cd\u590d\u70b9\u51fb\u8fc7\u67d0\u7bc7\u6587\u7ae0\u3002 \u8fd9\u4e2a\u4e5f\u53ef\u4ee5\u5355\u72ec\u5236\u4f5c\u6210\u7279\u5f81",
+        "\u53ef\u4ee5\u770b\u51fa\uff1a\u67091605541\uff08\u7ea6\u536099.2%\uff09\u7684\u7528\u6237\u672a\u91cd\u590d\u9605\u8bfb\u8fc7\u6587\u7ae0\uff0c\u4ec5\u6709\u6781\u5c11\u6570\u7528\u6237\u91cd\u590d\u70b9\u51fb\u8fc7\u67d0\u7bc7\u6587\u7ae0\u3002 \u8fd9\u4e2a\u4e5f\u53ef\u4ee5\u5355\u72ec\u5236\u4f5c\u6210\u7279\u5f81"
+    ],
+    "656": [
+        "Settings",
+        "Settings",
+        "Settings"
+    ],
+    "657": [
+        "Cleanup",
+        "Cleanup",
+        "Cleanup"
+    ],
+    "658": [
+        "Transfer learning",
+        "Transfer Learning",
+        "Transfer learning"
+    ],
+    "659": [
+        "Gaussian Mixture Models",
+        "Gaussian Mixture Models",
+        "Gaussian Mixture Models"
+    ],
+    "660": [
+        "Load evaluation data",
+        "Load evaluation data",
+        "Load evaluation data"
+    ],
+    "661": [
+        "Train the Network",
+        "Train the Network",
+        "Train the Network"
+    ],
+    "662": [
+        "Question 1",
+        "Question 1",
+        "Question 1"
+    ],
+    "663": [
+        "Delete a pipeline job",
+        "Delete a pipeline job",
+        "Delete a pipeline job"
+    ],
+    "664": [
+        "Send the prediction request",
+        "Send the prediction request",
+        "Send the prediction request"
+    ],
+    "665": [
+        "Execute a typical PyTorch training process",
+        "Execute a typical PyTorch training process",
+        "Execute a typical PyTorch training loop"
+    ],
+    "666": [
+        "Cross Validation",
+        "Cross-Validation",
+        "Cross- Validation"
+    ],
+    "667": [
+        "Code Examples",
+        "Code Examples",
+        "Code Examples"
+    ],
+    "668": [
+        "Notes",
+        "Notes",
+        "notes"
+    ],
+    "669": [
+        "\u603b\u7ed3",
+        "\u603b\u7ed3",
+        "\u603b\u7ed3"
+    ],
+    "670": [
+        "Global",
+        "Global",
+        "Global"
+    ],
+    "671": [
+        "Experiments",
+        "Experiments",
+        "Experiments"
+    ],
+    "672": [
+        "Prototype: Approach and Data",
+        "Prototype: Approach and Data",
+        "Prototype: Approach and Data"
+    ],
+    "673": [
+        "Question 6",
+        "Question 7",
+        "Question 6"
+    ],
+    "674": [
+        "Import Feature Values",
+        "Import Feature Values",
+        "Import feature values"
+    ],
+    "675": [
+        "Exercise: Create two SQL statements to evaluate the model.",
+        "Exercise: Create two SQL statements to evaluate the model.",
+        "Exercise: Create two SQL statements to evaluate the model."
+    ],
+    "676": [
+        "Exercise 04",
+        "Exercise 04",
+        "Exercise 04"
+    ],
+    "677": [
+        "Vector Space",
+        "Latent space",
+        "Latent space"
+    ],
+    "678": [
+        "Naive Bayes",
+        "Naive Bayes",
+        "Naive Bayes"
+    ],
+    "679": [
+        "CSV",
+        "CSV",
+        "CSV"
+    ],
+    "680": [
+        "Example pre-processed input for T5 summarization task:",
+        "Example pre-processed input for T5 summarization task:",
+        "Example pre-processed input for T5 summarization task:"
+    ],
+    "681": [
+        "Task 3 [MNLI 3 Class Natural Language Inference 3-class contradiction classification](",
+        "Task 3 [MNLI 3 Class Natural Language Inference 3-class contradiction classification](",
+        "Task 3 [MNLI 3 Class Natural Language Inference 3-class contradiction classification]("
+    ],
+    "682": [
+        "Sections",
+        "Sections",
+        "Sections"
+    ],
+    "683": [
+        "The model understands Vietnamese",
+        "The model understands Vietnamese",
+        "The model understands Vietnamese"
+    ],
+    "684": [
+        "Define model",
+        "Define model",
+        "Define Model"
+    ],
+    "685": [
+        "Test Your Solution",
+        "Test Your Solution",
+        "Test Your Solution"
+    ],
+    "686": [
+        "Histograms",
+        "histograms",
+        "Histograms"
+    ],
+    "687": [
+        "Create graph",
+        "Create graph",
+        "Create graph"
+    ],
+    "688": [
+        "Links",
+        "Links",
+        "Links"
+    ],
+    "689": [
+        "Background**",
+        "Background**",
+        "Background**"
+    ],
+    "690": [
+        "\u05ea\u05e8\u05d2\u05d9\u05dc\u05d9\u05dd",
+        "\u05ea\u05e8\u05d2\u05d9\u05dc\u05d9\u05dd",
+        "\u05ea\u05e8\u05d2\u05d9\u05dc\u05d9\u05dd"
+    ],
+    "691": [
+        "Model Selection",
+        "Model selection",
+        "Model Selection"
+    ],
+    "692": [
+        "Model Zoo Transfer Learning Example (VGG-16)",
+        "VGG-16 Model",
+        "Import Pre-Trained VGG-16"
+    ],
+    "693": [
+        "Discriminator",
+        "Discriminator",
+        "Discriminator"
+    ],
+    "694": [
+        "Natural Language Processing",
+        "**Natural Language Processing**",
+        "Natural Language Processing"
+    ],
+    "695": [
+        "Activation functions",
+        "Activation functions",
+        "Activation functions"
+    ],
+    "696": [
+        "Diagnostics",
+        "Diagnostics",
+        "Diagnostics"
+    ],
+    "697": [
+        "Analysis/Modeling",
+        "Analysis/Modeling",
+        "Analysis/Modeling"
+    ],
+    "698": [
+        "Cleanup data directory",
+        "Cleanup data directory",
+        "Cleanup data directory"
+    ],
+    "699": [
+        "OpenCV",
+        "OpenCV",
+        "OpenCV:"
+    ],
+    "700": [
+        "Deployment",
+        "Deployment",
+        "Deployment"
+    ],
+    "701": [
+        "2. Blogposts and videos:",
+        "Blogposts and videos",
+        "Blogposts and videos"
+    ],
+    "702": [
+        "Part f",
+        "Part a",
+        "Part a"
+    ],
+    "703": [
+        "1.6.6 \u4efb\u52a1\u516d\uff1a\u5206\u522b\u770b\u770b\u6cf0\u5766\u5c3c\u514b\u53f7\u6570\u636e\u96c6\u4e2d \u7968\u4ef7\u3001\u7236\u6bcd\u5b50\u5973 \u8fd9\u5217\u6570\u636e\u7684\u57fa\u672c\u7edf\u8ba1\u6570\u636e\uff0c\u4f60\u80fd\u53d1\u73b0\u4ec0\u4e48\uff1f",
+        "1.6.6 \u4efb\u52a1\u516d\uff1a\u5206\u522b\u770b\u770b\u6cf0\u5766\u5c3c\u514b\u53f7\u6570\u636e\u96c6\u4e2d \u7968\u4ef7\u3001\u7236\u6bcd\u5b50\u5973 \u8fd9\u5217\u6570\u636e\u7684\u57fa\u672c\u7edf\u8ba1\u6570\u636e\uff0c\u4f60\u80fd\u53d1\u73b0\u4ec0\u4e48\uff1f",
+        "1.6.6 \u4efb\u52a1\u516d\uff1a\u5206\u522b\u770b\u770b\u6cf0\u5766\u5c3c\u514b\u53f7\u6570\u636e\u96c6\u4e2d \u7968\u4ef7\u3001\u7236\u6bcd\u5b50\u5973 \u8fd9\u5217\u6570\u636e\u7684\u57fa\u672c\u7edf\u8ba1\u6570\u636e\uff0c\u4f60\u80fd\u53d1\u73b0\u4ec0\u4e48\uff1f"
+    ],
+    "704": [
+        "\ud83d\udccdBenchmark Report",
+        "Report Summary",
+        "Report"
+    ],
+    "705": [
+        "Accuracy",
+        "Accuracy",
+        "Accuracy"
+    ],
+    "706": [
+        "Pretrained NER Profiling Pipelines",
+        "Pretrained NER Profiling Pipelines",
+        "Pretrained NER Profiling Pipelines"
+    ],
+    "707": [
+        "Run the custom training job",
+        "Run the custom training job",
+        "Run the custom training job"
+    ],
+    "708": [
+        "Differencing",
+        "Differencing",
+        "Differencing"
+    ],
+    "709": [
+        "Tuples",
+        "Tuples",
+        "Tuples"
+    ],
+    "710": [
+        "Hardware Accelerators",
+        "Hardware Accelerators",
+        "Hardware Accelerators"
+    ],
+    "711": [
+        "1 Problem Statement",
+        "1 Problem Statement",
+        "1 Problem Statement"
+    ],
+    "712": [
+        "6. Visualize results",
+        "6. Visualize results",
+        "6. Visualize results"
+    ],
+    "713": [
+        "Import Modules",
+        "Import Modules",
+        "Import Modules"
+    ],
+    "714": [
+        "Splitting the Data",
+        "Splitting the data",
+        "Splitting the Data"
+    ],
+    "715": [
+        "[[2.32 7.54 9.78 1.73 6.22]",
+        "[[2.32 7.54 9.78 1.73 6.22]",
+        "[[1.73 2.32 6.22 7.54 9.78]"
+    ],
+    "716": [
+        "Loss Function and Optimizer",
+        "Loss function and optimizer",
+        "Loss function and optimizer"
+    ],
+    "717": [
+        "Events",
+        "Events",
+        "Events"
+    ],
+    "718": [
+        "Poisson processes and the Poisson distribution",
+        "Poisson processes and the Poisson distribution",
+        "Poisson processes and the Poisson distribution"
+    ],
+    "719": [
+        "Traffic Split",
+        "Traffic Split",
+        "Traffic split"
+    ],
+    "720": [
+        "Podcast Panel Discussion",
+        "Podcast Panel Discussion",
+        "Podcast Panel Discussion"
+    ],
+    "721": [
+        "5.2 Pooling layer backward pass",
+        "5.2 Pooling layer backward pass",
+        "5.2 Pooling layer backward pass"
+    ],
+    "722": [
+        "Categorical columns in a DataFrame",
+        "Get the Sum of All Columns in a pandas DataFrame",
+        "Get the Sum of All Columns in a pandas DataFrame"
+    ],
+    "723": [
+        "[[21 22 23 24 25]",
+        "[21 22 23 24 25]",
+        "[21 22 23 24 25]"
+    ],
+    "724": [
+        "Encoder",
+        "Encoder",
+        "Encoder"
+    ],
+    "725": [
+        "\u53c2\u8003",
+        "\u53c2\u8003",
+        "\u53c2\u8003"
+    ],
+    "726": [
+        "Memory",
+        "Memory",
+        "Memory"
+    ],
+    "727": [
+        "FGSM",
+        "FGSM",
+        "I-FGSM"
+    ],
+    "728": [
+        "Author: OMKAR PATHAK",
+        "Author: OMKAR PATHAK",
+        "Author: OMKAR PATHAK"
+    ],
+    "729": [
+        "Question",
+        "Question",
+        "Question"
+    ],
+    "730": [
+        "Load Model",
+        "Load model",
+        "Load model"
+    ],
+    "731": [
+        "Plot",
+        "Plot",
+        "Plot"
+    ],
+    "732": [
+        "Agenda",
+        "Agenda",
+        "Agenda"
+    ],
+    "733": [
+        "Final Capstone Projects",
+        "Final Capstone Projects",
+        "Final Capstone Projects"
+    ]
+}

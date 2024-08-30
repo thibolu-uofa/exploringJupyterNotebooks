@@ -1,0 +1,45 @@
+{'licenses': 287}
+{'elasticsearch and kubernetes, cluster infra': 2283}
+{'intrinsic extrinsisc eval': 156}
+{'convnet': 113}
+{'xgboost': 250}
+{'DNS': 103}
+{'Elasticsearch': 1172}
+{'IAM': 49}
+{'bandits': 60}
+{'permission security keys policies proxy certificates': 799}
+{'Visualizations': 155}
+{'pandas': 254}
+{'shap': 144}
+{'health': 68}
+{'hadoop': 2012}
+{'sql server': 335}
+{'bayseian optmization': 192}
+{'kalman filter': 160}
+{'finance': 500}
+{'encoder decoder': 235}
+{'tree ensembles': 188}
+{'statistics, simulations, gumbel, monte carlos, covariance matrix': 687}
+{'NER': 37}
+{'feature extraction': 245}
+{'powersehll security': 179}
+{'nlp: language translation, sentiment analysis, aspect extraction, llm, rag  QA': 764}
+{'reinforcement learning': 92}
+{'music xml': 130}
+{'computer vision': 759}
+{'Docker': 198}
+{'convolucao': 174}
+{'diffusion': 30}
+{'t5': 39}
+{'modelarts': 291}
+{'logistic regression': 357}
+{'transformers': 298}
+{'CNN': 101}
+{'GNN e CNN': 629}
+{'tensorflow': 429}
+{'agents chat': 71}
+{'deep learning': 872}
+{'python infra, deploy': 1644}
+{'forecasting predictions': 384}
+{'dataset preparation': 1427}
+{'covid-19': 158}
