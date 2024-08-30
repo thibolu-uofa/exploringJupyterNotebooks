@@ -1,0 +1,107 @@
+absent location in GitHub 4893
+United States 2415
+Germany 373
+United Kingdom 356
+India 318
+China 308
+Canada 250
+France 193
+geopy could not find 166
+Japan 152
+Switzerland 115
+Brazil 107
+Australia 106
+Netherlands 94
+Spain 85
+South Korea 76
+Singapore 70
+Poland 62
+Italy 55
+Israel 45
+Austria 44
+Russia 37
+Taiwan 33
+Czechia 32
+Portugal 32
+Sweden 31
+Finland 31
+Norway 30
+Denmark 26
+Belgium 26
+Ireland 23
+Central African Republic 21
+Turkey 18
+Mexico 16
+Vietnam 14
+Ukraine 14
+Romania 13
+Philippines 13
+New Zealand 12
+Indonesia 9
+United Arab Emirates 9
+Bulgaria 8
+South Africa 8
+Chile 7
+Malaysia 7
+Hungary 7
+Colombia 6
+Pakistan 6
+Slovakia 6
+Egypt 6
+Nigeria 6
+Iran 6
+Greece 6
+Argentina 6
+Moldova 5
+Sri Lanka 5
+Cyprus 5
+Saudi Arabia 5
+Georgia 5
+Estonia 4
+Belarus 4
+Nepal 4
+Uruguay 4
+Kenya 3
+Iceland 3
+Peru 3
+Bangladesh 3
+Armenia 3
+Tunisia 3
+Azerbaijan 2
+Côte d'Ivoire 2
+Senegal 2
+El Salvador 2
+Lithuania 2
+Thailand 2
+Cameroon 2
+Malawi 2
+Slovenia 2
+Benin 1
+Ghana 1
+Bolivia 1
+Uganda 1
+Albania 1
+Cuba 1
+East Timor 1
+Rwanda 1
+Algeria 1
+Trinidad and Tobago 1
+Latvia 1
+Tajikistan 1
+Guatemala 1
+Angola 1
+Serbia 1
+Myanmar 1
+Bosnia and Herzegovina 1
+Lebanon 1
+Guyana 1
+Morocco 1
+Jordan 1
+Ethiopia 1
+Mongolia 1
+Dominican Republic 1
+Croatia 1
+Costa Rica 1
+Sudan 1
+Panama 1
+North Macedonia 1

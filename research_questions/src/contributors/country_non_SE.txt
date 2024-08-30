@@ -1,0 +1,113 @@
+absent location in GitHub 4820
+United States 1685
+India 1445
+China 402
+Germany 273
+United Kingdom 270
+Canada 239
+France 196
+geopy could not find 190
+Turkey 126
+Japan 116
+Australia 109
+Brazil 102
+South Korea 102
+Spain 95
+Switzerland 90
+Russia 86
+Netherlands 82
+Italy 73
+Singapore 55
+Poland 45
+Pakistan 36
+Indonesia 35
+Ireland 32
+Taiwan 30
+Belgium 28
+Portugal 27
+Sri Lanka 27
+Austria 26
+Sweden 25
+Norway 24
+Israel 23
+Egypt 23
+Central African Republic 20
+New Zealand 20
+Mexico 20
+Argentina 20
+Denmark 18
+Philippines 18
+Nigeria 17
+Kenya 16
+Bangladesh 16
+Nepal 15
+Vietnam 15
+Czechia 14
+South Africa 13
+Finland 13
+Iran 13
+Ukraine 13
+Greece 12
+United Arab Emirates 11
+Thailand 10
+Slovakia 9
+Algeria 8
+Saudi Arabia 8
+Malaysia 8
+Morocco 8
+Slovenia 6
+Serbia 6
+Colombia 6
+Croatia 6
+Hungary 6
+Cyprus 5
+Georgia 5
+Bulgaria 5
+Chile 5
+Romania 5
+Ecuador 4
+Uruguay 4
+Estonia 4
+Tunisia 4
+Peru 4
+Kazakhstan 4
+Malawi 3
+North Korea 3
+Yemen 3
+Lithuania 3
+Armenia 3
+Ghana 2
+Paraguay 2
+Venezuela 2
+Jordan 2
+Uganda 2
+Cameroon 2
+Luxembourg 2
+Bolivia 2
+Costa Rica 2
+North Macedonia 2
+Mozambique 2
+Sudan 1
+Latvia 1
+Madagascar 1
+Uzbekistan 1
+Botswana 1
+Bosnia and Herzegovina 1
+Chad 1
+Seychelles 1
+Moldova 1
+Afghanistan 1
+Benin 1
+Saint Helena, Ascension and Tristan da Cunha 1
+Guinea 1
+Senegal 1
+Mauritius 1
+Tanzania 1
+Sierra Leone 1
+Kuwait 1
+Bahrain 1
+Guatemala 1
+Iceland 1
+Cuba 1
+Jamaica 1
+Lebanon 1

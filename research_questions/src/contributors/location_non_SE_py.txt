@@ -1,0 +1,720 @@
+India 44
+Seattle, WA 16
+Beijing, China 15
+France 15
+United States 13
+Beijing 13
+Germany 12
+London, UK 12
+Argentina 11
+New York 11
+Spain 11
+Shanghai 11
+San Francisco 11
+New York, NY 11
+Shanghai, China 11
+London 10
+Berlin 10
+127.0.0.1 9
+United Kingdom 9
+Bangalore, India 9
+San Francisco, CA 8
+Netherlands 8
+China 8
+Colombia 8
+Paris, France 7
+California 7
+Bangalore 7
+Bengaluru, India 7
+UK 7
+Buenos Aires, Argentina 7
+Amsterdam 6
+Austin, TX 6
+Barcelona 6
+New Delhi 6
+Cambridge, UK 5
+Dublin, Ireland 5
+Japan 5
+USA 5
+Berlin, Germany 5
+Sydney, Australia 5
+Seattle 5
+Canada 5
+Earth 5
+Singapore 5
+Mexico 5
+Madrid, Spain 5
+Melbourne, Australia 4
+México 4
+Indonesia 4
+Pittsburgh, PA 4
+NYC 4
+Hyderabad 4
+Helsinki, Finland 4
+San Diego, CA 4
+Chicago 4
+Philadelphia, PA 4
+Taipei, Taiwan 4
+London, United Kingdom 4
+Portland, OR 4
+Vancouver, BC, Canada 4
+Hamburg, Germany 4
+Brasil 4
+Brazil 4
+Bengaluru 4
+Italy 3
+Pune 3
+Mumbai 3
+Taiwan 3
+Chile 3
+Beijing,China 3
+Geneva, Switzerland 3
+Hangzhou 3
+Remote 3
+Sunnyvale, CA 3
+Paris 3
+Warsaw, Poland 3
+Córdoba, Argentina 3
+Switzerland 3
+Australia 3
+Boston 3
+Boston, MA 3
+Ireland 3
+Thailand 3
+Durham, NC 3
+Belgium 3
+Los Angeles 3
+Dominican Republic 3
+Shenzhen 2
+Jakarta, Indonesia 2
+Lisbon 2
+Valparaíso, Chile 2
+Kerala 2
+Tel Aviv, Israel 2
+New York City 2
+Munich 2
+São Paulo 2
+Chicago, Illinois 2
+Sevilla 2
+Ukraine 2
+Vancouver 2
+Cleveland, OH 2
+New Jersey 2
+Mexico City 2
+Lahore, Pakistan 2
+Reston, VA 2
+Toronto 2
+Montreal 2
+Hanoi, Vietnam 2
+Paraguay 2
+Seoul 2
+Hangzhou, China 2
+Austin 2
+Montreal, Canada 2
+Santiago, Chile 2
+Southern California 2
+Viet Nam 2
+Ho Chi Minh City 2
+BeiJing 2
+Perú 2
+Denver, CO 2
+Madrid 2
+Flagstaff, AZ 2
+Mountain View 2
+Porto alegre 2
+istanbul 2
+Berkeley, California 2
+Munich, Germany 2
+Johannesburg, South Africa 2
+The Internet 2
+Bristol 2
+Massachusetts, USA 2
+Kolkata 2
+Vancouver, Canada 2
+Portland, Oregon 2
+Portugal 2
+Irvine, CA 2
+Kerala India 2
+Toronto, Ontario 2
+Toruń, Poland 2
+Sweden 2
+Poland 2
+Stockholm 2
+Bronx, NY, USA 2
+Cambridge, MA 2
+Sydney 2
+Oslo, Norway 2
+Perth, Western Australia 2
+Pennsylvania, USA 2
+Shanghai,China 2
+Redmond, WA 2
+Europe 2
+Lagos, Nigeria 2
+Seoul, South Korea 2
+Prague, Czech Republic 2
+Athens, Greece 2
+Delhi, India 2
+Kathmandu, Nepal 2
+Seattle, WA, USA 2
+Indore, India 2
+New Delhi, India 2
+Turkey 2
+Shenzhen,China 2
+Barcelona, Catalunya, Spain 1
+Home 1
+Tamil Nadu, INDIA 1
+Dunster, BC 1
+中国 1
+Pune/Bangalore 1
+Republic of Korea 1
+Gujarat ,India 1
+Neptune 1
+Baltimore, MD 1
+Tokyo, Japan. 1
+Paris - France 1
+Mumbai, IN 1
+Kanagawa, Japan 1
+Jaipur, India 1
+Saarbrucken, Germany 1
+India | Bangalore 1
+Coimbatore, India 1
+Biskra, Algeria 1
+Chennai,India 1
+Ecuador 1
+Jalandhar, India 1
+Dubai 1
+smileland 1
+São Paulo, Brazil 1
+Coimbatore, Tamil Nadu, India 1
+Igarapé-açu, Brazil 1
+Howrah, West Bengal, India 1
+Lindau (Bondensee), Germany 1
+New York, New York 1
+Noida 1
+Noida, India 1
+Tenerife, Canary Islands, Spain 1
+Nepal 1
+Indore 1
+Ha Noi, Viet Nam 1
+Your root shell 1
+Chandigarh, India 1
+Mars , Milky Way 1
+China, Beijing 1
+Savannah, GA 1
+Daejeon, Korea 1
+Venado Tuerto, Argentina 1
+Seoul, Korea 1
+Tempe 1
+Haifa IDC 1
+Novi Sad, Serbia 1
+苏州 1
+Carol Stream, IL, USA 1
+Istanbul, Turkey 1
+the universe 1
+Vienna, Austria 1
+Bavaria 1
+University of Cambridge 1
+Richmond, CA 1
+Brighton, UK 1
+Albuquerque, NM 1
+Calgary, Alberta, Canada 1
+Taipei City, Taiwan 1
+Tempe, AZ 1
+Sacramento, CA 1
+Milano 1
+Phoenix, AZ 1
+shenzhen 1
+São Paulo, Brazil, Earth, Sun, Milky Way. 1
+India, Earth! 1
+Taipei 1
+Zurich 1
+Hangzhou, Zhejiang, China 1
+Istanbul 1
+Hong Kong 1
+Glasgow, United Kingdom 1
+Innsbruck 1
+Mountain View, CA 1
+Bangalore India 1
+Ranchi, Jharkhand, India 1
+India(Rajasthan) 1
+ShangHai, China 1
+Ludwigshafen am Rhein / Germany 1
+Houchang 1
+Palo Alto, California 1
+beijing, china 1
+Detroit, USA 1
+Halifax, NS, Canada 1
+San Mateo, California, USA 1
+Kansas City, MO 1
+Jundiaí 1
+San Jose 1
+Boston, MA, USA 1
+ShenZhen China 1
+昆山 1
+Tampa, FL 1
+Xiamen, China 1
+Jiangsu 1
+Cambridge, Ma 1
+The place where there is no darkness. 1
+Shenzhen, PRC 1
+Suzhou China 1
+Reading, UK 1
+Kay pacha 1
+Montréal 1
+Peking University 1
+Atlanta 1
+Shanghai , China 1
+800 Dongchuan Road, Shanghai, China 1
+Atlanta, GA 1
+Shanghai&Changchun 1
+Greater Boston Area, US 1
+ Germany 1
+Rennes, France 1
+Austin, Texas 1
+Santa Fe, Argentina 1
+Louisville, Kentucky 1
+Brussels 1
+Denver, CO, USA 1
+Lexington, VA 1
+Bremen 1
+North Ayrshire, Scotland 1
+London, England 1
+Shanghai Jiao Tong University 1
+Shanghai, China ↔️ Fuzhou, China 1
+Vigo, Spain (remote) 1
+Pittsburgh, PA, USA ⇌ Shanghai, China 1
+Maryland, USA 1
+San Luis Obispo, CA 1
+Murfreesboro, Tennessee 1
+Saint Charles, Missouri, USA, Earth, Sol 1
+Halifax, NS 1
+Leander, TX 1
+Copenhagen, Denmark 1
+Philadelphia USA 1
+Salt Lake City, UT 1
+Vancouver, B.C. 1
+Scandinavia 1
+Marseille 1
+The Tubes 1
+Wöllstein, Germany 1
+Ashburn,VA 1
+best coast, BC, Canada 1
+哈尔滨 1
+Edinburgh 1
+Aranjuez 1
+Jaén 1
+Wrocław 1
+Madison, Wiconsin 1
+Shanghai， China 1
+Guildford, UK 1
+Koshigaya, Japan 1
+Hangzhou, CN 1
+WA 1
+Long Beach, CA 1
+Colorado 1
+NYC, USA 1
+Zurich  1
+Planet Earth 1
+Hudson Valley 1
+US 1
+Rosario, Argentina 1
+world / krk. 1
+Chengdu Sichuan, China 1
+CEA Saclay - NeuroSpin 1
+Global citizen 1
+Germany, Bavaria 1
+Portsmouth, VA 1
+Sofia, Bulgaria 1
+Rotterdam, The Netherlands 1
+Auckland 1
+Dallas, Texas, US, Earth 1
+Sao Paulo 1
+chengdu 1
+beijing 1
+Pittsburgh, PA, U.S.A. 1
+Memorised up to 33.875, -117.78 1
+Seatte, WA 1
+WA, US 1
+SF Bay Area 1
+Copenhagen 1
+Los Angeles, CA USA 1
+Near The Nature. 1
+Champaign, IL 1
+New York, NYC 1
+cn.Shannxi.Xi'an 1
+Cambridge 1
+hangzhou 1
+Riohacha-La Guajira 1
+Vitoria, Basque Country, Spain 1
+La Plata/Viedma, AR 1
+Lima. Perù 1
+Spain  1
+Asunción - Paraguay 1
+Tenerife, Spain 1
+Panama City, Panama 1
+Atuntaqui - Ecuador 1
+Mallorca 1
+Vigo/Galiza/Spain 1
+Lima - Perú 1
+Valencia, Spain 1
+/usr/bin/ 1
+New York, USA 1
+Buenos Aires  1
+Cuenca,Ecuador 1
+Barranquilla - Colombia 1
+Bogota, Colombia 1
+Baradero 1
+Toulouse 1
+9 de Julio, Buenos Aires, Argentina 1
+Berlin (Germany) 1
+Toulouse, France 1
+Arequipa, Perú 1
+Rosario, AR 1
+Tenerife 1
+lyon/France 1
+Los Cardales, Argentina 1
+San Luis Potosí, México 1
+Cali, Colombia 1
+Barranquilla, Colombia 1
+Motril 1
+Valencia 1
+Remoting in CEST 1
+La Serena, Chile 1
+Victorville California 1
+Logroño 1
+Granada, Spain 1
+NY 1
+Wuhan, China 1
+Resistencia Chaco 1
+Düsseldorf - Germany 1
+Barranquilla,Colombia 1
+Aguascalientes, Mexico 1
+La Paz 1
+Bogotá, Colombia 1
+Muscat 1
+Medellín 1
+Anywhere 1
+Guatemala 1
+Mérida, Yucatán, México 1
+Ciudad de México 1
+Barranquilla 1
+Buenos Aires 1
+Toluca, Estado de Mexico 1
+Wonderland 1
+Quito 1
+CDMX, Mexico 1
+Waco, Texas, USA 1
+The Interwebs 1
+NIcaragua 1
+Argentina, Buenos Aires 1
+Posadas, Argentina 1
+Mejillones, Chile 1
+Bahía Blanca, Provincia de Buenos Aires, Argentina 1
+Donosti, Spain 1
+Barcelona, Spain 1
+CDMX 1
+Asunción, Paraguay 1
+Barranquilla  1
+Buenos Aires, Argentina. 1
+Guadalajara, Jalisco , Mexico 1
+El Bolsón, Río Negro, Argentina 1
+Ciudad de Guatemala, Guatemala. 1
+LATAM 1
+Caracas, Venezuela 1
+Santo Domingo, DR 1
+Rio de Janeiro, Brazil 1
+Kolkata, India 1
+Tamil Nadu, India 1
+Jaipur,302029 1
+Redding, CA 1
+Vinhedo 1
+Igarassu 1
+Perth, Australia 1
+www 1
+Russia 1
+Sunnyvale, California 1
+Montreal, Quebec, Canada 1
+Delhi NCR 1
+INDIA 1
+Bekasi 1
+Noida,India 1
+North India 1
+BITS Pilani, India 1
+Greater Boston, MA 1
+North Little Rock, Arkansas, USA 1
+Yogyakarta, Indonesia 1
+A non-Euclidean world 1
+South Africa 1
+Thapar Institute of Engineering & Technology, Patiala 1
+Joinville 1
+thailand 1
+Ahmedabad  1
+Laguna,Philippines 1
+caloocan city 1
+gandhinagar 1
+Agra, UP, India 1
+Kerala, India 1
+pondicherry 1
+Bali, Indonesia 1
+kolkata 1
+Governador Valadares 1
+Kediri, East Java 1
+Banjar Patroman, Jawa Barat - Indonesia 1
+Army Institute Of Technology, Pune 1
+Trichy 1
+Linz, Austria 1
+Delhi, Gurugram 1
+London, UK. 1
+Tissamaharama 1
+Oran,Algeria 1
+Surabaya, Jawa Timur, Indonesia. 1
+Oakland, CA 1
+Porto, Portugal 1
+Denmark 1
+Bozeman, MT 1
+Santa Cruz de Tenerife 1
+Gwangju 1
+Pankyo 1
+Aachen, Germany 1
+Vietnam 1
+Île-de-France 1
+Dublin 1
+Gurgaon 1
+Bangkok, Thailand. 1
+Ludhiana,Punjab or Patiala,Punjab 1
+Bangalore, Karnataka, India 1
+Jodhpur, Rajasthan 1
+Dhaka, Bangladesh 1
+New Delhi  1
+ India 1
+Patiala, India 1
+Sydney, Australia (Remote) 1
+127.0.0.1 ✧ কলকাতা 1
+Bandung - Indonesia 1
+Telangana, India 1
+São Paulo - Brazil 1
+Raleigh 1
+Faridabad, Haryana 1
+Roorkee 1
+Greater Noida, UP 1
+Udaipur, Rajasthan 1
+Goa, India 1
+IIT Roorkee 1
+Los Angeles, California 1
+Edmonton, Canada 1
+Worcestershire 1
+North Carolina, USA 1
+Pune, India 1
+Pasadena, CA 1
+Bretagnie 1
+Kentville, Nova Scotia 1
+Vancouver Island, Canada 1
+Rochester, NY 1
+Abidjan, CI 1
+Melbourne, Australia  1
+Leicester, United Kingdom 1
+localhost:3001 1
+Ukraine, Lviv 1
+Waterloo,Canada 1
+Brisbane, Australia 1
+Arnhem 1
+Iceland 1
+Lyon, France 1
+TOKYO 1
+Wuhan, Hubei, China 1
+Gdańsk, Poland 1
+Chattanooga, TN 1
+Ravenna, Italy 1
+Bristol, UK 1
+Hobart, Tasmania 1
+Hardenberg, The Netherlands 1
+Guangdong Shenzhen 1
+Bay Area, CA 1
+Oxford, UK 1
+~ 1
+Bristol–Jakarta 1
+Chapel Hill, NC 1
+Dehradun 1
+Hyderabad, India 1
+Salvador do Sul, RS/Brasil 1
+Bangalore , India 1
+Bulgaria 1
+Hapur 1
+Pune, Maharashtra 1
+Campina Grande - PB 1
+Somewhere in the world... 1
+Aligarh 1
+Sonbhadra 1
+pune 1
+Orlando, FL 1
+Colombo 1
+Harare, zimbabwe 1
+Bhubaneswar, Odisha, India 1
+Bareilly,India 1
+Jaipur, Rajasthan, India 1
+Hyderabad , India  1
+BR 1
+Uttarakhand,India 1
+Texas 1
+Aurangabad, Maharashtra, India. 1
+Bengaluru , Karnataka 1
+Chiang Mai 1
+Indianapolis, IN 1
+Bhubaneswar 1
+Sri Lanka 1
+Kochi, Kerala 1
+Vellore,India 1
+San Benito, Tx 1
+Punjab, India 1
+Piauí, Brazil 1
+Jhansi 1
+walasmulla 1
+Ponorogo , ID 1
+Busan 1
+Ha Noi Viet Nam 1
+Kharagpur, West Bengal, India 1
+पुणे 1
+Cambridge, United Kingdom 1
+Moscow region, Russia 1
+Menlo Park, CA 1
+Masuria, Poland 1
+Lakewood, Colorado 1
+Cannot mention in a searchable field: https://www.opennet.ru/opennews/art.shtml?num=59517 1
+Stuttgart 1
+Duisburg, Germany 1
+Madrid, Spain, EU. 1
+Turku, Finland 1
+Minneapolis, MN 1
+Baltimore, MD, USA 1
+Somerville, MA 1
+Brno 1
+Tabriz, Iran 1
+Mauritius 1
+FL, US 1
+Orinda, CA 1
+Rochester, MN, USA 1
+Sandnes, Norway 1
+San Diego 1
+London, Yorkshire, Oxford 1
+Poznań, Poland 1
+Czech Republic 1
+MA USA 1
+Somewhere in southern Turkey 1
+Pittsburgh, PA, USA 1
+San Francisco Bay Area 1
+Antalya, Turkey 1
+Santa Clara, California 1
+Huntsville, AL, United States 1
+Costa Mesa, California 1
+WA, USA 1
+England 1
+localhost 1
+Ho Chi Minh 1
+Bayreuth/Germany 1
+Ivano-Frankivsk, Ukraine 1
+Birmingham, AL 1
+Belfast 1
+New Brunswick, Canada 1
+BC, Canada 1
+Chengdu, China 1
+Auckland, NZ 1
+IL 1
+Cairo, Egypt 1
+Princeton, New York, Zürich 1
+Groningen 1
+_KaszpiR_ 1
+Kottayam, Kerala 1
+Navi Mumbai,Maharashtra 1
+Mumbai, India 1
+Punjab [ INDIA ] 1
+Southampton, England 1
+Malatya, Turkey 1
+Gijon 1
+Rapid City, SD 1
+Melbourne, AU 1
+Columbus, Ohio 1
+Transnistria, Tiraspol 1
+Mumbai, Maharashtra, India 1
+Reggio Emilia, ITALY 1
+Saitama, Japan 1
+Leicestershire, UK 1
+Kampala-Uganda 1
+Bristol, United Kingdom 1
+Leipzig, Germany 1
+London  1
+Magnolia Springs, AL 1
+Darmstadt, Germany 1
+Missouri, USA 1
+München 1
+Houston, TX, US 1
+Troy, MI 1
+Ostrava 1
+Bournemouth, England 1
+suzhou 1
+Viana do Castelo, Portugal 1
+San Jose, CA 1
+Oregon, USA 1
+Cary, NC 1
+Washington 1
+New Zealand 1
+VA / DC Area 1
+Powhatan, VA 1
+Cary NC 27519 1
+Dallas, TX 1
+Lexington, KY 1
+Montréal, Canada 1
+Malaysia, Earth 1
+Los Angeles, CA 1
+Safe in the Gitter den 1
+Sunnyvale 1
+Saigon,Vietnam 1
+Menlo Park 1
+Hanoi 1
+Tokyo, Japan 1
+Ho Chi Minh City, VN 1
+Illinois, US 1
+Belfast, NI, United Kingdom 1
+Salem, MA 1
+Ho Chi Minh City, Vietnam 1
+Palo Alto, CA 1
+VietNam 1
+Flagstaff, Arizona, USA 1
+USA, Utah, Salt Lake City 1
+Madison, WI 1
+Plano, TX 1
+Taipei , Taiwan 1
+San Diego, California 1
+'-confirm `1`-' 1
+/dev/fd0 1
+Halle (Saale) 1
+Jena/Thuringia 1
+Luxembourg 1
+ChangChun, JiLin Province 1
+Nanjing 1
+San Francisco, CA, United States 1
+Finland 1
+Budapest, Hungary 1
+Washington, DC 1
+https://vimeo.com/189016018 1
+TX 1
+UC Berkeley 1
+Suzhou, China 1
+SF & Waterloo & Vancouver & Taipei 1
+Koto City , Tokyo 1
+Highlands Ranch, Colorado 1
+Boise, ID 1
+Taiwan, Taipei 1
+Stockholm, Sweden 1
+Gold Coast, Australia 1
+Near Costa Rica 1
+Podgorica, Montenegro 1
+Sarasota, FL, USA 1
+PNW 1
+Israel 1
+Bordeaux, France 1
+Sophia Antipollis 1
+Herndon, VA 1
+Seattle, Washington 1
+NL 1
+London, UK / Porto, Portugal 1
+Peking 1

@@ -1,0 +1,129 @@
+absent location in GitHub 8625
+United States 3527
+Germany 962
+China 721
+United Kingdom 721
+France 589
+India 554
+Canada 483
+geopy could not find 426
+Australia 322
+Netherlands 322
+Switzerland 271
+Japan 266
+Spain 216
+Poland 212
+Brazil 196
+Sweden 178
+Italy 174
+Czechia 154
+Russia 139
+Austria 126
+Finland 122
+South Korea 107
+Ukraine 107
+Belgium 100
+Portugal 88
+Singapore 87
+Israel 86
+Norway 84
+Taiwan 79
+Central African Republic 78
+Ireland 75
+Turkey 58
+New Zealand 53
+Denmark 53
+Indonesia 46
+Argentina 44
+Greece 41
+Romania 40
+Hungary 36
+South Africa 33
+Philippines 29
+Malaysia 26
+Vietnam 25
+Mexico 25
+Colombia 22
+Bulgaria 22
+Slovenia 19
+Estonia 19
+Slovakia 19
+Belarus 17
+Cyprus 17
+Serbia 16
+Egypt 15
+Chile 15
+Nepal 15
+Lithuania 14
+Uruguay 13
+Kazakhstan 13
+Pakistan 12
+Ecuador 11
+Iran 11
+Croatia 11
+Armenia 11
+Thailand 10
+Iceland 10
+United Arab Emirates 10
+Georgia 9
+Bangladesh 9
+Luxembourg 8
+Costa Rica 8
+Nigeria 8
+Peru 7
+Kenya 7
+Latvia 6
+Kyrgyzstan 5
+Saudi Arabia 5
+Algeria 5
+Cameroon 4
+Uzbekistan 4
+Morocco 4
+Uganda 4
+Paraguay 4
+Dominican Republic 4
+Andorra 3
+Oman 3
+Azerbaijan 3
+Moldova 3
+Malawi 3
+El Salvador 2
+Mauritius 2
+Afghanistan 2
+Cayman Islands 2
+Panama 2
+Seychelles 2
+Democratic Republic of the Congo 2
+Sri Lanka 2
+Somalia 2
+Cuba 2
+Albania 2
+Suriname 1
+Turks and Caicos Islands 1
+Bosnia and Herzegovina 1
+Jersey 1
+Senegal 1
+Rwanda 1
+Côte d'Ivoire 1
+Tokelau 1
+Mongolia 1
+Iraq 1
+Guatemala 1
+Jamaica 1
+Barbados 1
+Ethiopia 1
+Qatar 1
+Namibia 1
+Tunisia 1
+Zambia 1
+Vatican City 1
+Laos 1
+Kuwait 1
+Bolivia 1
+Bahrain 1
+Myanmar 1
+Malta 1
+Yemen 1
+Angola 1
+Sierra Leone 1
+Brunei 1
